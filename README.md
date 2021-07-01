@@ -20,6 +20,6 @@
 <code>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png"></code>    
 
-### 🎉 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 🎉 My GitHub Status
+![bronystylecrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronystylecrazy&show_icons=true&theme=radical)
+
