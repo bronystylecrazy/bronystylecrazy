@@ -23,5 +23,8 @@
 ### 🎉 My GitHub Status
 ![bronystylecrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronystylecrazy&show_icons=true&theme=radical)
 
+### 🎉 My GitHub Activity
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
