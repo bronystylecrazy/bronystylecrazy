@@ -25,13 +25,7 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 10th, 2021, 11:57:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bronystylecrazy/recent-activity](https://github.com/bronystylecrazy/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 🔱 Forked [bronystylecrazy/jamesgeorge007](https://github.com/bronystylecrazy/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-3. 🔱 Forked [bronystylecrazy/sw-yx](https://github.com/bronystylecrazy/sw-yx) from [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
-4. ⭐ Starred [bronystylecrazy/anuraghazra](https://github.com/bronystylecrazy/anuraghazra)
-5. ⭐ Starred [bronystylecrazy/codeSTACKr](https://github.com/bronystylecrazy/codeSTACKr)
 <!--RECENT_ACTIVITY:end-->
