@@ -21,7 +21,7 @@
 <img height="20" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png"></code>    
 
 ### 🎉 My GitHub Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brony&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bronystylecrazy&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![bronystylecrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronystylecrazy&show_icons=true&theme=radical&hide_border=true)
 
 ### ✨ My GitHub Activity
