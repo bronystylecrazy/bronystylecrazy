@@ -26,5 +26,5 @@
 ### 🎉 My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:last_update_end-->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:activity-->
+<!--RECENT_ACTIVITY:activity-->
