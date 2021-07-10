@@ -22,13 +22,12 @@
 
 ### 🎉 My GitHub Status
 ![bronystylecrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronystylecrazy&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, July 10th, 2021, 11:57:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [bronystylecrazy/recent-activity](https://github.com/bronystylecrazy/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 2. 🔱 Forked [bronystylecrazy/jamesgeorge007](https://github.com/bronystylecrazy/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
