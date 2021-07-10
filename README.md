@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 10th, 2021, 10:07:55 PM
+Last Updated: Saturday, July 10th, 2021, 10:42:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [narze/awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
-2. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
-3. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🔱 Forked [bronystylecrazy/awesome-salim-quotes](https://github.com/bronystylecrazy/awesome-salim-quotes) from [narze/awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
-5. 🔱 Forked [bronystylecrazy/recent-activity](https://github.com/bronystylecrazy/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. 🔱 Forked [bronystylecrazy/jamesgeorge007](https://github.com/bronystylecrazy/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-7. 🔱 Forked [bronystylecrazy/sw-yx](https://github.com/bronystylecrazy/sw-yx) from [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
-8. ⭐ Starred [bronystylecrazy/anuraghazra](https://github.com/bronystylecrazy/anuraghazra)
+1. ⭐ Starred [rayriffy/thai-lotto-api](https://github.com/rayriffy/thai-lotto-api)
+2. ⭐ Starred [narze/awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
+3. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+4. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+5. 🔱 Forked [bronystylecrazy/awesome-salim-quotes](https://github.com/bronystylecrazy/awesome-salim-quotes) from [narze/awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
+6. 🔱 Forked [bronystylecrazy/recent-activity](https://github.com/bronystylecrazy/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. 🔱 Forked [bronystylecrazy/jamesgeorge007](https://github.com/bronystylecrazy/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+8. 🔱 Forked [bronystylecrazy/sw-yx](https://github.com/bronystylecrazy/sw-yx) from [sw-yx/sw-yx](https://github.com/sw-yx/sw-yx)
 <!--RECENT_ACTIVITY:end-->
