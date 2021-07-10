@@ -22,7 +22,7 @@
 
 ### 🎉 My GitHub Status
 ![bronystylecrazy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronystylecrazy&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
