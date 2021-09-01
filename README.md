@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 1st, 2021, 9:33:53 PM
+Last Updated: Wednesday, September 1st, 2021, 10:08:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss)
-2. ⭐ Starred [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
-3. 📔 Created new repository [bronystylecrazy/simple-vdom](https://github.com/bronystylecrazy/simple-vdom)
-4. ⭐ Starred [rayriffy/thai-lotto-api](https://github.com/rayriffy/thai-lotto-api)
-5. ⭐ Starred [narze/awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
-6. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
-7. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-8. 🔱 Forked [bronystylecrazy/awesome-salim-quotes](https://github.com/bronystylecrazy/awesome-salim-quotes) from [narze/awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
+1. 🔱 Forked [bronystylecrazy/hyperactiv](https://github.com/bronystylecrazy/hyperactiv) from [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv)
+2. ⭐ Starred [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss)
+3. ⭐ Starred [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
+4. 📔 Created new repository [bronystylecrazy/simple-vdom](https://github.com/bronystylecrazy/simple-vdom)
+5. ⭐ Starred [rayriffy/thai-lotto-api](https://github.com/rayriffy/thai-lotto-api)
+6. ⭐ Starred [narze/awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
+7. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+8. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--RECENT_ACTIVITY:end-->
