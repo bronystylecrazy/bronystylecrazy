@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 3rd, 2021, 5:38:10 PM
+Last Updated: Friday, September 3rd, 2021, 6:06:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bronystylecrazy/KMUTT-Work](https://github.com/bronystylecrazy/KMUTT-Work) from [Mixko50/KMUTT-Work](https://github.com/Mixko50/KMUTT-Work)
-2. 🔱 Forked [bronystylecrazy/hyperactiv](https://github.com/bronystylecrazy/hyperactiv) from [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv)
-3. ⭐ Starred [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss)
-4. ⭐ Starred [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
-5. 📔 Created new repository [bronystylecrazy/simple-vdom](https://github.com/bronystylecrazy/simple-vdom)
-6. ⭐ Starred [rayriffy/thai-lotto-api](https://github.com/rayriffy/thai-lotto-api)
-7. ⭐ Starred [narze/awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
-8. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+1. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)
+2. 🔱 Forked [bronystylecrazy/KMUTT-Work](https://github.com/bronystylecrazy/KMUTT-Work) from [Mixko50/KMUTT-Work](https://github.com/Mixko50/KMUTT-Work)
+3. 🔱 Forked [bronystylecrazy/hyperactiv](https://github.com/bronystylecrazy/hyperactiv) from [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv)
+4. ⭐ Starred [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss)
+5. ⭐ Starred [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
+6. 📔 Created new repository [bronystylecrazy/simple-vdom](https://github.com/bronystylecrazy/simple-vdom)
+7. ⭐ Starred [rayriffy/thai-lotto-api](https://github.com/rayriffy/thai-lotto-api)
+8. ⭐ Starred [narze/awesome-salim-quotes](https://github.com/narze/awesome-salim-quotes)
 <!--RECENT_ACTIVITY:end-->
