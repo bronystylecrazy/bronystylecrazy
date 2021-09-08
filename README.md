@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 8th, 2021, 9:33:48 PM
+Last Updated: Wednesday, September 8th, 2021, 10:08:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [estree/estree](https://github.com/estree/estree)
-2. ⭐ Starred [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
-3. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)
-4. 🔱 Forked [bronystylecrazy/KMUTT-Work](https://github.com/bronystylecrazy/KMUTT-Work) from [Mixko50/KMUTT-Work](https://github.com/Mixko50/KMUTT-Work)
-5. 🔱 Forked [bronystylecrazy/hyperactiv](https://github.com/bronystylecrazy/hyperactiv) from [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv)
-6. ⭐ Starred [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss)
-7. ⭐ Starred [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
-8. 📔 Created new repository [bronystylecrazy/simple-vdom](https://github.com/bronystylecrazy/simple-vdom)
+1. 📔 Created new repository [bronystylecrazy/HBD-THUN](https://github.com/bronystylecrazy/HBD-THUN)
+2. ⭐ Starred [estree/estree](https://github.com/estree/estree)
+3. ⭐ Starred [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
+4. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)
+5. 🔱 Forked [bronystylecrazy/KMUTT-Work](https://github.com/bronystylecrazy/KMUTT-Work) from [Mixko50/KMUTT-Work](https://github.com/Mixko50/KMUTT-Work)
+6. 🔱 Forked [bronystylecrazy/hyperactiv](https://github.com/bronystylecrazy/hyperactiv) from [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv)
+7. ⭐ Starred [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss)
+8. ⭐ Starred [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
 <!--RECENT_ACTIVITY:end-->
