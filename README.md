@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 8th, 2021, 11:11:36 PM
+Last Updated: Wednesday, September 8th, 2021, 11:58:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/HBD-THUN](https://github.com/bronystylecrazy/HBD-THUN)
-2. ⭐ Starred [estree/estree](https://github.com/estree/estree)
-3. ⭐ Starred [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
-4. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)
-5. 🔱 Forked [bronystylecrazy/KMUTT-Work](https://github.com/bronystylecrazy/KMUTT-Work) from [Mixko50/KMUTT-Work](https://github.com/Mixko50/KMUTT-Work)
-6. 🔱 Forked [bronystylecrazy/hyperactiv](https://github.com/bronystylecrazy/hyperactiv) from [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv)
-7. ⭐ Starred [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss)
-8. ⭐ Starred [Charlie85270/tail-kit](https://github.com/Charlie85270/tail-kit)
+1. 📔 Created new repository [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
+2. 📔 Created new repository [bronystylecrazy/HBD-THUN](https://github.com/bronystylecrazy/HBD-THUN)
+3. ⭐ Starred [estree/estree](https://github.com/estree/estree)
+4. ⭐ Starred [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
+5. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)
+6. 🔱 Forked [bronystylecrazy/KMUTT-Work](https://github.com/bronystylecrazy/KMUTT-Work) from [Mixko50/KMUTT-Work](https://github.com/Mixko50/KMUTT-Work)
+7. 🔱 Forked [bronystylecrazy/hyperactiv](https://github.com/bronystylecrazy/hyperactiv) from [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv)
+8. ⭐ Starred [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss)
 <!--RECENT_ACTIVITY:end-->
