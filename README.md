@@ -2,7 +2,7 @@
 
 ## I'm a Dreamer, Developer, and Computer Science Student!
 
-- 🌱 I’m currently learning Typescript and RethinkDB
+- 🌱 I’m currently learning Typescript and Preact ⚛️
 - 🔭 I’m currently working on [HelloXXII](https://github.com/CSSIT21/HelloXXII)
 - 👯 I’m looking to collaborate on with my friends at KMUTT
 - 💬 Ask me about anything [here](https://github.com/bronystylecrazy/bronystylecrazy/issues)
