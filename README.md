@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 10th, 2021, 11:54:29 PM
+Last Updated: Saturday, September 11th, 2021, 12:11:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
-2. 📔 Created new repository [bronystylecrazy/HBD-THUN](https://github.com/bronystylecrazy/HBD-THUN)
-3. ⭐ Starred [estree/estree](https://github.com/estree/estree)
-4. ⭐ Starred [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
-5. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)
-6. 🔱 Forked [bronystylecrazy/KMUTT-Work](https://github.com/bronystylecrazy/KMUTT-Work) from [Mixko50/KMUTT-Work](https://github.com/Mixko50/KMUTT-Work)
-7. 🔱 Forked [bronystylecrazy/hyperactiv](https://github.com/bronystylecrazy/hyperactiv) from [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv)
-8. ⭐ Starred [windicss/vite-plugin-windicss](https://github.com/windicss/vite-plugin-windicss)
+1. ⭐ Starred [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
+2. 📔 Created new repository [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
+3. 📔 Created new repository [bronystylecrazy/HBD-THUN](https://github.com/bronystylecrazy/HBD-THUN)
+4. ⭐ Starred [estree/estree](https://github.com/estree/estree)
+5. ⭐ Starred [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
+6. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)
+7. 🔱 Forked [bronystylecrazy/KMUTT-Work](https://github.com/bronystylecrazy/KMUTT-Work) from [Mixko50/KMUTT-Work](https://github.com/Mixko50/KMUTT-Work)
+8. 🔱 Forked [bronystylecrazy/hyperactiv](https://github.com/bronystylecrazy/hyperactiv) from [elbywan/hyperactiv](https://github.com/elbywan/hyperactiv)
 <!--RECENT_ACTIVITY:end-->
