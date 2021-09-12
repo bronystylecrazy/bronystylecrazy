@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 12th, 2021, 9:32:47 PM
+Last Updated: Sunday, September 12th, 2021, 10:07:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/cstechstack](https://github.com/bronystylecrazy/cstechstack)
-2. ⭐ Starred [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
-3. 📔 Created new repository [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
-4. 📔 Created new repository [bronystylecrazy/HBD-THUN](https://github.com/bronystylecrazy/HBD-THUN)
-5. ⭐ Starred [estree/estree](https://github.com/estree/estree)
-6. ⭐ Starred [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
-7. ⭐ Starred [morethanwords/tweb](https://github.com/morethanwords/tweb)
-8. 🔱 Forked [bronystylecrazy/KMUTT-Work](https://github.com/bronystylecrazy/KMUTT-Work) from [Mixko50/KMUTT-Work](https://github.com/Mixko50/KMUTT-Work)
+1. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. 📔 Created new repository [bronystylecrazy/awesome-developer-tools](https://github.com/bronystylecrazy/awesome-developer-tools)
+3. 📔 Created new repository [bronystylecrazy/cstechstack](https://github.com/bronystylecrazy/cstechstack)
+4. ⭐ Starred [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
+5. 📔 Created new repository [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
+6. 📔 Created new repository [bronystylecrazy/HBD-THUN](https://github.com/bronystylecrazy/HBD-THUN)
+7. ⭐ Starred [estree/estree](https://github.com/estree/estree)
+8. ⭐ Starred [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook)
 <!--RECENT_ACTIVITY:end-->
