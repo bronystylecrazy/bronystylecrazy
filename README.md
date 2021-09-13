@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 13th, 2021, 11:47:17 AM
+Last Updated: Monday, September 13th, 2021, 12:07:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-2. ⭐ Starred [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
-3. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. 📔 Created new repository [bronystylecrazy/awesome-developer-tools](https://github.com/bronystylecrazy/awesome-developer-tools)
-5. 📔 Created new repository [bronystylecrazy/cstechstack](https://github.com/bronystylecrazy/cstechstack)
-6. ⭐ Starred [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
-7. 📔 Created new repository [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
-8. 📔 Created new repository [bronystylecrazy/HBD-THUN](https://github.com/bronystylecrazy/HBD-THUN)
+1. ⭐ Starred [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+3. ⭐ Starred [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
+4. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+5. 📔 Created new repository [bronystylecrazy/awesome-developer-tools](https://github.com/bronystylecrazy/awesome-developer-tools)
+6. 📔 Created new repository [bronystylecrazy/cstechstack](https://github.com/bronystylecrazy/cstechstack)
+7. ⭐ Starred [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
+8. 📔 Created new repository [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
 <!--RECENT_ACTIVITY:end-->
