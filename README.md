@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 15th, 2021, 9:42:59 AM
+Last Updated: Wednesday, September 15th, 2021, 10:08:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gilbarbara/logos](https://github.com/gilbarbara/logos)
-2. ⭐ Starred [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-4. ⭐ Starred [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
-5. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-6. 📔 Created new repository [bronystylecrazy/awesome-developer-tools](https://github.com/bronystylecrazy/awesome-developer-tools)
-7. 📔 Created new repository [bronystylecrazy/cstechstack](https://github.com/bronystylecrazy/cstechstack)
-8. ⭐ Starred [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
+1. 🤝 Became collaborator on [bronystylecrazy/artty.js-lab](https://github.com/bronystylecrazy/artty.js-lab)
+2. 🤝 Became collaborator on [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
+3. ⭐ Starred [gilbarbara/logos](https://github.com/gilbarbara/logos)
+4. ⭐ Starred [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+5. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+6. ⭐ Starred [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
+7. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+8. 📔 Created new repository [bronystylecrazy/awesome-developer-tools](https://github.com/bronystylecrazy/awesome-developer-tools)
 <!--RECENT_ACTIVITY:end-->
