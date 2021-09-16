@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 16th, 2021, 4:35:49 PM
+Last Updated: Thursday, September 16th, 2021, 5:08:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OptimalBits/bull](https://github.com/OptimalBits/bull)
-2. 🤝 Became collaborator on [bronystylecrazy/artty.js-lab](https://github.com/bronystylecrazy/artty.js-lab)
-3. 🤝 Became collaborator on [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
-4. ⭐ Starred [gilbarbara/logos](https://github.com/gilbarbara/logos)
-5. ⭐ Starred [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-6. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-7. ⭐ Starred [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
-8. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+1. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)
+2. ⭐ Starred [OptimalBits/bull](https://github.com/OptimalBits/bull)
+3. 🤝 Became collaborator on [bronystylecrazy/artty.js-lab](https://github.com/bronystylecrazy/artty.js-lab)
+4. 🤝 Became collaborator on [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
+5. ⭐ Starred [gilbarbara/logos](https://github.com/gilbarbara/logos)
+6. ⭐ Starred [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+7. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+8. ⭐ Starred [CSSIT21/CS21-Integrated-Project](https://github.com/CSSIT21/CS21-Integrated-Project)
 <!--RECENT_ACTIVITY:end-->
