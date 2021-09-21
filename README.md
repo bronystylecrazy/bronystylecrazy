@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 21st, 2021, 7:12:43 PM
+Last Updated: Tuesday, September 21st, 2021, 7:54:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [React95/React95](https://github.com/React95/React95)
-2. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)
-3. ⭐ Starred [OptimalBits/bull](https://github.com/OptimalBits/bull)
-4. 🤝 Became collaborator on [bronystylecrazy/artty.js-lab](https://github.com/bronystylecrazy/artty.js-lab)
-5. 🤝 Became collaborator on [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
-6. ⭐ Starred [gilbarbara/logos](https://github.com/gilbarbara/logos)
-7. ⭐ Starred [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-8. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+1. ⭐ Starred [rebassjs/rebass](https://github.com/rebassjs/rebass)
+2. ⭐ Starred [React95/React95](https://github.com/React95/React95)
+3. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)
+4. ⭐ Starred [OptimalBits/bull](https://github.com/OptimalBits/bull)
+5. 🤝 Became collaborator on [bronystylecrazy/artty.js-lab](https://github.com/bronystylecrazy/artty.js-lab)
+6. 🤝 Became collaborator on [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
+7. ⭐ Starred [gilbarbara/logos](https://github.com/gilbarbara/logos)
+8. ⭐ Starred [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
 <!--RECENT_ACTIVITY:end-->
