@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 26th, 2021, 3:37:24 PM
+Last Updated: Sunday, September 26th, 2021, 4:07:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kettanaito/atomic-layout](https://github.com/kettanaito/atomic-layout)
-2. ⭐ Starred [rebassjs/rebass](https://github.com/rebassjs/rebass)
-3. ⭐ Starred [React95/React95](https://github.com/React95/React95)
-4. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)
-5. ⭐ Starred [OptimalBits/bull](https://github.com/OptimalBits/bull)
-6. 🤝 Became collaborator on [bronystylecrazy/artty.js-lab](https://github.com/bronystylecrazy/artty.js-lab)
-7. 🤝 Became collaborator on [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
-8. ⭐ Starred [gilbarbara/logos](https://github.com/gilbarbara/logos)
+1. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+2. ⭐ Starred [kettanaito/atomic-layout](https://github.com/kettanaito/atomic-layout)
+3. ⭐ Starred [rebassjs/rebass](https://github.com/rebassjs/rebass)
+4. ⭐ Starred [React95/React95](https://github.com/React95/React95)
+5. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)
+6. ⭐ Starred [OptimalBits/bull](https://github.com/OptimalBits/bull)
+7. 🤝 Became collaborator on [bronystylecrazy/artty.js-lab](https://github.com/bronystylecrazy/artty.js-lab)
+8. 🤝 Became collaborator on [bronystylecrazy/Artty.js](https://github.com/bronystylecrazy/Artty.js)
 <!--RECENT_ACTIVITY:end-->
