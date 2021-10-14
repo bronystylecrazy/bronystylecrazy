@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 14th, 2021, 8:36:30 PM
+Last Updated: Thursday, October 14th, 2021, 9:07:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
-2. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-3. ⭐ Starred [kettanaito/atomic-layout](https://github.com/kettanaito/atomic-layout)
-4. ⭐ Starred [rebassjs/rebass](https://github.com/rebassjs/rebass)
-5. ⭐ Starred [React95/React95](https://github.com/React95/React95)
-6. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)
-7. ⭐ Starred [OptimalBits/bull](https://github.com/OptimalBits/bull)
-8. 🤝 Became collaborator on [bronystylecrazy/artty.js-lab](https://github.com/bronystylecrazy/artty.js-lab)
+1. 📔 Created new repository [bronystylecrazy/spectacle-nestjs-session](https://github.com/bronystylecrazy/spectacle-nestjs-session)
+2. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
+3. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+4. ⭐ Starred [kettanaito/atomic-layout](https://github.com/kettanaito/atomic-layout)
+5. ⭐ Starred [rebassjs/rebass](https://github.com/rebassjs/rebass)
+6. ⭐ Starred [React95/React95](https://github.com/React95/React95)
+7. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)
+8. ⭐ Starred [OptimalBits/bull](https://github.com/OptimalBits/bull)
 <!--RECENT_ACTIVITY:end-->
