@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 18th, 2021, 2:08:44 PM
+Last Updated: Monday, October 18th, 2021, 2:34:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest) from [nestjs/nest](https://github.com/nestjs/nest)
-2. 📔 Created new repository [bronystylecrazy/spectacle-nestjs-session](https://github.com/bronystylecrazy/spectacle-nestjs-session)
-3. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
-4. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-5. ⭐ Starred [kettanaito/atomic-layout](https://github.com/kettanaito/atomic-layout)
-6. ⭐ Starred [rebassjs/rebass](https://github.com/rebassjs/rebass)
-7. ⭐ Starred [React95/React95](https://github.com/React95/React95)
-8. ⭐ Starred [nestjs/nest](https://github.com/nestjs/nest)
+1. ⭐ Starred [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest)
+2. 🔱 Forked [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest) from [nestjs/nest](https://github.com/nestjs/nest)
+3. 📔 Created new repository [bronystylecrazy/spectacle-nestjs-session](https://github.com/bronystylecrazy/spectacle-nestjs-session)
+4. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
+5. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+6. ⭐ Starred [kettanaito/atomic-layout](https://github.com/kettanaito/atomic-layout)
+7. ⭐ Starred [rebassjs/rebass](https://github.com/rebassjs/rebass)
+8. ⭐ Starred [React95/React95](https://github.com/React95/React95)
 <!--RECENT_ACTIVITY:end-->
