@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 28th, 2021, 4:07:15 AM
+Last Updated: Thursday, October 28th, 2021, 4:34:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest)
-2. 🔱 Forked [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest) from [nestjs/nest](https://github.com/nestjs/nest)
-3. 📔 Created new repository [bronystylecrazy/spectacle-nestjs-session](https://github.com/bronystylecrazy/spectacle-nestjs-session)
-4. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
-5. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-6. ⭐ Starred [kettanaito/atomic-layout](https://github.com/kettanaito/atomic-layout)
-7. ⭐ Starred [rebassjs/rebass](https://github.com/rebassjs/rebass)
-8. ⭐ Starred [React95/React95](https://github.com/React95/React95)
+1. ⭐ Starred [surhud004/Foodish](https://github.com/surhud004/Foodish)
+2. ⭐ Starred [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest)
+3. 🔱 Forked [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest) from [nestjs/nest](https://github.com/nestjs/nest)
+4. 📔 Created new repository [bronystylecrazy/spectacle-nestjs-session](https://github.com/bronystylecrazy/spectacle-nestjs-session)
+5. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
+6. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+7. ⭐ Starred [kettanaito/atomic-layout](https://github.com/kettanaito/atomic-layout)
+8. ⭐ Starred [rebassjs/rebass](https://github.com/rebassjs/rebass)
 <!--RECENT_ACTIVITY:end-->
