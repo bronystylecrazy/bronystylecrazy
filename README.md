@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 3rd, 2021, 2:08:39 PM
+Last Updated: Wednesday, November 3rd, 2021, 2:34:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/CosmoWifi](https://github.com/bronystylecrazy/CosmoWifi)
-2. ⭐ Starred [plus1tv/react-anime](https://github.com/plus1tv/react-anime)
-3. ⭐ Starred [chenglou/react-motion](https://github.com/chenglou/react-motion)
-4. ⭐ Starred [surhud004/Foodish](https://github.com/surhud004/Foodish)
-5. ⭐ Starred [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest)
-6. 🔱 Forked [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest) from [nestjs/nest](https://github.com/nestjs/nest)
-7. 📔 Created new repository [bronystylecrazy/spectacle-nestjs-session](https://github.com/bronystylecrazy/spectacle-nestjs-session)
-8. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
+1. ⭐ Starred [plus1tv/react-anime](https://github.com/plus1tv/react-anime)
+2. ⭐ Starred [chenglou/react-motion](https://github.com/chenglou/react-motion)
+3. ⭐ Starred [surhud004/Foodish](https://github.com/surhud004/Foodish)
+4. ⭐ Starred [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest)
+5. 🔱 Forked [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest) from [nestjs/nest](https://github.com/nestjs/nest)
+6. 📔 Created new repository [bronystylecrazy/spectacle-nestjs-session](https://github.com/bronystylecrazy/spectacle-nestjs-session)
+7. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
+8. ⭐ Starred [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 <!--RECENT_ACTIVITY:end-->
