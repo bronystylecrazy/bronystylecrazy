@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 4th, 2021, 7:13:22 PM
+Last Updated: Thursday, November 4th, 2021, 7:53:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tessmore/sbd](https://github.com/Tessmore/sbd)
-2. ⭐ Starred [plus1tv/react-anime](https://github.com/plus1tv/react-anime)
-3. ⭐ Starred [chenglou/react-motion](https://github.com/chenglou/react-motion)
-4. ⭐ Starred [surhud004/Foodish](https://github.com/surhud004/Foodish)
-5. ⭐ Starred [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest)
-6. 🔱 Forked [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest) from [nestjs/nest](https://github.com/nestjs/nest)
-7. 📔 Created new repository [bronystylecrazy/spectacle-nestjs-session](https://github.com/bronystylecrazy/spectacle-nestjs-session)
-8. ⭐ Starred [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle)
+1. ⭐ Starred [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)
+2. ⭐ Starred [Tessmore/sbd](https://github.com/Tessmore/sbd)
+3. ⭐ Starred [plus1tv/react-anime](https://github.com/plus1tv/react-anime)
+4. ⭐ Starred [chenglou/react-motion](https://github.com/chenglou/react-motion)
+5. ⭐ Starred [surhud004/Foodish](https://github.com/surhud004/Foodish)
+6. ⭐ Starred [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest)
+7. 🔱 Forked [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest) from [nestjs/nest](https://github.com/nestjs/nest)
+8. 📔 Created new repository [bronystylecrazy/spectacle-nestjs-session](https://github.com/bronystylecrazy/spectacle-nestjs-session)
 <!--RECENT_ACTIVITY:end-->
