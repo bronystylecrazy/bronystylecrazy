@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 11th, 2021, 8:35:39 PM
+Last Updated: Thursday, November 11th, 2021, 9:08:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [solidjs/solid](https://github.com/solidjs/solid)
-2. ⭐ Starred [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)
-3. ⭐ Starred [Tessmore/sbd](https://github.com/Tessmore/sbd)
-4. ⭐ Starred [plus1tv/react-anime](https://github.com/plus1tv/react-anime)
-5. ⭐ Starred [chenglou/react-motion](https://github.com/chenglou/react-motion)
-6. ⭐ Starred [surhud004/Foodish](https://github.com/surhud004/Foodish)
-7. ⭐ Starred [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest)
-8. 🔱 Forked [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest) from [nestjs/nest](https://github.com/nestjs/nest)
+1. ⭐ Starred [chenglou/react-tween-state](https://github.com/chenglou/react-tween-state)
+2. ⭐ Starred [solidjs/solid](https://github.com/solidjs/solid)
+3. ⭐ Starred [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)
+4. ⭐ Starred [Tessmore/sbd](https://github.com/Tessmore/sbd)
+5. ⭐ Starred [plus1tv/react-anime](https://github.com/plus1tv/react-anime)
+6. ⭐ Starred [chenglou/react-motion](https://github.com/chenglou/react-motion)
+7. ⭐ Starred [surhud004/Foodish](https://github.com/surhud004/Foodish)
+8. ⭐ Starred [bronystylecrazy/nest](https://github.com/bronystylecrazy/nest)
 <!--RECENT_ACTIVITY:end-->
