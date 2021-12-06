@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 6th, 2021, 8:55:11 AM
+Last Updated: Monday, December 6th, 2021, 9:27:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [davidcallanan/py-myopl-code](https://github.com/davidcallanan/py-myopl-code)
-2. ⭐ Starred [chenglou/react-tween-state](https://github.com/chenglou/react-tween-state)
-3. ⭐ Starred [solidjs/solid](https://github.com/solidjs/solid)
-4. ⭐ Starred [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)
-5. ⭐ Starred [Tessmore/sbd](https://github.com/Tessmore/sbd)
-6. ⭐ Starred [plus1tv/react-anime](https://github.com/plus1tv/react-anime)
-7. ⭐ Starred [chenglou/react-motion](https://github.com/chenglou/react-motion)
-8. ⭐ Starred [surhud004/Foodish](https://github.com/surhud004/Foodish)
+1. ⭐ Starred [vercel/pkg](https://github.com/vercel/pkg)
+2. ⭐ Starred [nexe/nexe](https://github.com/nexe/nexe)
+3. ⭐ Starred [davidcallanan/py-myopl-code](https://github.com/davidcallanan/py-myopl-code)
+4. ⭐ Starred [chenglou/react-tween-state](https://github.com/chenglou/react-tween-state)
+5. ⭐ Starred [solidjs/solid](https://github.com/solidjs/solid)
+6. ⭐ Starred [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs)
+7. ⭐ Starred [Tessmore/sbd](https://github.com/Tessmore/sbd)
+8. ⭐ Starred [plus1tv/react-anime](https://github.com/plus1tv/react-anime)
 <!--RECENT_ACTIVITY:end-->
