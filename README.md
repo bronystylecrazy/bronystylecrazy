@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 1st, 2022, 9:34:33 PM
+Last Updated: Saturday, January 1st, 2022, 10:08:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
-2. ⭐ Starred [ryansolid/babel-plugin-jsx-dom-expressions](https://github.com/ryansolid/babel-plugin-jsx-dom-expressions)
-3. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
-4. ⭐ Starred [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto)
-5. ⭐ Starred [vercel/pkg](https://github.com/vercel/pkg)
-6. ⭐ Starred [nexe/nexe](https://github.com/nexe/nexe)
-7. ⭐ Starred [davidcallanan/py-myopl-code](https://github.com/davidcallanan/py-myopl-code)
-8. ⭐ Starred [chenglou/react-tween-state](https://github.com/chenglou/react-tween-state)
+1. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
+2. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
+3. ⭐ Starred [ryansolid/babel-plugin-jsx-dom-expressions](https://github.com/ryansolid/babel-plugin-jsx-dom-expressions)
+4. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
+5. ⭐ Starred [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto)
+6. ⭐ Starred [vercel/pkg](https://github.com/vercel/pkg)
+7. ⭐ Starred [nexe/nexe](https://github.com/nexe/nexe)
+8. ⭐ Starred [davidcallanan/py-myopl-code](https://github.com/davidcallanan/py-myopl-code)
 <!--RECENT_ACTIVITY:end-->
