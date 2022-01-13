@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 14th, 2022, 1:43:49 AM
+Last Updated: Friday, January 14th, 2022, 2:07:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
-2. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
-3. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
-4. ⭐ Starred [ryansolid/babel-plugin-jsx-dom-expressions](https://github.com/ryansolid/babel-plugin-jsx-dom-expressions)
-5. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
-6. ⭐ Starred [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto)
-7. ⭐ Starred [vercel/pkg](https://github.com/vercel/pkg)
-8. ⭐ Starred [nexe/nexe](https://github.com/nexe/nexe)
+1. ⭐ Starred [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite)
+2. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
+3. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
+4. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
+5. ⭐ Starred [ryansolid/babel-plugin-jsx-dom-expressions](https://github.com/ryansolid/babel-plugin-jsx-dom-expressions)
+6. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
+7. ⭐ Starred [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto)
+8. ⭐ Starred [vercel/pkg](https://github.com/vercel/pkg)
 <!--RECENT_ACTIVITY:end-->
