@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 14th, 2022, 1:10:40 AM
+Last Updated: Friday, January 14th, 2022, 1:43:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
-2. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
-3. ⭐ Starred [ryansolid/babel-plugin-jsx-dom-expressions](https://github.com/ryansolid/babel-plugin-jsx-dom-expressions)
-4. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
-5. ⭐ Starred [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto)
-6. ⭐ Starred [vercel/pkg](https://github.com/vercel/pkg)
-7. ⭐ Starred [nexe/nexe](https://github.com/nexe/nexe)
-8. ⭐ Starred [davidcallanan/py-myopl-code](https://github.com/davidcallanan/py-myopl-code)
+1. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
+2. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
+3. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
+4. ⭐ Starred [ryansolid/babel-plugin-jsx-dom-expressions](https://github.com/ryansolid/babel-plugin-jsx-dom-expressions)
+5. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
+6. ⭐ Starred [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto)
+7. ⭐ Starred [vercel/pkg](https://github.com/vercel/pkg)
+8. ⭐ Starred [nexe/nexe](https://github.com/nexe/nexe)
 <!--RECENT_ACTIVITY:end-->
