@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 16th, 2022, 9:34:48 PM
+Last Updated: Sunday, January 16th, 2022, 10:08:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [golang/go](https://github.com/golang/go)
-2. ⭐ Starred [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite)
-3. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
-4. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
-5. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
-6. ⭐ Starred [ryansolid/babel-plugin-jsx-dom-expressions](https://github.com/ryansolid/babel-plugin-jsx-dom-expressions)
-7. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
-8. ⭐ Starred [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto)
+1. ⭐ Starred [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet)
+2. ⭐ Starred [golang/go](https://github.com/golang/go)
+3. ⭐ Starred [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite)
+4. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
+5. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
+6. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
+7. ⭐ Starred [ryansolid/babel-plugin-jsx-dom-expressions](https://github.com/ryansolid/babel-plugin-jsx-dom-expressions)
+8. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
 <!--RECENT_ACTIVITY:end-->
