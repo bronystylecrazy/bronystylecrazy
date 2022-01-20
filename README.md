@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 20th, 2022, 10:37:48 PM
+Last Updated: Thursday, January 20th, 2022, 11:12:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet)
-2. ⭐ Starred [golang/go](https://github.com/golang/go)
-3. ⭐ Starred [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite)
-4. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
-5. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
-6. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
-7. ⭐ Starred [ryansolid/babel-plugin-jsx-dom-expressions](https://github.com/ryansolid/babel-plugin-jsx-dom-expressions)
-8. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)
+1. 🔱 Forked [bronystylecrazy/linux](https://github.com/bronystylecrazy/linux) from [torvalds/linux](https://github.com/torvalds/linux)
+2. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)
+3. ⭐ Starred [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet)
+4. ⭐ Starred [golang/go](https://github.com/golang/go)
+5. ⭐ Starred [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite)
+6. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
+7. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
+8. ⭐ Starred [ryansolid/dom-expressions](https://github.com/ryansolid/dom-expressions)
 <!--RECENT_ACTIVITY:end-->
