@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 5:36:20 PM
+Last Updated: Saturday, January 22nd, 2022, 6:07:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
-2. 🔱 Forked [bronystylecrazy/linux](https://github.com/bronystylecrazy/linux) from [torvalds/linux](https://github.com/torvalds/linux)
-3. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)
-4. ⭐ Starred [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet)
-5. ⭐ Starred [golang/go](https://github.com/golang/go)
-6. ⭐ Starred [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite)
-7. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
-8. ⭐ Starred [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
+1. ⭐ Starred [cutefishos/fishui](https://github.com/cutefishos/fishui)
+2. ⭐ Starred [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
+3. 🔱 Forked [bronystylecrazy/linux](https://github.com/bronystylecrazy/linux) from [torvalds/linux](https://github.com/torvalds/linux)
+4. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)
+5. ⭐ Starred [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet)
+6. ⭐ Starred [golang/go](https://github.com/golang/go)
+7. ⭐ Starred [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite)
+8. ⭐ Starred [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
 <!--RECENT_ACTIVITY:end-->
