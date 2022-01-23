@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 24th, 2022, 5:34:48 AM
+Last Updated: Monday, January 24th, 2022, 6:07:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)
-2. 🔱 Forked [bronystylecrazy/cypress-workshop](https://github.com/bronystylecrazy/cypress-workshop) from [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
-3. ⭐ Starred [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
-4. ⭐ Starred [cutefishos/fishui](https://github.com/cutefishos/fishui)
-5. ⭐ Starred [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
-6. 🔱 Forked [bronystylecrazy/linux](https://github.com/bronystylecrazy/linux) from [torvalds/linux](https://github.com/torvalds/linux)
-7. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)
-8. ⭐ Starred [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet)
+1. ⭐ Starred [mig-hub/mikeOS](https://github.com/mig-hub/mikeOS)
+2. ⭐ Starred [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)
+3. 🔱 Forked [bronystylecrazy/cypress-workshop](https://github.com/bronystylecrazy/cypress-workshop) from [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
+4. ⭐ Starred [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
+5. ⭐ Starred [cutefishos/fishui](https://github.com/cutefishos/fishui)
+6. ⭐ Starred [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
+7. 🔱 Forked [bronystylecrazy/linux](https://github.com/bronystylecrazy/linux) from [torvalds/linux](https://github.com/torvalds/linux)
+8. ⭐ Starred [torvalds/linux](https://github.com/torvalds/linux)
 <!--RECENT_ACTIVITY:end-->
