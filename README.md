@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 30th, 2022, 3:09:20 AM
+Last Updated: Sunday, January 30th, 2022, 3:38:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/Ms.Mute-Feedback-Desktop-App](https://github.com/bronystylecrazy/Ms.Mute-Feedback-Desktop-App)
-2. ⭐ Starred [caoxiemeihao/vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron)
-3. ⭐ Starred [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
-4. ⭐ Starred [mig-hub/mikeOS](https://github.com/mig-hub/mikeOS)
-5. ⭐ Starred [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)
-6. 🔱 Forked [bronystylecrazy/cypress-workshop](https://github.com/bronystylecrazy/cypress-workshop) from [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
-7. ⭐ Starred [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
-8. ⭐ Starred [cutefishos/fishui](https://github.com/cutefishos/fishui)
+1. ⭐ Starred [vuejs/core](https://github.com/vuejs/core)
+2. 📔 Created new repository [bronystylecrazy/Ms.Mute-Feedback-Desktop-App](https://github.com/bronystylecrazy/Ms.Mute-Feedback-Desktop-App)
+3. ⭐ Starred [caoxiemeihao/vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron)
+4. ⭐ Starred [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
+5. ⭐ Starred [mig-hub/mikeOS](https://github.com/mig-hub/mikeOS)
+6. ⭐ Starred [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)
+7. 🔱 Forked [bronystylecrazy/cypress-workshop](https://github.com/bronystylecrazy/cypress-workshop) from [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
+8. ⭐ Starred [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
 <!--RECENT_ACTIVITY:end-->
