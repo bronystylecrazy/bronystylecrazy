@@ -26,16 +26,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 7th, 2022, 1:37:52 AM
+Last Updated: Monday, February 7th, 2022, 2:06:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vuejs/core](https://github.com/vuejs/core)
-2. 📔 Created new repository [bronystylecrazy/Ms.Mute-Feedback-Desktop-App](https://github.com/bronystylecrazy/Ms.Mute-Feedback-Desktop-App)
-3. ⭐ Starred [caoxiemeihao/vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron)
-4. ⭐ Starred [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
-5. ⭐ Starred [mig-hub/mikeOS](https://github.com/mig-hub/mikeOS)
-6. ⭐ Starred [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)
-7. 🔱 Forked [bronystylecrazy/cypress-workshop](https://github.com/bronystylecrazy/cypress-workshop) from [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
-8. ⭐ Starred [thinknetcompany/cypress-workshop](https://github.com/thinknetcompany/cypress-workshop)
+1. ⭐ Starred [librespot-org/librespot](https://github.com/librespot-org/librespot)
+2. ⭐ Starred [dtcooper/raspotify](https://github.com/dtcooper/raspotify)
+3. ⭐ Starred [vuejs/core](https://github.com/vuejs/core)
+4. 📔 Created new repository [bronystylecrazy/Ms.Mute-Feedback-Desktop-App](https://github.com/bronystylecrazy/Ms.Mute-Feedback-Desktop-App)
+5. ⭐ Starred [caoxiemeihao/vite-react-electron](https://github.com/caoxiemeihao/vite-react-electron)
+6. ⭐ Starred [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
+7. ⭐ Starred [mig-hub/mikeOS](https://github.com/mig-hub/mikeOS)
+8. ⭐ Starred [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)
 <!--RECENT_ACTIVITY:end-->
