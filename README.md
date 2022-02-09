@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 9th, 2022, 5:36:44 PM
+Last Updated: Wednesday, February 9th, 2022, 6:07:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/Flutter-Labs](https://github.com/bronystylecrazy/Flutter-Labs)
-2. ⭐ Starred [vvaltchev/tilck](https://github.com/vvaltchev/tilck)
-3. ⭐ Starred [skiftOS/skift](https://github.com/skiftOS/skift)
-4. ⭐ Starred [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
-5. ⭐ Starred [klikaba/klika-os](https://github.com/klikaba/klika-os)
-6. ⭐ Starred [leonardoms/DiyOS](https://github.com/leonardoms/DiyOS)
-7. ⭐ Starred [librespot-org/librespot](https://github.com/librespot-org/librespot)
-8. ⭐ Starred [dtcooper/raspotify](https://github.com/dtcooper/raspotify)
+1. ⭐ Starred [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)
+2. 📔 Created new repository [bronystylecrazy/Flutter-Labs](https://github.com/bronystylecrazy/Flutter-Labs)
+3. ⭐ Starred [vvaltchev/tilck](https://github.com/vvaltchev/tilck)
+4. ⭐ Starred [skiftOS/skift](https://github.com/skiftOS/skift)
+5. ⭐ Starred [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
+6. ⭐ Starred [klikaba/klika-os](https://github.com/klikaba/klika-os)
+7. ⭐ Starred [leonardoms/DiyOS](https://github.com/leonardoms/DiyOS)
+8. ⭐ Starred [librespot-org/librespot](https://github.com/librespot-org/librespot)
 <!--RECENT_ACTIVITY:end-->
