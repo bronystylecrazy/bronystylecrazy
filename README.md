@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 14th, 2022, 6:32:42 PM
+Last Updated: Monday, February 14th, 2022, 7:13:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hacker8853/Ethical-Hacking-Tools](https://github.com/hacker8853/Ethical-Hacking-Tools)
-2. ⭐ Starred [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome)
-3. ⭐ Starred [colinhartigan/valorant-inventory-manager](https://github.com/colinhartigan/valorant-inventory-manager)
-4. ⭐ Starred [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
-5. ⭐ Starred [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)
-6. 📔 Created new repository [bronystylecrazy/Flutter-Labs](https://github.com/bronystylecrazy/Flutter-Labs)
-7. ⭐ Starred [vvaltchev/tilck](https://github.com/vvaltchev/tilck)
-8. ⭐ Starred [skiftOS/skift](https://github.com/skiftOS/skift)
+1. ⭐ Starred [no-context/moo](https://github.com/no-context/moo)
+2. ⭐ Starred [hacker8853/Ethical-Hacking-Tools](https://github.com/hacker8853/Ethical-Hacking-Tools)
+3. ⭐ Starred [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome)
+4. ⭐ Starred [colinhartigan/valorant-inventory-manager](https://github.com/colinhartigan/valorant-inventory-manager)
+5. ⭐ Starred [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
+6. ⭐ Starred [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)
+7. 📔 Created new repository [bronystylecrazy/Flutter-Labs](https://github.com/bronystylecrazy/Flutter-Labs)
+8. ⭐ Starred [vvaltchev/tilck](https://github.com/vvaltchev/tilck)
 <!--RECENT_ACTIVITY:end-->
