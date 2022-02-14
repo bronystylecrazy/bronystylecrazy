@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 14th, 2022, 7:32:40 AM
+Last Updated: Monday, February 14th, 2022, 8:49:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [colinhartigan/valorant-inventory-manager](https://github.com/colinhartigan/valorant-inventory-manager)
-2. ⭐ Starred [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
-3. ⭐ Starred [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)
-4. 📔 Created new repository [bronystylecrazy/Flutter-Labs](https://github.com/bronystylecrazy/Flutter-Labs)
-5. ⭐ Starred [vvaltchev/tilck](https://github.com/vvaltchev/tilck)
-6. ⭐ Starred [skiftOS/skift](https://github.com/skiftOS/skift)
-7. ⭐ Starred [SerenityOS/serenity](https://github.com/SerenityOS/serenity)
-8. ⭐ Starred [klikaba/klika-os](https://github.com/klikaba/klika-os)
+1. ⭐ Starred [hacker8853/Ethical-Hacking-Tools](https://github.com/hacker8853/Ethical-Hacking-Tools)
+2. ⭐ Starred [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome)
+3. ⭐ Starred [colinhartigan/valorant-inventory-manager](https://github.com/colinhartigan/valorant-inventory-manager)
+4. ⭐ Starred [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
+5. ⭐ Starred [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public)
+6. 📔 Created new repository [bronystylecrazy/Flutter-Labs](https://github.com/bronystylecrazy/Flutter-Labs)
+7. ⭐ Starred [vvaltchev/tilck](https://github.com/vvaltchev/tilck)
+8. ⭐ Starred [skiftOS/skift](https://github.com/skiftOS/skift)
 <!--RECENT_ACTIVITY:end-->
