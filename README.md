@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 19th, 2022, 4:34:45 PM
+Last Updated: Saturday, February 19th, 2022, 5:09:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon)
-2. ⭐ Starred [anup-a/meshy](https://github.com/anup-a/meshy)
-3. ⭐ Starred [suragch/string_validator](https://github.com/suragch/string_validator)
-4. ⭐ Starred [no-context/moo](https://github.com/no-context/moo)
-5. ⭐ Starred [hacker8853/Ethical-Hacking-Tools](https://github.com/hacker8853/Ethical-Hacking-Tools)
-6. ⭐ Starred [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome)
-7. ⭐ Starred [colinhartigan/valorant-inventory-manager](https://github.com/colinhartigan/valorant-inventory-manager)
-8. ⭐ Starred [colinhartigan/valorant-skin-cli](https://github.com/colinhartigan/valorant-skin-cli)
+1. ⭐ Starred [samuelstroschein/bromb](https://github.com/samuelstroschein/bromb)
+2. ⭐ Starred [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon)
+3. ⭐ Starred [anup-a/meshy](https://github.com/anup-a/meshy)
+4. ⭐ Starred [suragch/string_validator](https://github.com/suragch/string_validator)
+5. ⭐ Starred [no-context/moo](https://github.com/no-context/moo)
+6. ⭐ Starred [hacker8853/Ethical-Hacking-Tools](https://github.com/hacker8853/Ethical-Hacking-Tools)
+7. ⭐ Starred [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome)
+8. ⭐ Starred [colinhartigan/valorant-inventory-manager](https://github.com/colinhartigan/valorant-inventory-manager)
 <!--RECENT_ACTIVITY:end-->
