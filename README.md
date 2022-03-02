@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 2nd, 2022, 8:36:00 PM
+Last Updated: Wednesday, March 2nd, 2022, 9:09:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
-2. ⭐ Starred [one-aalam/awesome-solid-js](https://github.com/one-aalam/awesome-solid-js)
-3. ⭐ Starred [preactjs/preact](https://github.com/preactjs/preact)
-4. ⭐ Starred [Rich-Harris/estree-walker](https://github.com/Rich-Harris/estree-walker)
-5. ⭐ Starred [preactjs/awesome-preact](https://github.com/preactjs/awesome-preact)
-6. ⭐ Starred [developit/microbundle](https://github.com/developit/microbundle)
-7. ⭐ Starred [samuelstroschein/bromb](https://github.com/samuelstroschein/bromb)
-8. ⭐ Starred [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon)
+1. ⭐ Starred [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress)
+2. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
+3. ⭐ Starred [one-aalam/awesome-solid-js](https://github.com/one-aalam/awesome-solid-js)
+4. ⭐ Starred [preactjs/preact](https://github.com/preactjs/preact)
+5. ⭐ Starred [Rich-Harris/estree-walker](https://github.com/Rich-Harris/estree-walker)
+6. ⭐ Starred [preactjs/awesome-preact](https://github.com/preactjs/awesome-preact)
+7. ⭐ Starred [developit/microbundle](https://github.com/developit/microbundle)
+8. ⭐ Starred [samuelstroschein/bromb](https://github.com/samuelstroschein/bromb)
 <!--RECENT_ACTIVITY:end-->
