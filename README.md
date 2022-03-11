@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 11th, 2022, 6:07:58 PM
+Last Updated: Friday, March 11th, 2022, 6:33:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
-2. ⭐ Starred [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading)
-3. 🔱 Forked [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading) from [mensudza/gym-anytrading](https://github.com/mensudza/gym-anytrading)
-4. ⭐ Starred [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress)
-5. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
-6. ⭐ Starred [one-aalam/awesome-solid-js](https://github.com/one-aalam/awesome-solid-js)
-7. ⭐ Starred [preactjs/preact](https://github.com/preactjs/preact)
-8. ⭐ Starred [Rich-Harris/estree-walker](https://github.com/Rich-Harris/estree-walker)
+1. ⭐ Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
+2. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+3. ⭐ Starred [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading)
+4. 🔱 Forked [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading) from [mensudza/gym-anytrading](https://github.com/mensudza/gym-anytrading)
+5. ⭐ Starred [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress)
+6. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
+7. ⭐ Starred [one-aalam/awesome-solid-js](https://github.com/one-aalam/awesome-solid-js)
+8. ⭐ Starred [preactjs/preact](https://github.com/preactjs/preact)
 <!--RECENT_ACTIVITY:end-->
