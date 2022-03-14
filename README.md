@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 14th, 2022, 11:52:59 PM
+Last Updated: Tuesday, March 15th, 2022, 12:10:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [just-js/just](https://github.com/just-js/just)
-2. ⭐ Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
-3. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
-4. ⭐ Starred [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading)
-5. 🔱 Forked [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading) from [mensudza/gym-anytrading](https://github.com/mensudza/gym-anytrading)
-6. ⭐ Starred [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress)
-7. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
-8. ⭐ Starred [one-aalam/awesome-solid-js](https://github.com/one-aalam/awesome-solid-js)
+1. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
+2. ⭐ Starred [just-js/just](https://github.com/just-js/just)
+3. ⭐ Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
+4. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+5. ⭐ Starred [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading)
+6. 🔱 Forked [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading) from [mensudza/gym-anytrading](https://github.com/mensudza/gym-anytrading)
+7. ⭐ Starred [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress)
+8. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
 <!--RECENT_ACTIVITY:end-->
