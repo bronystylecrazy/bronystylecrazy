@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 15th, 2022, 12:10:18 AM
+Last Updated: Tuesday, March 15th, 2022, 12:36:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
-2. ⭐ Starred [just-js/just](https://github.com/just-js/just)
-3. ⭐ Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
-4. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
-5. ⭐ Starred [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading)
-6. 🔱 Forked [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading) from [mensudza/gym-anytrading](https://github.com/mensudza/gym-anytrading)
-7. ⭐ Starred [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress)
-8. ⭐ Starred [jquense/yup](https://github.com/jquense/yup)
+1. ⭐ Starred [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev)
+2. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
+3. ⭐ Starred [just-js/just](https://github.com/just-js/just)
+4. ⭐ Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
+5. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+6. ⭐ Starred [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading)
+7. 🔱 Forked [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading) from [mensudza/gym-anytrading](https://github.com/mensudza/gym-anytrading)
+8. ⭐ Starred [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress)
 <!--RECENT_ACTIVITY:end-->
