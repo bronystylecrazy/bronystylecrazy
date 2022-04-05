@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 6th, 2022, 4:08:24 AM
+Last Updated: Wednesday, April 6th, 2022, 4:32:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev)
-2. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
-3. ⭐ Starred [just-js/just](https://github.com/just-js/just)
-4. ⭐ Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
-5. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
-6. ⭐ Starred [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading)
-7. 🔱 Forked [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading) from [mensudza/gym-anytrading](https://github.com/mensudza/gym-anytrading)
-8. ⭐ Starred [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress)
+1. ⭐ Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)
+2. ⭐ Starred [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev)
+3. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
+4. ⭐ Starred [just-js/just](https://github.com/just-js/just)
+5. ⭐ Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
+6. ⭐ Starred [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+7. ⭐ Starred [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading)
+8. 🔱 Forked [bronystylecrazy/gym-anytrading](https://github.com/bronystylecrazy/gym-anytrading) from [mensudza/gym-anytrading](https://github.com/mensudza/gym-anytrading)
 <!--RECENT_ACTIVITY:end-->
