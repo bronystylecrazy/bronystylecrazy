@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 17th, 2022, 12:34:27 PM
+Last Updated: Sunday, April 17th, 2022, 1:12:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
-2. ⭐ Starred [solidjs/solid-transition-group](https://github.com/solidjs/solid-transition-group)
-3. ⭐ Starred [solidjs/solid-app-router](https://github.com/solidjs/solid-app-router)
-4. ⭐ Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)
-5. ⭐ Starred [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev)
-6. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
-7. ⭐ Starred [just-js/just](https://github.com/just-js/just)
-8. ⭐ Starred [drogonframework/drogon](https://github.com/drogonframework/drogon)
+1. ⭐ Starred [rupa/z](https://github.com/rupa/z)
+2. ⭐ Starred [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
+3. ⭐ Starred [solidjs/solid-transition-group](https://github.com/solidjs/solid-transition-group)
+4. ⭐ Starred [solidjs/solid-app-router](https://github.com/solidjs/solid-app-router)
+5. ⭐ Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)
+6. ⭐ Starred [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev)
+7. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
+8. ⭐ Starred [just-js/just](https://github.com/just-js/just)
 <!--RECENT_ACTIVITY:end-->
