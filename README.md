@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 18th, 2022, 12:37:06 AM
+Last Updated: Monday, April 18th, 2022, 1:12:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rupa/z](https://github.com/rupa/z)
-2. ⭐ Starred [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
-3. ⭐ Starred [solidjs/solid-transition-group](https://github.com/solidjs/solid-transition-group)
-4. ⭐ Starred [solidjs/solid-app-router](https://github.com/solidjs/solid-app-router)
-5. ⭐ Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)
-6. ⭐ Starred [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev)
-7. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
-8. ⭐ Starred [just-js/just](https://github.com/just-js/just)
+1. ⭐ Starred [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)
+2. ⭐ Starred [rupa/z](https://github.com/rupa/z)
+3. ⭐ Starred [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
+4. ⭐ Starred [solidjs/solid-transition-group](https://github.com/solidjs/solid-transition-group)
+5. ⭐ Starred [solidjs/solid-app-router](https://github.com/solidjs/solid-app-router)
+6. ⭐ Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)
+7. ⭐ Starred [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev)
+8. ⭐ Starred [evanw/esbuild](https://github.com/evanw/esbuild)
 <!--RECENT_ACTIVITY:end-->
