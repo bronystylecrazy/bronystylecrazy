@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 23rd, 2022, 2:33:15 AM
+Last Updated: Saturday, April 23rd, 2022, 3:11:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [07akioni/xicons](https://github.com/07akioni/xicons)
-2. ⭐ Starred [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)
-3. ⭐ Starred [rupa/z](https://github.com/rupa/z)
-4. ⭐ Starred [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
-5. ⭐ Starred [solidjs/solid-transition-group](https://github.com/solidjs/solid-transition-group)
-6. ⭐ Starred [solidjs/solid-app-router](https://github.com/solidjs/solid-app-router)
-7. ⭐ Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)
-8. ⭐ Starred [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev)
+1. ⭐ Starred [typicode/lowdb](https://github.com/typicode/lowdb)
+2. ⭐ Starred [07akioni/xicons](https://github.com/07akioni/xicons)
+3. ⭐ Starred [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)
+4. ⭐ Starred [rupa/z](https://github.com/rupa/z)
+5. ⭐ Starred [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
+6. ⭐ Starred [solidjs/solid-transition-group](https://github.com/solidjs/solid-transition-group)
+7. ⭐ Starred [solidjs/solid-app-router](https://github.com/solidjs/solid-app-router)
+8. ⭐ Starred [solidjs/vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid)
 <!--RECENT_ACTIVITY:end-->
