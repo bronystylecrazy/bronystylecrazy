@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 24th, 2022, 7:15:55 PM
+Last Updated: Sunday, April 24th, 2022, 7:55:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite)
-2. ⭐ Starred [typicode/lowdb](https://github.com/typicode/lowdb)
-3. ⭐ Starred [07akioni/xicons](https://github.com/07akioni/xicons)
-4. ⭐ Starred [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)
-5. ⭐ Starred [rupa/z](https://github.com/rupa/z)
-6. ⭐ Starred [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
-7. ⭐ Starred [solidjs/solid-transition-group](https://github.com/solidjs/solid-transition-group)
-8. ⭐ Starred [solidjs/solid-app-router](https://github.com/solidjs/solid-app-router)
+1. ⭐ Starred [animate-css/animate.css](https://github.com/animate-css/animate.css)
+2. ⭐ Starred [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite)
+3. ⭐ Starred [typicode/lowdb](https://github.com/typicode/lowdb)
+4. ⭐ Starred [07akioni/xicons](https://github.com/07akioni/xicons)
+5. ⭐ Starred [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)
+6. ⭐ Starred [rupa/z](https://github.com/rupa/z)
+7. ⭐ Starred [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
+8. ⭐ Starred [solidjs/solid-transition-group](https://github.com/solidjs/solid-transition-group)
 <!--RECENT_ACTIVITY:end-->
