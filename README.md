@@ -26,17 +26,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 25th, 2022, 7:18:11 PM
+Last Updated: Monday, April 25th, 2022, 8:02:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
-2. ⭐ Starred [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. ⭐ Starred [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite)
-4. ⭐ Starred [typicode/lowdb](https://github.com/typicode/lowdb)
-5. ⭐ Starred [07akioni/xicons](https://github.com/07akioni/xicons)
-6. ⭐ Starred [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)
-7. ⭐ Starred [rupa/z](https://github.com/rupa/z)
-8. ⭐ Starred [solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
+1. ⭐ Starred [vuesomedev/awesome-vue-3](https://github.com/vuesomedev/awesome-vue-3)
+2. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
+3. ⭐ Starred [animate-css/animate.css](https://github.com/animate-css/animate.css)
+4. ⭐ Starred [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite)
+5. ⭐ Starred [typicode/lowdb](https://github.com/typicode/lowdb)
+6. ⭐ Starred [07akioni/xicons](https://github.com/07akioni/xicons)
+7. ⭐ Starred [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets)
+8. ⭐ Starred [rupa/z](https://github.com/rupa/z)
 <!--RECENT_ACTIVITY:end-->
