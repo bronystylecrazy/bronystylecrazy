@@ -3,7 +3,7 @@
 
 ## A little boy who wants to be a Full-Stack Developer, Game Developer, and Blogger.. still practicing!
 
-- 🌱 I’m currently learning Typescript, Go, and Rust! ⚛️
+- 🌱 I’m currently learning Deno, Go, and Rust! ⚛️
 - 🔭 I’m currently working on a small project with my friends!
 - 👯 I’m looking to collaborate on with my friends at KMUTT
 - 💬 Ask me about anything [here](https://github.com/bronystylecrazy/bronystylecrazy/issues)
