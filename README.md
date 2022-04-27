@@ -1,6 +1,6 @@
 ### Hi everyone, I'm [Sirawit Pratoomsuwan!](https://bronystylecrazy.github.io)👋
 
-## I'm a Dreamer, Developer, and Computer Science Student!
+## A little boy who wants to be a Full-Stack Developer, Game Developer, and Blogger.. still practicing!
 
 - 🌱 I’m currently learning Typescript, Go, and Rust! ⚛️
 - 🔭 I’m currently working on a small project with my friends!
