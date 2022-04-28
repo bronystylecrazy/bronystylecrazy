@@ -27,17 +27,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 28th, 2022, 8:07:37 PM
+Last Updated: Thursday, April 28th, 2022, 8:50:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui)
-2. 📔 Created new repository [bronystylecrazy/Curiosity-Labs](https://github.com/bronystylecrazy/Curiosity-Labs)
-3. 📔 Created new repository [bronystylecrazy/Deno-Labs](https://github.com/bronystylecrazy/Deno-Labs)
-4. 📔 Created new repository [bronystylecrazy/Rust-Labs](https://github.com/bronystylecrazy/Rust-Labs)
-5. ⭐ Starred [vuesomedev/awesome-vue-3](https://github.com/vuesomedev/awesome-vue-3)
-6. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
-7. ⭐ Starred [animate-css/animate.css](https://github.com/animate-css/animate.css)
-8. ⭐ Starred [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite)
+1. 📔 Created new repository [bronystylecrazy/Go-Labs](https://github.com/bronystylecrazy/Go-Labs)
+2. ⭐ Starred [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui)
+3. 📔 Created new repository [bronystylecrazy/Curiosity-Labs](https://github.com/bronystylecrazy/Curiosity-Labs)
+4. 📔 Created new repository [bronystylecrazy/Deno-Labs](https://github.com/bronystylecrazy/Deno-Labs)
+5. 📔 Created new repository [bronystylecrazy/Rust-Labs](https://github.com/bronystylecrazy/Rust-Labs)
+6. ⭐ Starred [vuesomedev/awesome-vue-3](https://github.com/vuesomedev/awesome-vue-3)
+7. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
+8. ⭐ Starred [animate-css/animate.css](https://github.com/animate-css/animate.css)
 <!--RECENT_ACTIVITY:end-->
