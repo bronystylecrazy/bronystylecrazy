@@ -27,17 +27,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 2nd, 2022, 4:09:28 AM
+Last Updated: Monday, May 2nd, 2022, 4:36:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gorilla/websocket](https://github.com/gorilla/websocket)
-2. 📔 Created new repository [bronystylecrazy/Go-Labs](https://github.com/bronystylecrazy/Go-Labs)
-3. ⭐ Starred [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui)
-4. 📔 Created new repository [bronystylecrazy/Curiosity-Labs](https://github.com/bronystylecrazy/Curiosity-Labs)
-5. 📔 Created new repository [bronystylecrazy/Deno-Labs](https://github.com/bronystylecrazy/Deno-Labs)
-6. 📔 Created new repository [bronystylecrazy/Rust-Labs](https://github.com/bronystylecrazy/Rust-Labs)
-7. ⭐ Starred [vuesomedev/awesome-vue-3](https://github.com/vuesomedev/awesome-vue-3)
-8. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)
+1. ⭐ Starred [bronystylecrazy/Go-Labs](https://github.com/bronystylecrazy/Go-Labs)
+2. ⭐ Starred [bronystylecrazy/Curiosity-Labs](https://github.com/bronystylecrazy/Curiosity-Labs)
+3. ⭐ Starred [bronystylecrazy/Rust-Labs](https://github.com/bronystylecrazy/Rust-Labs)
+4. ⭐ Starred [bronystylecrazy/Deno-Labs](https://github.com/bronystylecrazy/Deno-Labs)
+5. ⭐ Starred [gorilla/websocket](https://github.com/gorilla/websocket)
+6. 📔 Created new repository [bronystylecrazy/Go-Labs](https://github.com/bronystylecrazy/Go-Labs)
+7. ⭐ Starred [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui)
+8. 📔 Created new repository [bronystylecrazy/Curiosity-Labs](https://github.com/bronystylecrazy/Curiosity-Labs)
 <!--RECENT_ACTIVITY:end-->
