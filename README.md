@@ -27,17 +27,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 3rd, 2022, 2:10:06 PM
+Last Updated: Tuesday, May 3rd, 2022, 2:36:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero)
-2. ⭐ Starred [teafuljs/teaful](https://github.com/teafuljs/teaful)
-3. ⭐ Starred [nanostores/nanostores](https://github.com/nanostores/nanostores)
-4. ⭐ Starred [developit/unistore](https://github.com/developit/unistore)
-5. ⭐ Starred [bronystylecrazy/Go-Labs](https://github.com/bronystylecrazy/Go-Labs)
-6. ⭐ Starred [bronystylecrazy/Curiosity-Labs](https://github.com/bronystylecrazy/Curiosity-Labs)
-7. ⭐ Starred [bronystylecrazy/Rust-Labs](https://github.com/bronystylecrazy/Rust-Labs)
-8. ⭐ Starred [bronystylecrazy/Deno-Labs](https://github.com/bronystylecrazy/Deno-Labs)
+1. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)
+2. ⭐ Starred [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero)
+3. ⭐ Starred [teafuljs/teaful](https://github.com/teafuljs/teaful)
+4. ⭐ Starred [nanostores/nanostores](https://github.com/nanostores/nanostores)
+5. ⭐ Starred [developit/unistore](https://github.com/developit/unistore)
+6. ⭐ Starred [bronystylecrazy/Go-Labs](https://github.com/bronystylecrazy/Go-Labs)
+7. ⭐ Starred [bronystylecrazy/Curiosity-Labs](https://github.com/bronystylecrazy/Curiosity-Labs)
+8. ⭐ Starred [bronystylecrazy/Rust-Labs](https://github.com/bronystylecrazy/Rust-Labs)
 <!--RECENT_ACTIVITY:end-->
