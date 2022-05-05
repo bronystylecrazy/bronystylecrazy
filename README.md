@@ -27,17 +27,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 5th, 2022, 9:49:07 AM
+Last Updated: Thursday, May 5th, 2022, 10:53:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil)
-2. ⭐ Starred [effector/effector](https://github.com/effector/effector)
-3. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)
-4. ⭐ Starred [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero)
-5. ⭐ Starred [teafuljs/teaful](https://github.com/teafuljs/teaful)
-6. ⭐ Starred [nanostores/nanostores](https://github.com/nanostores/nanostores)
-7. ⭐ Starred [developit/unistore](https://github.com/developit/unistore)
-8. ⭐ Starred [bronystylecrazy/Go-Labs](https://github.com/bronystylecrazy/Go-Labs)
+1. ⭐ Starred [remy/nodemon](https://github.com/remy/nodemon)
+2. ⭐ Starred [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil)
+3. ⭐ Starred [effector/effector](https://github.com/effector/effector)
+4. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)
+5. ⭐ Starred [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero)
+6. ⭐ Starred [teafuljs/teaful](https://github.com/teafuljs/teaful)
+7. ⭐ Starred [nanostores/nanostores](https://github.com/nanostores/nanostores)
+8. ⭐ Starred [developit/unistore](https://github.com/developit/unistore)
 <!--RECENT_ACTIVITY:end-->
