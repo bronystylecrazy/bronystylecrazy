@@ -27,17 +27,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 6th, 2022, 6:10:39 AM
+Last Updated: Friday, May 6th, 2022, 6:37:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chalk/chalk](https://github.com/chalk/chalk)
-2. ⭐ Starred [remy/nodemon](https://github.com/remy/nodemon)
-3. ⭐ Starred [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil)
-4. ⭐ Starred [effector/effector](https://github.com/effector/effector)
-5. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)
-6. ⭐ Starred [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero)
-7. ⭐ Starred [teafuljs/teaful](https://github.com/teafuljs/teaful)
-8. ⭐ Starred [nanostores/nanostores](https://github.com/nanostores/nanostores)
+1. ⭐ Starred [bronystylecrazy/bronystylecrazy](https://github.com/bronystylecrazy/bronystylecrazy)
+2. ⭐ Starred [chalk/chalk](https://github.com/chalk/chalk)
+3. ⭐ Starred [remy/nodemon](https://github.com/remy/nodemon)
+4. ⭐ Starred [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil)
+5. ⭐ Starred [effector/effector](https://github.com/effector/effector)
+6. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)
+7. ⭐ Starred [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero)
+8. ⭐ Starred [teafuljs/teaful](https://github.com/teafuljs/teaful)
 <!--RECENT_ACTIVITY:end-->
