@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 9th, 2022, 7:52:39 AM
+Last Updated: Monday, May 9th, 2022, 9:53:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cristianbote/goober](https://github.com/cristianbote/goober)
-2. ⭐ Starred [solidjs/solid-styled-components](https://github.com/solidjs/solid-styled-components)
-3. ⭐ Starred [bronystylecrazy/bronystylecrazy](https://github.com/bronystylecrazy/bronystylecrazy)
-4. ⭐ Starred [chalk/chalk](https://github.com/chalk/chalk)
-5. ⭐ Starred [remy/nodemon](https://github.com/remy/nodemon)
-6. ⭐ Starred [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil)
-7. ⭐ Starred [effector/effector](https://github.com/effector/effector)
-8. ⭐ Starred [juliangarnier/anime](https://github.com/juliangarnier/anime)
+1. ⭐ Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+2. ⭐ Starred [cristianbote/goober](https://github.com/cristianbote/goober)
+3. ⭐ Starred [solidjs/solid-styled-components](https://github.com/solidjs/solid-styled-components)
+4. ⭐ Starred [bronystylecrazy/bronystylecrazy](https://github.com/bronystylecrazy/bronystylecrazy)
+5. ⭐ Starred [chalk/chalk](https://github.com/chalk/chalk)
+6. ⭐ Starred [remy/nodemon](https://github.com/remy/nodemon)
+7. ⭐ Starred [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil)
+8. ⭐ Starred [effector/effector](https://github.com/effector/effector)
 <!--RECENT_ACTIVITY:end-->
 
