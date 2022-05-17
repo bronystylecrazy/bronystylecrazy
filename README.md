@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 17th, 2022, 12:39:59 PM
+Last Updated: Tuesday, May 17th, 2022, 1:14:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
-2. ⭐ Starred [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
-3. 📔 Created new repository [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
-4. ⭐ Starred [serde-rs/json](https://github.com/serde-rs/json)
-5. ⭐ Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
-6. ⭐ Starred [cristianbote/goober](https://github.com/cristianbote/goober)
-7. ⭐ Starred [solidjs/solid-styled-components](https://github.com/solidjs/solid-styled-components)
-8. ⭐ Starred [bronystylecrazy/bronystylecrazy](https://github.com/bronystylecrazy/bronystylecrazy)
+1. ⭐ Starred [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
+2. 📔 Created new repository [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
+3. ⭐ Starred [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
+4. 📔 Created new repository [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
+5. ⭐ Starred [serde-rs/json](https://github.com/serde-rs/json)
+6. ⭐ Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+7. ⭐ Starred [cristianbote/goober](https://github.com/cristianbote/goober)
+8. ⭐ Starred [solidjs/solid-styled-components](https://github.com/solidjs/solid-styled-components)
 <!--RECENT_ACTIVITY:end-->
 
