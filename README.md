@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 4th, 2022, 9:33:05 PM
+Last Updated: Saturday, June 4th, 2022, 10:08:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
-2. 📔 Created new repository [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
-3. ⭐ Starred [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
-4. 📔 Created new repository [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
-5. ⭐ Starred [serde-rs/json](https://github.com/serde-rs/json)
-6. ⭐ Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
-7. ⭐ Starred [cristianbote/goober](https://github.com/cristianbote/goober)
-8. ⭐ Starred [solidjs/solid-styled-components](https://github.com/solidjs/solid-styled-components)
+1. ⭐ Starred [microsoft/node-pty](https://github.com/microsoft/node-pty)
+2. ⭐ Starred [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
+3. 📔 Created new repository [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
+4. ⭐ Starred [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
+5. 📔 Created new repository [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
+6. ⭐ Starred [serde-rs/json](https://github.com/serde-rs/json)
+7. ⭐ Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+8. ⭐ Starred [cristianbote/goober](https://github.com/cristianbote/goober)
 <!--RECENT_ACTIVITY:end-->
 
