@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 5th, 2022, 3:09:42 AM
+Last Updated: Sunday, June 5th, 2022, 3:35:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/node-pty](https://github.com/microsoft/node-pty)
-2. ⭐ Starred [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
-3. 📔 Created new repository [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
-4. ⭐ Starred [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
-5. 📔 Created new repository [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
-6. ⭐ Starred [serde-rs/json](https://github.com/serde-rs/json)
-7. ⭐ Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
-8. ⭐ Starred [cristianbote/goober](https://github.com/cristianbote/goober)
+1. ⭐ Starred [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+2. ⭐ Starred [microsoft/node-pty](https://github.com/microsoft/node-pty)
+3. ⭐ Starred [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
+4. 📔 Created new repository [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
+5. ⭐ Starred [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
+6. 📔 Created new repository [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
+7. ⭐ Starred [serde-rs/json](https://github.com/serde-rs/json)
+8. ⭐ Starred [diesel-rs/diesel](https://github.com/diesel-rs/diesel)
 <!--RECENT_ACTIVITY:end-->
 
