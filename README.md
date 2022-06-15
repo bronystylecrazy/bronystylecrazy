@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 15th, 2022, 8:07:27 PM
+Last Updated: Wednesday, June 15th, 2022, 8:52:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alangpierce/sucrase](https://github.com/alangpierce/sucrase)
-2. ⭐ Starred [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-3. ⭐ Starred [microsoft/node-pty](https://github.com/microsoft/node-pty)
-4. ⭐ Starred [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
-5. 📔 Created new repository [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
-6. ⭐ Starred [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
-7. 📔 Created new repository [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
-8. ⭐ Starred [serde-rs/json](https://github.com/serde-rs/json)
+1. ⭐ Starred [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt)
+2. ⭐ Starred [alangpierce/sucrase](https://github.com/alangpierce/sucrase)
+3. ⭐ Starred [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+4. ⭐ Starred [microsoft/node-pty](https://github.com/microsoft/node-pty)
+5. ⭐ Starred [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
+6. 📔 Created new repository [bronystylecrazy/CSC234-Cuota](https://github.com/bronystylecrazy/CSC234-Cuota)
+7. ⭐ Starred [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
+8. 📔 Created new repository [bronystylecrazy/nodejs-express-template](https://github.com/bronystylecrazy/nodejs-express-template)
 <!--RECENT_ACTIVITY:end-->
 
