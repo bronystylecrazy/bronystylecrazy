@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 18th, 2022, 1:41:52 PM
+Last Updated: Saturday, June 18th, 2022, 2:08:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [immerjs/immer](https://github.com/immerjs/immer)
-2. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
+1. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)
+2. ⭐ Starred [immerjs/immer](https://github.com/immerjs/immer)
 3. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
-4. ⭐ Starred [react-icons/react-icons](https://github.com/react-icons/react-icons)
-5. ⭐ Starred [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt)
-6. ⭐ Starred [alangpierce/sucrase](https://github.com/alangpierce/sucrase)
-7. ⭐ Starred [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-8. ⭐ Starred [microsoft/node-pty](https://github.com/microsoft/node-pty)
+4. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
+5. ⭐ Starred [react-icons/react-icons](https://github.com/react-icons/react-icons)
+6. ⭐ Starred [millsp/ts-toolbelt](https://github.com/millsp/ts-toolbelt)
+7. ⭐ Starred [alangpierce/sucrase](https://github.com/alangpierce/sucrase)
+8. ⭐ Starred [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <!--RECENT_ACTIVITY:end-->
 
