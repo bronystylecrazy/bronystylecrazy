@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 22nd, 2022, 12:02:28 AM
+Last Updated: Wednesday, June 22nd, 2022, 12:48:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bronystylecrazy/example-arttify](https://github.com/bronystylecrazy/example-arttify)
-2. ⭐ Starred [electron/electron-api-demos](https://github.com/electron/electron-api-demos)
-3. ⭐ Starred [sindresorhus/got](https://github.com/sindresorhus/got)
-4. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)
-5. ⭐ Starred [immerjs/immer](https://github.com/immerjs/immer)
-6. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
-7. ⭐ Starred [pmndrs/zustand](https://github.com/pmndrs/zustand)
-8. ⭐ Starred [react-icons/react-icons](https://github.com/react-icons/react-icons)
+1. ⭐ Starred [danielstjules/pjs](https://github.com/danielstjules/pjs)
+2. ⭐ Starred [sindresorhus/log-update](https://github.com/sindresorhus/log-update)
+3. ⭐ Starred [chjj/blessed](https://github.com/chjj/blessed)
+4. ⭐ Starred [bronystylecrazy/example-arttify](https://github.com/bronystylecrazy/example-arttify)
+5. ⭐ Starred [electron/electron-api-demos](https://github.com/electron/electron-api-demos)
+6. ⭐ Starred [sindresorhus/got](https://github.com/sindresorhus/got)
+7. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)
+8. ⭐ Starred [immerjs/immer](https://github.com/immerjs/immer)
 <!--RECENT_ACTIVITY:end-->
 
