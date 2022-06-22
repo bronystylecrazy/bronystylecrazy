@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 22nd, 2022, 3:15:09 PM
+Last Updated: Wednesday, June 22nd, 2022, 3:46:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [danielstjules/pjs](https://github.com/danielstjules/pjs)
-2. ⭐ Starred [sindresorhus/log-update](https://github.com/sindresorhus/log-update)
-3. ⭐ Starred [chjj/blessed](https://github.com/chjj/blessed)
-4. ⭐ Starred [bronystylecrazy/example-arttify](https://github.com/bronystylecrazy/example-arttify)
-5. ⭐ Starred [electron/electron-api-demos](https://github.com/electron/electron-api-demos)
-6. ⭐ Starred [sindresorhus/got](https://github.com/sindresorhus/got)
-7. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)
-8. ⭐ Starred [immerjs/immer](https://github.com/immerjs/immer)
+1. ⭐ Starred [dapr/dapr](https://github.com/dapr/dapr)
+2. ⭐ Starred [danielstjules/pjs](https://github.com/danielstjules/pjs)
+3. ⭐ Starred [sindresorhus/log-update](https://github.com/sindresorhus/log-update)
+4. ⭐ Starred [chjj/blessed](https://github.com/chjj/blessed)
+5. ⭐ Starred [bronystylecrazy/example-arttify](https://github.com/bronystylecrazy/example-arttify)
+6. ⭐ Starred [electron/electron-api-demos](https://github.com/electron/electron-api-demos)
+7. ⭐ Starred [sindresorhus/got](https://github.com/sindresorhus/got)
+8. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)
 <!--RECENT_ACTIVITY:end-->
 
