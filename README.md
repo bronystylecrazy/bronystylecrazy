@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 26th, 2022, 12:35:19 PM
+Last Updated: Sunday, June 26th, 2022, 1:11:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [swc-project/swc-node](https://github.com/swc-project/swc-node)
-2. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)
-3. ⭐ Starred [bronystylecrazy/create-artty-app](https://github.com/bronystylecrazy/create-artty-app)
-4. 📔 Created new repository [bronystylecrazy/create-artty-app](https://github.com/bronystylecrazy/create-artty-app)
-5. ⭐ Starred [dapr/dapr](https://github.com/dapr/dapr)
-6. ⭐ Starred [danielstjules/pjs](https://github.com/danielstjules/pjs)
-7. ⭐ Starred [sindresorhus/log-update](https://github.com/sindresorhus/log-update)
-8. ⭐ Starred [chjj/blessed](https://github.com/chjj/blessed)
+1. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+2. ⭐ Starred [swc-project/swc-node](https://github.com/swc-project/swc-node)
+3. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)
+4. ⭐ Starred [bronystylecrazy/create-artty-app](https://github.com/bronystylecrazy/create-artty-app)
+5. 📔 Created new repository [bronystylecrazy/create-artty-app](https://github.com/bronystylecrazy/create-artty-app)
+6. ⭐ Starred [dapr/dapr](https://github.com/dapr/dapr)
+7. ⭐ Starred [danielstjules/pjs](https://github.com/danielstjules/pjs)
+8. ⭐ Starred [sindresorhus/log-update](https://github.com/sindresorhus/log-update)
 <!--RECENT_ACTIVITY:end-->
 
