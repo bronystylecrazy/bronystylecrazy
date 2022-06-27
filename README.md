@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 27th, 2022, 8:56:59 PM
+Last Updated: Monday, June 27th, 2022, 9:15:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [proyecto26/RestClient](https://github.com/proyecto26/RestClient)
-2. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-3. ⭐ Starred [swc-project/swc-node](https://github.com/swc-project/swc-node)
-4. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)
-5. ⭐ Starred [bronystylecrazy/create-artty-app](https://github.com/bronystylecrazy/create-artty-app)
-6. 📔 Created new repository [bronystylecrazy/create-artty-app](https://github.com/bronystylecrazy/create-artty-app)
-7. ⭐ Starred [dapr/dapr](https://github.com/dapr/dapr)
-8. ⭐ Starred [danielstjules/pjs](https://github.com/danielstjules/pjs)
+1. ⭐ Starred [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
+2. ⭐ Starred [proyecto26/RestClient](https://github.com/proyecto26/RestClient)
+3. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+4. ⭐ Starred [swc-project/swc-node](https://github.com/swc-project/swc-node)
+5. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)
+6. ⭐ Starred [bronystylecrazy/create-artty-app](https://github.com/bronystylecrazy/create-artty-app)
+7. 📔 Created new repository [bronystylecrazy/create-artty-app](https://github.com/bronystylecrazy/create-artty-app)
+8. ⭐ Starred [dapr/dapr](https://github.com/dapr/dapr)
 <!--RECENT_ACTIVITY:end-->
 
