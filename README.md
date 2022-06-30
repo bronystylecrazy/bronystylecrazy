@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 30th, 2022, 11:10:23 AM
+Last Updated: Thursday, June 30th, 2022, 12:01:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-2. ⭐ Starred [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-3. ⭐ Starred [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
-4. ⭐ Starred [proyecto26/RestClient](https://github.com/proyecto26/RestClient)
-5. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-6. ⭐ Starred [swc-project/swc-node](https://github.com/swc-project/swc-node)
-7. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)
-8. ⭐ Starred [bronystylecrazy/create-artty-app](https://github.com/bronystylecrazy/create-artty-app)
+1. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+2. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
+3. ⭐ Starred [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+4. ⭐ Starred [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
+5. ⭐ Starred [proyecto26/RestClient](https://github.com/proyecto26/RestClient)
+6. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+7. ⭐ Starred [swc-project/swc-node](https://github.com/swc-project/swc-node)
+8. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)
 <!--RECENT_ACTIVITY:end-->
 
