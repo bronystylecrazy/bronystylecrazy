@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 30th, 2022, 1:47:23 PM
+Last Updated: Thursday, June 30th, 2022, 2:07:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-2. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-3. ⭐ Starred [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-4. ⭐ Starred [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
-5. ⭐ Starred [proyecto26/RestClient](https://github.com/proyecto26/RestClient)
-6. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
-7. ⭐ Starred [swc-project/swc-node](https://github.com/swc-project/swc-node)
-8. ⭐ Starred [swc-project/swc](https://github.com/swc-project/swc)
+1. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+2. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+3. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
+4. ⭐ Starred [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+5. ⭐ Starred [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
+6. ⭐ Starred [proyecto26/RestClient](https://github.com/proyecto26/RestClient)
+7. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+8. ⭐ Starred [swc-project/swc-node](https://github.com/swc-project/swc-node)
 <!--RECENT_ACTIVITY:end-->
 
