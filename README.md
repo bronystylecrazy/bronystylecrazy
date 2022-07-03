@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 3rd, 2022, 12:34:07 PM
+Last Updated: Sunday, July 3rd, 2022, 1:12:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Unity-Technologies/com.unity.services.samples.use-cases](https://github.com/Unity-Technologies/com.unity.services.samples.use-cases)
-2. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
-3. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-4. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-5. ⭐ Starred [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-6. ⭐ Starred [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
-7. ⭐ Starred [proyecto26/RestClient](https://github.com/proyecto26/RestClient)
-8. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+1. ⭐ Starred [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
+2. ⭐ Starred [Unity-Technologies/com.unity.services.samples.use-cases](https://github.com/Unity-Technologies/com.unity.services.samples.use-cases)
+3. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+4. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+5. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
+6. ⭐ Starred [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+7. ⭐ Starred [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
+8. ⭐ Starred [proyecto26/RestClient](https://github.com/proyecto26/RestClient)
 <!--RECENT_ACTIVITY:end-->
 
