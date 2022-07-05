@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 5th, 2022, 8:11:23 PM
+Last Updated: Tuesday, July 5th, 2022, 8:55:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)
-2. ⭐ Starred [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
-3. ⭐ Starred [Unity-Technologies/com.unity.services.samples.use-cases](https://github.com/Unity-Technologies/com.unity.services.samples.use-cases)
-4. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
-5. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-6. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-7. ⭐ Starred [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
-8. ⭐ Starred [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)
+1. ⭐ Starred [FloatKasemtan/CSC291-INFORME](https://github.com/FloatKasemtan/CSC291-INFORME)
+2. ⭐ Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)
+3. ⭐ Starred [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
+4. ⭐ Starred [Unity-Technologies/com.unity.services.samples.use-cases](https://github.com/Unity-Technologies/com.unity.services.samples.use-cases)
+5. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+6. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+7. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
+8. ⭐ Starred [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
 <!--RECENT_ACTIVITY:end-->
 
