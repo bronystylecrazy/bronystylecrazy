@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 7th, 2022, 4:37:21 PM
+Last Updated: Thursday, July 7th, 2022, 5:11:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FloatKasemtan/CSC291-INFORME](https://github.com/FloatKasemtan/CSC291-INFORME)
-2. ⭐ Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)
-3. ⭐ Starred [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
-4. ⭐ Starred [Unity-Technologies/com.unity.services.samples.use-cases](https://github.com/Unity-Technologies/com.unity.services.samples.use-cases)
-5. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
-6. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-7. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-8. ⭐ Starred [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver)
+1. ⭐ Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+2. ⭐ Starred [FloatKasemtan/CSC291-INFORME](https://github.com/FloatKasemtan/CSC291-INFORME)
+3. ⭐ Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)
+4. ⭐ Starred [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
+5. ⭐ Starred [Unity-Technologies/com.unity.services.samples.use-cases](https://github.com/Unity-Technologies/com.unity.services.samples.use-cases)
+6. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+7. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+8. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
 <!--RECENT_ACTIVITY:end-->
 
