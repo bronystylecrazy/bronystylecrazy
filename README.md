@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 21st, 2022, 7:20:00 PM
+Last Updated: Thursday, July 21st, 2022, 8:08:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [goldfire/howler.js](https://github.com/goldfire/howler.js)
-2. ⭐ Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-3. ⭐ Starred [FloatKasemtan/CSC291-INFORME](https://github.com/FloatKasemtan/CSC291-INFORME)
-4. ⭐ Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)
-5. ⭐ Starred [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
-6. ⭐ Starred [Unity-Technologies/com.unity.services.samples.use-cases](https://github.com/Unity-Technologies/com.unity.services.samples.use-cases)
-7. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
-8. ⭐ Starred [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+1. ⭐ Starred [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx)
+2. ⭐ Starred [qax-os/excelize](https://github.com/qax-os/excelize)
+3. ⭐ Starred [goldfire/howler.js](https://github.com/goldfire/howler.js)
+4. ⭐ Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+5. ⭐ Starred [FloatKasemtan/CSC291-INFORME](https://github.com/FloatKasemtan/CSC291-INFORME)
+6. ⭐ Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)
+7. ⭐ Starred [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
+8. ⭐ Starred [Unity-Technologies/com.unity.services.samples.use-cases](https://github.com/Unity-Technologies/com.unity.services.samples.use-cases)
 <!--RECENT_ACTIVITY:end-->
 
