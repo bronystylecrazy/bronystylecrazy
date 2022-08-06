@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 6th, 2022, 6:35:49 PM
+Last Updated: Saturday, August 6th, 2022, 7:16:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [go-redis/redis](https://github.com/go-redis/redis)
-2. ⭐ Starred [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx)
-3. ⭐ Starred [qax-os/excelize](https://github.com/qax-os/excelize)
-4. ⭐ Starred [goldfire/howler.js](https://github.com/goldfire/howler.js)
-5. ⭐ Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-6. ⭐ Starred [FloatKasemtan/CSC291-INFORME](https://github.com/FloatKasemtan/CSC291-INFORME)
-7. ⭐ Starred [JuliaLang/julia](https://github.com/JuliaLang/julia)
-8. ⭐ Starred [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks)
+1. ⭐ Starred [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go)
+2. ⭐ Starred [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)
+3. ⭐ Starred [go-redis/redis](https://github.com/go-redis/redis)
+4. ⭐ Starred [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx)
+5. ⭐ Starred [qax-os/excelize](https://github.com/qax-os/excelize)
+6. ⭐ Starred [goldfire/howler.js](https://github.com/goldfire/howler.js)
+7. ⭐ Starred [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+8. ⭐ Starred [FloatKasemtan/CSC291-INFORME](https://github.com/FloatKasemtan/CSC291-INFORME)
 <!--RECENT_ACTIVITY:end-->
 
