@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 9th, 2022, 7:24:04 PM
+Last Updated: Tuesday, August 9th, 2022, 8:12:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pjreddie/darknet](https://github.com/pjreddie/darknet)
-2. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
-3. ⭐ Starred [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go)
-4. ⭐ Starred [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)
-5. ⭐ Starred [go-redis/redis](https://github.com/go-redis/redis)
-6. ⭐ Starred [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx)
-7. ⭐ Starred [qax-os/excelize](https://github.com/qax-os/excelize)
-8. ⭐ Starred [goldfire/howler.js](https://github.com/goldfire/howler.js)
+1. ⭐ Starred [yuin/gopher-lua](https://github.com/yuin/gopher-lua)
+2. ⭐ Starred [pjreddie/darknet](https://github.com/pjreddie/darknet)
+3. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+4. ⭐ Starred [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go)
+5. ⭐ Starred [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)
+6. ⭐ Starred [go-redis/redis](https://github.com/go-redis/redis)
+7. ⭐ Starred [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx)
+8. ⭐ Starred [qax-os/excelize](https://github.com/qax-os/excelize)
 <!--RECENT_ACTIVITY:end-->
 
