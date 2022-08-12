@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 12th, 2022, 3:42:25 PM
+Last Updated: Friday, August 12th, 2022, 4:10:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pelletier/go-toml](https://github.com/pelletier/go-toml)
-2. ⭐ Starred [yuin/gopher-lua](https://github.com/yuin/gopher-lua)
-3. ⭐ Starred [pjreddie/darknet](https://github.com/pjreddie/darknet)
-4. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
-5. ⭐ Starred [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go)
-6. ⭐ Starred [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)
-7. ⭐ Starred [go-redis/redis](https://github.com/go-redis/redis)
-8. ⭐ Starred [mgcrea/node-xlsx](https://github.com/mgcrea/node-xlsx)
+1. ⭐ Starred [swordev/suid](https://github.com/swordev/suid)
+2. ⭐ Starred [pelletier/go-toml](https://github.com/pelletier/go-toml)
+3. ⭐ Starred [yuin/gopher-lua](https://github.com/yuin/gopher-lua)
+4. ⭐ Starred [pjreddie/darknet](https://github.com/pjreddie/darknet)
+5. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+6. ⭐ Starred [rethinkdb/rethinkdb-go](https://github.com/rethinkdb/rethinkdb-go)
+7. ⭐ Starred [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb)
+8. ⭐ Starred [go-redis/redis](https://github.com/go-redis/redis)
 <!--RECENT_ACTIVITY:end-->
 
