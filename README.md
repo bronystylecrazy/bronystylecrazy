@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 25th, 2022, 7:21:56 PM
+Last Updated: Thursday, August 25th, 2022, 8:09:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-2. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
-3. ⭐ Starred [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-4. ⭐ Starred [swordev/suid](https://github.com/swordev/suid)
-5. ⭐ Starred [pelletier/go-toml](https://github.com/pelletier/go-toml)
-6. ⭐ Starred [yuin/gopher-lua](https://github.com/yuin/gopher-lua)
-7. ⭐ Starred [pjreddie/darknet](https://github.com/pjreddie/darknet)
-8. ⭐ Starred [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+1. ⭐ Starred [c-hive/guides](https://github.com/c-hive/guides)
+2. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+3. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+4. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
+5. ⭐ Starred [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+6. ⭐ Starred [swordev/suid](https://github.com/swordev/suid)
+7. ⭐ Starred [pelletier/go-toml](https://github.com/pelletier/go-toml)
+8. ⭐ Starred [yuin/gopher-lua](https://github.com/yuin/gopher-lua)
 <!--RECENT_ACTIVITY:end-->
 
