@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 26th, 2022, 2:39:38 PM
+Last Updated: Friday, August 26th, 2022, 3:13:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [c-hive/guides](https://github.com/c-hive/guides)
-2. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
-3. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-4. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
-5. ⭐ Starred [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-6. ⭐ Starred [swordev/suid](https://github.com/swordev/suid)
-7. ⭐ Starred [pelletier/go-toml](https://github.com/pelletier/go-toml)
-8. ⭐ Starred [yuin/gopher-lua](https://github.com/yuin/gopher-lua)
+1. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
+2. ⭐ Starred [c-hive/guides](https://github.com/c-hive/guides)
+3. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+4. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+5. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
+6. ⭐ Starred [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+7. ⭐ Starred [swordev/suid](https://github.com/swordev/suid)
+8. ⭐ Starred [pelletier/go-toml](https://github.com/pelletier/go-toml)
 <!--RECENT_ACTIVITY:end-->
 
