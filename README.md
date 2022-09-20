@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 21st, 2022, 3:42:35 AM
+Last Updated: Wednesday, September 21st, 2022, 4:09:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hiddentao/squel](https://github.com/hiddentao/squel)
-2. ⭐ Starred [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3)
-3. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
-4. ⭐ Starred [c-hive/guides](https://github.com/c-hive/guides)
-5. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
-6. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-7. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
-8. ⭐ Starred [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+1. ⭐ Starred [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
+2. ⭐ Starred [hiddentao/squel](https://github.com/hiddentao/squel)
+3. ⭐ Starred [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3)
+4. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
+5. ⭐ Starred [c-hive/guides](https://github.com/c-hive/guides)
+6. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+7. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+8. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
 <!--RECENT_ACTIVITY:end-->
 
