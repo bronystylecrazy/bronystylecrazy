@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 1st, 2022, 11:59:08 PM
+Last Updated: Sunday, October 2nd, 2022, 12:27:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
-2. ⭐ Starred [hiddentao/squel](https://github.com/hiddentao/squel)
-3. ⭐ Starred [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3)
-4. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
-5. ⭐ Starred [c-hive/guides](https://github.com/c-hive/guides)
-6. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
-7. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-8. ⭐ Starred [pmndrs/drei](https://github.com/pmndrs/drei)
+1. ⭐ Starred [dsoprea/go-exif](https://github.com/dsoprea/go-exif)
+2. ⭐ Starred [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
+3. ⭐ Starred [hiddentao/squel](https://github.com/hiddentao/squel)
+4. ⭐ Starred [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3)
+5. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
+6. ⭐ Starred [c-hive/guides](https://github.com/c-hive/guides)
+7. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+8. ⭐ Starred [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 <!--RECENT_ACTIVITY:end-->
 
