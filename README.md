@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 7th, 2022, 9:52:38 PM
+Last Updated: Friday, October 7th, 2022, 10:14:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [preactjs/preact-cli](https://github.com/preactjs/preact-cli)
-2. ⭐ Starred [dsoprea/go-exif](https://github.com/dsoprea/go-exif)
-3. ⭐ Starred [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
-4. ⭐ Starred [hiddentao/squel](https://github.com/hiddentao/squel)
-5. ⭐ Starred [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3)
-6. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
-7. ⭐ Starred [c-hive/guides](https://github.com/c-hive/guides)
-8. ⭐ Starred [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji)
+1. ⭐ Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)
+2. ⭐ Starred [preactjs/preact-cli](https://github.com/preactjs/preact-cli)
+3. ⭐ Starred [dsoprea/go-exif](https://github.com/dsoprea/go-exif)
+4. ⭐ Starred [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
+5. ⭐ Starred [hiddentao/squel](https://github.com/hiddentao/squel)
+6. ⭐ Starred [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3)
+7. ⭐ Starred [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang)
+8. ⭐ Starred [c-hive/guides](https://github.com/c-hive/guides)
 <!--RECENT_ACTIVITY:end-->
 
