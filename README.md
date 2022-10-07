@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 8th, 2022, 1:30:45 AM
+Last Updated: Saturday, October 8th, 2022, 2:15:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [solidjs/solid-start](https://github.com/solidjs/solid-start)
-2. ⭐ Starred [pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend)
-3. ⭐ Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)
-4. ⭐ Starred [preactjs/preact-cli](https://github.com/preactjs/preact-cli)
-5. ⭐ Starred [dsoprea/go-exif](https://github.com/dsoprea/go-exif)
-6. ⭐ Starred [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
-7. ⭐ Starred [hiddentao/squel](https://github.com/hiddentao/squel)
-8. ⭐ Starred [TryGhost/node-sqlite3](https://github.com/TryGhost/node-sqlite3)
+1. ⭐ Starred [wobsoriano/solid-zustand](https://github.com/wobsoriano/solid-zustand)
+2. ⭐ Starred [solidjs/solid-start](https://github.com/solidjs/solid-start)
+3. ⭐ Starred [pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend)
+4. ⭐ Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)
+5. ⭐ Starred [preactjs/preact-cli](https://github.com/preactjs/preact-cli)
+6. ⭐ Starred [dsoprea/go-exif](https://github.com/dsoprea/go-exif)
+7. ⭐ Starred [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
+8. ⭐ Starred [hiddentao/squel](https://github.com/hiddentao/squel)
 <!--RECENT_ACTIVITY:end-->
 
