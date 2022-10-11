@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 11th, 2022, 3:30:30 PM
+Last Updated: Tuesday, October 11th, 2022, 4:18:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-2. ⭐ Starred [bronystylecrazy/JustAnAlgorithm](https://github.com/bronystylecrazy/JustAnAlgorithm)
-3. 🔱 Forked [bronystylecrazy/JustAnAlgorithm](https://github.com/bronystylecrazy/JustAnAlgorithm) from [GGolfz/JustAnAlgorithm](https://github.com/GGolfz/JustAnAlgorithm)
-4. ⭐ Starred [GGolfz/JustAnAlgorithm](https://github.com/GGolfz/JustAnAlgorithm)
-5. ⭐ Starred [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf)
-6. 🔱 Forked [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf) from [FloatKasemtan/Code-Golf](https://github.com/FloatKasemtan/Code-Golf)
-7. ⭐ Starred [myWsq/solid-immer](https://github.com/myWsq/solid-immer)
-8. ⭐ Starred [standard/standard](https://github.com/standard/standard)
+1. ⭐ Starred [GDSC-KMUTT/Diffuse](https://github.com/GDSC-KMUTT/Diffuse)
+2. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+3. ⭐ Starred [bronystylecrazy/JustAnAlgorithm](https://github.com/bronystylecrazy/JustAnAlgorithm)
+4. 🔱 Forked [bronystylecrazy/JustAnAlgorithm](https://github.com/bronystylecrazy/JustAnAlgorithm) from [GGolfz/JustAnAlgorithm](https://github.com/GGolfz/JustAnAlgorithm)
+5. ⭐ Starred [GGolfz/JustAnAlgorithm](https://github.com/GGolfz/JustAnAlgorithm)
+6. ⭐ Starred [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf)
+7. 🔱 Forked [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf) from [FloatKasemtan/Code-Golf](https://github.com/FloatKasemtan/Code-Golf)
+8. ⭐ Starred [myWsq/solid-immer](https://github.com/myWsq/solid-immer)
 <!--RECENT_ACTIVITY:end-->
 
