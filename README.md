@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 13th, 2022, 10:57:13 AM
+Last Updated: Thursday, October 13th, 2022, 12:22:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf) from [CS20-SIT/Code-Golf](https://github.com/CS20-SIT/Code-Golf)
 2. ⭐ Starred [bronystylecrazy/NutPortfolio](https://github.com/bronystylecrazy/NutPortfolio)
-3. ⭐ Starred [ryansolid/solid-quickstart](https://github.com/ryansolid/solid-quickstart)
-4. 📔 Created new repository [bronystylecrazy/NutPortfolio](https://github.com/bronystylecrazy/NutPortfolio)
-5. ⭐ Starred [GDSC-KMUTT/Diffuse](https://github.com/GDSC-KMUTT/Diffuse)
-6. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-7. ⭐ Starred [bronystylecrazy/JustAnAlgorithm](https://github.com/bronystylecrazy/JustAnAlgorithm)
-8. 🔱 Forked [bronystylecrazy/JustAnAlgorithm](https://github.com/bronystylecrazy/JustAnAlgorithm) from [GGolfz/JustAnAlgorithm](https://github.com/GGolfz/JustAnAlgorithm)
+3. 📔 Created new repository [bronystylecrazy/NutPortfolio](https://github.com/bronystylecrazy/NutPortfolio)
+4. ⭐ Starred [GDSC-KMUTT/Diffuse](https://github.com/GDSC-KMUTT/Diffuse)
+5. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+6. ⭐ Starred [bronystylecrazy/JustAnAlgorithm](https://github.com/bronystylecrazy/JustAnAlgorithm)
+7. 🔱 Forked [bronystylecrazy/JustAnAlgorithm](https://github.com/bronystylecrazy/JustAnAlgorithm) from [GGolfz/JustAnAlgorithm](https://github.com/GGolfz/JustAnAlgorithm)
+8. ⭐ Starred [GGolfz/JustAnAlgorithm](https://github.com/GGolfz/JustAnAlgorithm)
 <!--RECENT_ACTIVITY:end-->
 
