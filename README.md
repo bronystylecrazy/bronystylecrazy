@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 19th, 2022, 1:55:41 PM
+Last Updated: Wednesday, October 19th, 2022, 2:37:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. ⭐ Starred [sveltinio/sveltin](https://github.com/sveltinio/sveltin)
-3. ⭐ Starred [lxsmnsyc/solid-popper](https://github.com/lxsmnsyc/solid-popper)
-4. 🔱 Forked [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf) from [CS20-SIT/Code-Golf](https://github.com/CS20-SIT/Code-Golf)
-5. ⭐ Starred [bronystylecrazy/NutPortfolio](https://github.com/bronystylecrazy/NutPortfolio)
-6. 📔 Created new repository [bronystylecrazy/NutPortfolio](https://github.com/bronystylecrazy/NutPortfolio)
-7. ⭐ Starred [GDSC-KMUTT/Diffuse](https://github.com/GDSC-KMUTT/Diffuse)
-8. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+1. ⭐ Starred [pmndrs/valtio](https://github.com/pmndrs/valtio)
+2. ⭐ Starred [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. ⭐ Starred [sveltinio/sveltin](https://github.com/sveltinio/sveltin)
+4. ⭐ Starred [lxsmnsyc/solid-popper](https://github.com/lxsmnsyc/solid-popper)
+5. 🔱 Forked [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf) from [CS20-SIT/Code-Golf](https://github.com/CS20-SIT/Code-Golf)
+6. ⭐ Starred [bronystylecrazy/NutPortfolio](https://github.com/bronystylecrazy/NutPortfolio)
+7. 📔 Created new repository [bronystylecrazy/NutPortfolio](https://github.com/bronystylecrazy/NutPortfolio)
+8. ⭐ Starred [GDSC-KMUTT/Diffuse](https://github.com/GDSC-KMUTT/Diffuse)
 <!--RECENT_ACTIVITY:end-->
 
