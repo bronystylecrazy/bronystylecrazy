@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 24th, 2022, 12:01:12 AM
+Last Updated: Monday, October 24th, 2022, 12:50:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-2. 🎉 Merged PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-3. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-4. ⭐ Starred [mefechoel/svelte-navigator](https://github.com/mefechoel/svelte-navigator)
-5. ⭐ Starred [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-6. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-7. ⭐ Starred [pmndrs/valtio](https://github.com/pmndrs/valtio)
-8. ⭐ Starred [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. ⭐ Starred [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+2. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+3. 🎉 Merged PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+4. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+5. ⭐ Starred [mefechoel/svelte-navigator](https://github.com/mefechoel/svelte-navigator)
+6. ⭐ Starred [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+7. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+8. ⭐ Starred [pmndrs/valtio](https://github.com/pmndrs/valtio)
 <!--RECENT_ACTIVITY:end-->
 
