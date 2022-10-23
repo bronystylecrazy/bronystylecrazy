@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 23rd, 2022, 7:23:10 PM
+Last Updated: Sunday, October 23rd, 2022, 8:12:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pmndrs/valtio](https://github.com/pmndrs/valtio)
-2. ⭐ Starred [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-3. ⭐ Starred [sveltinio/sveltin](https://github.com/sveltinio/sveltin)
-4. ⭐ Starred [lxsmnsyc/solid-popper](https://github.com/lxsmnsyc/solid-popper)
-5. 🔱 Forked [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf) from [CS20-SIT/Code-Golf](https://github.com/CS20-SIT/Code-Golf)
-6. ⭐ Starred [bronystylecrazy/NutPortfolio](https://github.com/bronystylecrazy/NutPortfolio)
-7. 📔 Created new repository [bronystylecrazy/NutPortfolio](https://github.com/bronystylecrazy/NutPortfolio)
-8. ⭐ Starred [GDSC-KMUTT/Diffuse](https://github.com/GDSC-KMUTT/Diffuse)
+1. ⭐ Starred [mefechoel/svelte-navigator](https://github.com/mefechoel/svelte-navigator)
+2. ⭐ Starred [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+3. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+4. ⭐ Starred [pmndrs/valtio](https://github.com/pmndrs/valtio)
+5. ⭐ Starred [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+6. ⭐ Starred [sveltinio/sveltin](https://github.com/sveltinio/sveltin)
+7. ⭐ Starred [lxsmnsyc/solid-popper](https://github.com/lxsmnsyc/solid-popper)
+8. 🔱 Forked [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf) from [CS20-SIT/Code-Golf](https://github.com/CS20-SIT/Code-Golf)
 <!--RECENT_ACTIVITY:end-->
 
