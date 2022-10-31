@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 31st, 2022, 9:07:36 PM
+Last Updated: Monday, October 31st, 2022, 9:46:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-2. ⭐ Starred [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
-3. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-4. 🎉 Merged PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+1. 🔱 Forked [bronystylecrazy/Leaderboard-Demo](https://github.com/bronystylecrazy/Leaderboard-Demo) from [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
+2. ⭐ Starred [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
+3. 🤝 Became collaborator on [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+4. ⭐ Starred [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
 5. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-6. ⭐ Starred [mefechoel/svelte-navigator](https://github.com/mefechoel/svelte-navigator)
-7. ⭐ Starred [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-8. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+6. 🎉 Merged PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+7. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+8. ⭐ Starred [mefechoel/svelte-navigator](https://github.com/mefechoel/svelte-navigator)
 <!--RECENT_ACTIVITY:end-->
 
