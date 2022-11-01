@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 1st, 2022, 2:39:12 PM
+Last Updated: Tuesday, November 1st, 2022, 3:15:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/FloatKasemtan/Leaderboard-Demo/pull/1) in [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
-2. 🔱 Forked [bronystylecrazy/Leaderboard-Demo](https://github.com/bronystylecrazy/Leaderboard-Demo) from [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
-3. ⭐ Starred [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
-4. 🤝 Became collaborator on [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-5. ⭐ Starred [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
-6. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-7. 🎉 Merged PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-8. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+1. 📔 Created new repository [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
+2. 💪 Opened PR [#1](https://github.com/FloatKasemtan/Leaderboard-Demo/pull/1) in [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
+3. 🔱 Forked [bronystylecrazy/Leaderboard-Demo](https://github.com/bronystylecrazy/Leaderboard-Demo) from [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
+4. ⭐ Starred [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
+5. 🤝 Became collaborator on [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+6. ⭐ Starred [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)
+7. 💪 Opened PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+8. 🎉 Merged PR [#1](https://github.com/CSSIT21/ICTChallenge/pull/1) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
 <!--RECENT_ACTIVITY:end-->
 
