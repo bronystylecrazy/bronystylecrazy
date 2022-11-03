@@ -29,7 +29,7 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 3rd, 2022, 3:16:16 PM
+Last Updated: Thursday, November 3rd, 2022, 3:45:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
@@ -37,10 +37,10 @@ Last Updated: Thursday, November 3rd, 2022, 3:16:16 PM
 1. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
 2. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
 3. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
-4. 📔 Created new repository [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
-5. 💪 Opened PR [#1](https://github.com/FloatKasemtan/Leaderboard-Demo/pull/1) in [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
-6. 🔱 Forked [bronystylecrazy/Leaderboard-Demo](https://github.com/bronystylecrazy/Leaderboard-Demo) from [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
-7. ⭐ Starred [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
-8. 🤝 Became collaborator on [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+4. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
+5. 📔 Created new repository [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
+6. 💪 Opened PR [#1](https://github.com/FloatKasemtan/Leaderboard-Demo/pull/1) in [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
+7. 🔱 Forked [bronystylecrazy/Leaderboard-Demo](https://github.com/bronystylecrazy/Leaderboard-Demo) from [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
+8. ⭐ Starred [FloatKasemtan/Leaderboard-Demo](https://github.com/FloatKasemtan/Leaderboard-Demo)
 <!--RECENT_ACTIVITY:end-->
 
