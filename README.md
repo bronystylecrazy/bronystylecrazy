@@ -29,16 +29,16 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 14th, 2022, 4:39:02 PM
+Last Updated: Monday, November 14th, 2022, 5:13:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#9](https://github.com/CSSIT21/ICTChallenge/pull/9) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-2. 👍 Approved [#9](https://github.com/CSSIT21/ICTChallenge/pull/9#pullrequestreview-1176294127) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-3. ⭐ Starred [pimrada641/RedRidingHood](https://github.com/pimrada641/RedRidingHood)
-4. ⭐ Starred [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1)
-5. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
+1. ⭐ Starred [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+2. 🎉 Merged PR [#9](https://github.com/CSSIT21/ICTChallenge/pull/9) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+3. 👍 Approved [#9](https://github.com/CSSIT21/ICTChallenge/pull/9#pullrequestreview-1176294127) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+4. ⭐ Starred [pimrada641/RedRidingHood](https://github.com/pimrada641/RedRidingHood)
+5. ⭐ Starred [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1)
 6. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
 7. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
 8. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
