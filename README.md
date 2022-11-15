@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 15th, 2022, 9:36:14 PM
+Last Updated: Tuesday, November 15th, 2022, 10:10:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-2. 🎉 Merged PR [#9](https://github.com/CSSIT21/ICTChallenge/pull/9) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-3. 👍 Approved [#9](https://github.com/CSSIT21/ICTChallenge/pull/9#pullrequestreview-1176294127) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-4. ⭐ Starred [pimrada641/RedRidingHood](https://github.com/pimrada641/RedRidingHood)
-5. ⭐ Starred [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1)
-6. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
-7. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
-8. 🤝 Became collaborator on [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
+1. ⭐ Starred [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
+2. ⭐ Starred [bronystylecrazy/Leaderboard-Demo](https://github.com/bronystylecrazy/Leaderboard-Demo)
+3. ⭐ Starred [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf)
+4. ⭐ Starred [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+5. 🎉 Merged PR [#9](https://github.com/CSSIT21/ICTChallenge/pull/9) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+6. 👍 Approved [#9](https://github.com/CSSIT21/ICTChallenge/pull/9#pullrequestreview-1176294127) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+7. ⭐ Starred [pimrada641/RedRidingHood](https://github.com/pimrada641/RedRidingHood)
+8. ⭐ Starred [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1)
 <!--RECENT_ACTIVITY:end-->
 
