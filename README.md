@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 15th, 2022, 10:39:04 PM
+Last Updated: Tuesday, November 15th, 2022, 11:13:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
-2. ⭐ Starred [bronystylecrazy/Leaderboard-Demo](https://github.com/bronystylecrazy/Leaderboard-Demo)
-3. ⭐ Starred [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf)
-4. ⭐ Starred [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-5. 🎉 Merged PR [#9](https://github.com/CSSIT21/ICTChallenge/pull/9) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-6. 👍 Approved [#9](https://github.com/CSSIT21/ICTChallenge/pull/9#pullrequestreview-1176294127) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-7. ⭐ Starred [pimrada641/RedRidingHood](https://github.com/pimrada641/RedRidingHood)
-8. ⭐ Starred [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1)
+1. 💪 Opened PR [#1](https://github.com/GDSC-KMUTT/sample-authn-template/pull/1) in [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
+2. 🔱 Forked [bronystylecrazy/sample-authn-template](https://github.com/bronystylecrazy/sample-authn-template) from [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
+3. ⭐ Starred [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
+4. ⭐ Starred [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
+5. ⭐ Starred [bronystylecrazy/Leaderboard-Demo](https://github.com/bronystylecrazy/Leaderboard-Demo)
+6. ⭐ Starred [bronystylecrazy/Code-Golf](https://github.com/bronystylecrazy/Code-Golf)
+7. ⭐ Starred [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+8. 🎉 Merged PR [#9](https://github.com/CSSIT21/ICTChallenge/pull/9) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
 <!--RECENT_ACTIVITY:end-->
 
