@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 13th, 2022, 12:33:59 AM
+Last Updated: Tuesday, December 13th, 2022, 1:11:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1)
-2. ⭐ Starred [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-3. 🎉 Merged PR [#15](https://github.com/CSSIT21/ICTChallenge/pull/15) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-4. 👍 Approved [#15](https://github.com/CSSIT21/ICTChallenge/pull/15#pullrequestreview-1184490462) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-5. 💪 Opened PR [#1](https://github.com/GDSC-KMUTT/sample-authn-template/pull/1) in [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
-6. 🔱 Forked [bronystylecrazy/sample-authn-template](https://github.com/bronystylecrazy/sample-authn-template) from [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
-7. ⭐ Starred [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
-8. ⭐ Starred [bronystylecrazy/CSC340-Rock-Paper-Scissors](https://github.com/bronystylecrazy/CSC340-Rock-Paper-Scissors)
+1. ⭐ Starred [SpiceSharp/SpiceSharp](https://github.com/SpiceSharp/SpiceSharp)
+2. ⭐ Starred [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1)
+3. ⭐ Starred [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+4. 🎉 Merged PR [#15](https://github.com/CSSIT21/ICTChallenge/pull/15) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+5. 👍 Approved [#15](https://github.com/CSSIT21/ICTChallenge/pull/15#pullrequestreview-1184490462) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+6. 💪 Opened PR [#1](https://github.com/GDSC-KMUTT/sample-authn-template/pull/1) in [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
+7. 🔱 Forked [bronystylecrazy/sample-authn-template](https://github.com/bronystylecrazy/sample-authn-template) from [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
+8. ⭐ Starred [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
 <!--RECENT_ACTIVITY:end-->
 
