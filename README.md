@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 18th, 2022, 10:32:59 PM
+Last Updated: Sunday, December 18th, 2022, 11:10:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Mervill/SharpCircuit](https://github.com/Mervill/SharpCircuit)
-2. ⭐ Starred [SpiceSharp/SpiceSharp](https://github.com/SpiceSharp/SpiceSharp)
-3. ⭐ Starred [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1)
-4. ⭐ Starred [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-5. 🎉 Merged PR [#15](https://github.com/CSSIT21/ICTChallenge/pull/15) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-6. 👍 Approved [#15](https://github.com/CSSIT21/ICTChallenge/pull/15#pullrequestreview-1184490462) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-7. 💪 Opened PR [#1](https://github.com/GDSC-KMUTT/sample-authn-template/pull/1) in [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
-8. 🔱 Forked [bronystylecrazy/sample-authn-template](https://github.com/bronystylecrazy/sample-authn-template) from [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
+1. 📔 Created new repository [bronystylecrazy/ProximaF-CircuitSimulator](https://github.com/bronystylecrazy/ProximaF-CircuitSimulator)
+2. ⭐ Starred [Mervill/SharpCircuit](https://github.com/Mervill/SharpCircuit)
+3. ⭐ Starred [SpiceSharp/SpiceSharp](https://github.com/SpiceSharp/SpiceSharp)
+4. ⭐ Starred [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1)
+5. ⭐ Starred [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+6. 🎉 Merged PR [#15](https://github.com/CSSIT21/ICTChallenge/pull/15) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+7. 👍 Approved [#15](https://github.com/CSSIT21/ICTChallenge/pull/15#pullrequestreview-1184490462) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+8. 💪 Opened PR [#1](https://github.com/GDSC-KMUTT/sample-authn-template/pull/1) in [GDSC-KMUTT/sample-authn-template](https://github.com/GDSC-KMUTT/sample-authn-template)
 <!--RECENT_ACTIVITY:end-->
 
