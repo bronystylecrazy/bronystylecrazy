@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 1st, 2023, 12:07:52 PM
+Last Updated: Sunday, January 1st, 2023, 12:33:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-2. 📔 Created new repository [bronystylecrazy/ProximaF-CircuitSimulator](https://github.com/bronystylecrazy/ProximaF-CircuitSimulator)
-3. ⭐ Starred [Mervill/SharpCircuit](https://github.com/Mervill/SharpCircuit)
-4. ⭐ Starred [SpiceSharp/SpiceSharp](https://github.com/SpiceSharp/SpiceSharp)
-5. ⭐ Starred [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1)
-6. ⭐ Starred [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-7. 🎉 Merged PR [#15](https://github.com/CSSIT21/ICTChallenge/pull/15) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
-8. 👍 Approved [#15](https://github.com/CSSIT21/ICTChallenge/pull/15#pullrequestreview-1184490462) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
+1. ⭐ Starred [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)
+2. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+3. 📔 Created new repository [bronystylecrazy/ProximaF-CircuitSimulator](https://github.com/bronystylecrazy/ProximaF-CircuitSimulator)
+4. ⭐ Starred [Mervill/SharpCircuit](https://github.com/Mervill/SharpCircuit)
+5. ⭐ Starred [SpiceSharp/SpiceSharp](https://github.com/SpiceSharp/SpiceSharp)
+6. ⭐ Starred [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1)
+7. ⭐ Starred [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+8. 🎉 Merged PR [#15](https://github.com/CSSIT21/ICTChallenge/pull/15) in [CSSIT21/ICTChallenge](https://github.com/CSSIT21/ICTChallenge)
 <!--RECENT_ACTIVITY:end-->
 
