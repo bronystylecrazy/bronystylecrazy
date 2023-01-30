@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 4:08:06 AM
+Last Updated: Tuesday, January 31st, 2023, 4:35:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
-2. ⭐ Starred [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer)
-3. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
-4. ⭐ Starred [luin/ioredis](https://github.com/luin/ioredis)
-5. ⭐ Starred [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go)
-6. ⭐ Starred [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)
-7. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-8. 📔 Created new repository [bronystylecrazy/ProximaF-CircuitSimulator](https://github.com/bronystylecrazy/ProximaF-CircuitSimulator)
+1. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
+2. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
+3. ⭐ Starred [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer)
+4. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
+5. ⭐ Starred [luin/ioredis](https://github.com/luin/ioredis)
+6. ⭐ Starred [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go)
+7. ⭐ Starred [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)
+8. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 <!--RECENT_ACTIVITY:end-->
 
