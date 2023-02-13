@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 13th, 2023, 12:33:01 PM
+Last Updated: Monday, February 13th, 2023, 1:12:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [adnanh/webhook](https://github.com/adnanh/webhook)
-2. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
-3. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
-4. ⭐ Starred [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer)
-5. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
-6. ⭐ Starred [luin/ioredis](https://github.com/luin/ioredis)
-7. ⭐ Starred [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go)
-8. ⭐ Starred [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight)
+1. ⭐ Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)
+2. ⭐ Starred [adnanh/webhook](https://github.com/adnanh/webhook)
+3. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
+4. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
+5. ⭐ Starred [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer)
+6. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
+7. ⭐ Starred [luin/ioredis](https://github.com/luin/ioredis)
+8. ⭐ Starred [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go)
 <!--RECENT_ACTIVITY:end-->
 
