@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 13th, 2023, 9:09:02 PM
+Last Updated: Monday, February 13th, 2023, 9:34:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)
-2. ⭐ Starred [adnanh/webhook](https://github.com/adnanh/webhook)
-3. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
-4. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
-5. ⭐ Starred [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer)
-6. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
-7. ⭐ Starred [luin/ioredis](https://github.com/luin/ioredis)
-8. ⭐ Starred [prisma/prisma-client-go](https://github.com/prisma/prisma-client-go)
+1. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
+2. ⭐ Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)
+3. ⭐ Starred [adnanh/webhook](https://github.com/adnanh/webhook)
+4. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
+5. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
+6. ⭐ Starred [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer)
+7. ⭐ Starred [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
+8. ⭐ Starred [luin/ioredis](https://github.com/luin/ioredis)
 <!--RECENT_ACTIVITY:end-->
 
