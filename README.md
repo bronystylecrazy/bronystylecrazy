@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 26th, 2023, 10:33:12 PM
+Last Updated: Sunday, February 26th, 2023, 11:11:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [supermacro/neverthrow](https://github.com/supermacro/neverthrow)
-2. ⭐ Starred [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE)
-3. 📔 Created new repository [bronystylecrazy/greenbean-preact](https://github.com/bronystylecrazy/greenbean-preact)
-4. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
-5. ⭐ Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)
-6. ⭐ Starred [adnanh/webhook](https://github.com/adnanh/webhook)
-7. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
-8. ⭐ Starred [gcanti/fp-ts](https://github.com/gcanti/fp-ts)
+1. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
+2. ⭐ Starred [supermacro/neverthrow](https://github.com/supermacro/neverthrow)
+3. ⭐ Starred [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE)
+4. 📔 Created new repository [bronystylecrazy/greenbean-preact](https://github.com/bronystylecrazy/greenbean-preact)
+5. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
+6. ⭐ Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)
+7. ⭐ Starred [adnanh/webhook](https://github.com/adnanh/webhook)
+8. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
 <!--RECENT_ACTIVITY:end-->
 
