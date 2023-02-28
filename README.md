@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 28th, 2023, 6:33:45 AM
+Last Updated: Tuesday, February 28th, 2023, 7:51:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
-2. ⭐ Starred [supermacro/neverthrow](https://github.com/supermacro/neverthrow)
-3. ⭐ Starred [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE)
-4. 📔 Created new repository [bronystylecrazy/greenbean-preact](https://github.com/bronystylecrazy/greenbean-preact)
-5. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
-6. ⭐ Starred [kubernetes/minikube](https://github.com/kubernetes/minikube)
-7. ⭐ Starred [adnanh/webhook](https://github.com/adnanh/webhook)
-8. ⭐ Starred [shadcn/ui](https://github.com/shadcn/ui)
+1. ⭐ Starred [go-ozzo/ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx)
+2. ⭐ Starred [pocketbase/dbx](https://github.com/pocketbase/dbx)
+3. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+4. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
+5. ⭐ Starred [supermacro/neverthrow](https://github.com/supermacro/neverthrow)
+6. ⭐ Starred [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE)
+7. 📔 Created new repository [bronystylecrazy/greenbean-preact](https://github.com/bronystylecrazy/greenbean-preact)
+8. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
 <!--RECENT_ACTIVITY:end-->
 
