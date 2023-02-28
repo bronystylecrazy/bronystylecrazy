@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 1st, 2023, 2:33:22 AM
+Last Updated: Wednesday, March 1st, 2023, 3:10:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-3. ⭐ Starred [go-ozzo/ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx)
-4. ⭐ Starred [pocketbase/dbx](https://github.com/pocketbase/dbx)
-5. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-6. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
-7. ⭐ Starred [supermacro/neverthrow](https://github.com/supermacro/neverthrow)
-8. ⭐ Starred [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE)
+1. ⭐ Starred [jhaals/yopass](https://github.com/jhaals/yopass)
+2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+3. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
+4. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+5. ⭐ Starred [go-ozzo/ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx)
+6. ⭐ Starred [pocketbase/dbx](https://github.com/pocketbase/dbx)
+7. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+8. ⭐ Starred [trpc/trpc](https://github.com/trpc/trpc)
 <!--RECENT_ACTIVITY:end-->
 
