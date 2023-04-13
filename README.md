@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 13th, 2023, 6:33:04 AM
+Last Updated: Thursday, April 13th, 2023, 7:42:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
-2. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
-3. ⭐ Starred [jhaals/yopass](https://github.com/jhaals/yopass)
-4. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
-5. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
-6. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-7. ⭐ Starred [go-ozzo/ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx)
-8. ⭐ Starred [pocketbase/dbx](https://github.com/pocketbase/dbx)
+1. ⭐ Starred [maxmarinich/react-alice-carousel](https://github.com/maxmarinich/react-alice-carousel)
+2. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
+3. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
+4. ⭐ Starred [jhaals/yopass](https://github.com/jhaals/yopass)
+5. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+6. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
+7. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+8. ⭐ Starred [go-ozzo/ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx)
 <!--RECENT_ACTIVITY:end-->
 
