@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 18th, 2023, 4:08:48 PM
+Last Updated: Tuesday, April 18th, 2023, 4:37:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
-2. ⭐ Starred [maxmarinich/react-alice-carousel](https://github.com/maxmarinich/react-alice-carousel)
-3. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
-4. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
-5. ⭐ Starred [jhaals/yopass](https://github.com/jhaals/yopass)
-6. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
-7. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
-8. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. ⭐ Starred [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
+2. ⭐ Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
+3. ⭐ Starred [maxmarinich/react-alice-carousel](https://github.com/maxmarinich/react-alice-carousel)
+4. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
+5. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
+6. ⭐ Starred [jhaals/yopass](https://github.com/jhaals/yopass)
+7. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+8. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--RECENT_ACTIVITY:end-->
 
