@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 19th, 2023, 3:11:18 PM
+Last Updated: Wednesday, April 19th, 2023, 3:34:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
-2. ⭐ Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
-3. ⭐ Starred [maxmarinich/react-alice-carousel](https://github.com/maxmarinich/react-alice-carousel)
-4. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
-5. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
-6. ⭐ Starred [jhaals/yopass](https://github.com/jhaals/yopass)
-7. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
-8. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. ⭐ Starred [isl-org/DPT](https://github.com/isl-org/DPT)
+2. ⭐ Starred [alshedivat/al-folio](https://github.com/alshedivat/al-folio)
+3. ⭐ Starred [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
+4. ⭐ Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
+5. ⭐ Starred [maxmarinich/react-alice-carousel](https://github.com/maxmarinich/react-alice-carousel)
+6. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
+7. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
+8. ⭐ Starred [jhaals/yopass](https://github.com/jhaals/yopass)
 <!--RECENT_ACTIVITY:end-->
 
