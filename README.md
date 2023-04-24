@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 24th, 2023, 7:15:51 PM
+Last Updated: Monday, April 24th, 2023, 7:52:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joe-bell/cva](https://github.com/joe-bell/cva)
-2. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)
-3. ⭐ Starred [isl-org/DPT](https://github.com/isl-org/DPT)
-4. ⭐ Starred [alshedivat/al-folio](https://github.com/alshedivat/al-folio)
-5. ⭐ Starred [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
-6. ⭐ Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
-7. ⭐ Starred [maxmarinich/react-alice-carousel](https://github.com/maxmarinich/react-alice-carousel)
-8. ⭐ Starred [aristocratos/btop](https://github.com/aristocratos/btop)
+1. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
+2. ⭐ Starred [joe-bell/cva](https://github.com/joe-bell/cva)
+3. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)
+4. ⭐ Starred [isl-org/DPT](https://github.com/isl-org/DPT)
+5. ⭐ Starred [alshedivat/al-folio](https://github.com/alshedivat/al-folio)
+6. ⭐ Starred [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
+7. ⭐ Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
+8. ⭐ Starred [maxmarinich/react-alice-carousel](https://github.com/maxmarinich/react-alice-carousel)
 <!--RECENT_ACTIVITY:end-->
 
