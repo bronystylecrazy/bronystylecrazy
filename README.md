@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 24th, 2023, 10:32:40 PM
+Last Updated: Monday, April 24th, 2023, 11:10:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
-3. ⭐ Starred [joe-bell/cva](https://github.com/joe-bell/cva)
-4. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)
-5. ⭐ Starred [isl-org/DPT](https://github.com/isl-org/DPT)
-6. ⭐ Starred [alshedivat/al-folio](https://github.com/alshedivat/al-folio)
-7. ⭐ Starred [Lux-AI-Challenge/Lux-Design-S2](https://github.com/Lux-AI-Challenge/Lux-Design-S2)
-8. ⭐ Starred [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
+1. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
+2. ⭐ Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+3. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
+5. ⭐ Starred [joe-bell/cva](https://github.com/joe-bell/cva)
+6. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)
+7. ⭐ Starred [isl-org/DPT](https://github.com/isl-org/DPT)
+8. ⭐ Starred [alshedivat/al-folio](https://github.com/alshedivat/al-folio)
 <!--RECENT_ACTIVITY:end-->
 
