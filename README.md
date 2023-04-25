@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 26th, 2023, 1:33:47 AM
+Last Updated: Wednesday, April 26th, 2023, 2:06:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [syntax-tree/mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc)
-2. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
-3. ⭐ Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-4. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
-6. ⭐ Starred [joe-bell/cva](https://github.com/joe-bell/cva)
-7. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)
-8. ⭐ Starred [isl-org/DPT](https://github.com/isl-org/DPT)
+1. 📔 Created new repository [bronystylecrazy/J2ObserverThanyapat](https://github.com/bronystylecrazy/J2ObserverThanyapat)
+2. ⭐ Starred [syntax-tree/mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc)
+3. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
+4. ⭐ Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+5. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+6. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
+7. ⭐ Starred [joe-bell/cva](https://github.com/joe-bell/cva)
+8. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)
 <!--RECENT_ACTIVITY:end-->
 
