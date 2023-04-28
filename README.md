@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 28th, 2023, 9:32:44 PM
+Last Updated: Friday, April 28th, 2023, 10:08:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [axios/axios](https://github.com/axios/axios)
-2. 📔 Created new repository [bronystylecrazy/J2ObserverThanyapat](https://github.com/bronystylecrazy/J2ObserverThanyapat)
-3. ⭐ Starred [syntax-tree/mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc)
-4. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
-5. ⭐ Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-6. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-7. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
-8. ⭐ Starred [joe-bell/cva](https://github.com/joe-bell/cva)
+1. ⭐ Starred [facebook/react](https://github.com/facebook/react)
+2. ⭐ Starred [axios/axios](https://github.com/axios/axios)
+3. 📔 Created new repository [bronystylecrazy/J2ObserverThanyapat](https://github.com/bronystylecrazy/J2ObserverThanyapat)
+4. ⭐ Starred [syntax-tree/mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc)
+5. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
+6. ⭐ Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+7. ⭐ Starred [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+8. ⭐ Starred [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast)
 <!--RECENT_ACTIVITY:end-->
 
