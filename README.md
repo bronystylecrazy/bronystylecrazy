@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 29th, 2023, 1:32:54 PM
+Last Updated: Saturday, April 29th, 2023, 2:08:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [woltapp/react-blurhash](https://github.com/woltapp/react-blurhash)
-2. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)
-3. ⭐ Starred [mad-gooze/fast-blurhash](https://github.com/mad-gooze/fast-blurhash)
-4. ⭐ Starred [facebook/react](https://github.com/facebook/react)
-5. ⭐ Starred [axios/axios](https://github.com/axios/axios)
-6. 📔 Created new repository [bronystylecrazy/J2ObserverThanyapat](https://github.com/bronystylecrazy/J2ObserverThanyapat)
-7. ⭐ Starred [syntax-tree/mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc)
-8. ⭐ Starred [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk)
+1. ⭐ Starred [flozz/StackBlur](https://github.com/flozz/StackBlur)
+2. ⭐ Starred [woltapp/react-blurhash](https://github.com/woltapp/react-blurhash)
+3. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)
+4. ⭐ Starred [mad-gooze/fast-blurhash](https://github.com/mad-gooze/fast-blurhash)
+5. ⭐ Starred [facebook/react](https://github.com/facebook/react)
+6. ⭐ Starred [axios/axios](https://github.com/axios/axios)
+7. 📔 Created new repository [bronystylecrazy/J2ObserverThanyapat](https://github.com/bronystylecrazy/J2ObserverThanyapat)
+8. ⭐ Starred [syntax-tree/mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc)
 <!--RECENT_ACTIVITY:end-->
 
