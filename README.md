@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 4th, 2023, 5:07:44 AM
+Last Updated: Thursday, May 4th, 2023, 5:32:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [flozz/StackBlur](https://github.com/flozz/StackBlur)
-2. ⭐ Starred [woltapp/react-blurhash](https://github.com/woltapp/react-blurhash)
-3. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)
-4. ⭐ Starred [mad-gooze/fast-blurhash](https://github.com/mad-gooze/fast-blurhash)
-5. ⭐ Starred [facebook/react](https://github.com/facebook/react)
-6. ⭐ Starred [axios/axios](https://github.com/axios/axios)
-7. 📔 Created new repository [bronystylecrazy/J2ObserverThanyapat](https://github.com/bronystylecrazy/J2ObserverThanyapat)
-8. ⭐ Starred [syntax-tree/mdast-util-toc](https://github.com/syntax-tree/mdast-util-toc)
+1. ⭐ Starred [beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine)
+2. ⭐ Starred [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
+3. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
+4. ⭐ Starred [flozz/StackBlur](https://github.com/flozz/StackBlur)
+5. ⭐ Starred [woltapp/react-blurhash](https://github.com/woltapp/react-blurhash)
+6. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)
+7. ⭐ Starred [mad-gooze/fast-blurhash](https://github.com/mad-gooze/fast-blurhash)
+8. ⭐ Starred [facebook/react](https://github.com/facebook/react)
 <!--RECENT_ACTIVITY:end-->
 
