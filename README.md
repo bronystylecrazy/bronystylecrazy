@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 4th, 2023, 6:32:48 PM
+Last Updated: Thursday, May 4th, 2023, 7:15:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine)
-2. ⭐ Starred [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
-3. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
-4. ⭐ Starred [flozz/StackBlur](https://github.com/flozz/StackBlur)
-5. ⭐ Starred [woltapp/react-blurhash](https://github.com/woltapp/react-blurhash)
-6. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)
-7. ⭐ Starred [mad-gooze/fast-blurhash](https://github.com/mad-gooze/fast-blurhash)
-8. ⭐ Starred [facebook/react](https://github.com/facebook/react)
+1. ⭐ Starred [evanw/thumbhash](https://github.com/evanw/thumbhash)
+2. ⭐ Starred [beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine)
+3. ⭐ Starred [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
+4. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
+5. ⭐ Starred [flozz/StackBlur](https://github.com/flozz/StackBlur)
+6. ⭐ Starred [woltapp/react-blurhash](https://github.com/woltapp/react-blurhash)
+7. ⭐ Starred [woltapp/blurhash](https://github.com/woltapp/blurhash)
+8. ⭐ Starred [mad-gooze/fast-blurhash](https://github.com/mad-gooze/fast-blurhash)
 <!--RECENT_ACTIVITY:end-->
 
