@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 23rd, 2023, 12:33:03 AM
+Last Updated: Tuesday, May 23rd, 2023, 1:10:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agenda/agenda](https://github.com/agenda/agenda)
-2. ⭐ Starred [breejs/bree](https://github.com/breejs/bree)
-3. ⭐ Starred [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule)
-4. ⭐ Starred [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
-5. ⭐ Starred [steven-tey/dub](https://github.com/steven-tey/dub)
-6. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
-7. ⭐ Starred [molefrog/wouter](https://github.com/molefrog/wouter)
-8. ⭐ Starred [evanw/thumbhash](https://github.com/evanw/thumbhash)
+1. ⭐ Starred [agenda/agendash](https://github.com/agenda/agendash)
+2. ⭐ Starred [agenda/agenda-rest](https://github.com/agenda/agenda-rest)
+3. ⭐ Starred [agenda/agenda](https://github.com/agenda/agenda)
+4. ⭐ Starred [breejs/bree](https://github.com/breejs/bree)
+5. ⭐ Starred [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule)
+6. ⭐ Starred [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
+7. ⭐ Starred [steven-tey/dub](https://github.com/steven-tey/dub)
+8. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
 <!--RECENT_ACTIVITY:end-->
 
