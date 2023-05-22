@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 22nd, 2023, 8:11:17 PM
+Last Updated: Monday, May 22nd, 2023, 8:32:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [steven-tey/dub](https://github.com/steven-tey/dub)
-2. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
-3. ⭐ Starred [molefrog/wouter](https://github.com/molefrog/wouter)
-4. ⭐ Starred [evanw/thumbhash](https://github.com/evanw/thumbhash)
-5. ⭐ Starred [beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine)
-6. ⭐ Starred [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
-7. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
-8. ⭐ Starred [flozz/StackBlur](https://github.com/flozz/StackBlur)
+1. ⭐ Starred [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
+2. ⭐ Starred [steven-tey/dub](https://github.com/steven-tey/dub)
+3. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
+4. ⭐ Starred [molefrog/wouter](https://github.com/molefrog/wouter)
+5. ⭐ Starred [evanw/thumbhash](https://github.com/evanw/thumbhash)
+6. ⭐ Starred [beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine)
+7. ⭐ Starred [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal)
+8. ⭐ Starred [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
 <!--RECENT_ACTIVITY:end-->
 
