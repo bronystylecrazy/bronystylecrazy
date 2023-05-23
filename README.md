@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 24th, 2023, 4:32:49 AM
+Last Updated: Wednesday, May 24th, 2023, 5:08:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agenda/agendash](https://github.com/agenda/agendash)
-2. ⭐ Starred [agenda/agenda-rest](https://github.com/agenda/agenda-rest)
-3. ⭐ Starred [agenda/agenda](https://github.com/agenda/agenda)
-4. ⭐ Starred [breejs/bree](https://github.com/breejs/bree)
-5. ⭐ Starred [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule)
-6. ⭐ Starred [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
-7. ⭐ Starred [steven-tey/dub](https://github.com/steven-tey/dub)
-8. ⭐ Starred [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
+1. ⭐ Starred [BSthun/CSWorkshop](https://github.com/BSthun/CSWorkshop)
+2. ⭐ Starred [agenda/agendash](https://github.com/agenda/agendash)
+3. ⭐ Starred [agenda/agenda-rest](https://github.com/agenda/agenda-rest)
+4. ⭐ Starred [agenda/agenda](https://github.com/agenda/agenda)
+5. ⭐ Starred [breejs/bree](https://github.com/breejs/bree)
+6. ⭐ Starred [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule)
+7. ⭐ Starred [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)
+8. ⭐ Starred [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--RECENT_ACTIVITY:end-->
 
