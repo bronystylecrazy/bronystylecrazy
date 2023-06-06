@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 6th, 2023, 4:32:49 PM
+Last Updated: Tuesday, June 6th, 2023, 5:08:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/movie-genre-detector](https://github.com/bronystylecrazy/movie-genre-detector)
-2. 📔 Created new repository [bronystylecrazy/sirawit-react-app-template](https://github.com/bronystylecrazy/sirawit-react-app-template)
-3. ⭐ Starred [BSthun/CSWorkshop](https://github.com/BSthun/CSWorkshop)
-4. ⭐ Starred [agenda/agendash](https://github.com/agenda/agendash)
-5. ⭐ Starred [agenda/agenda-rest](https://github.com/agenda/agenda-rest)
-6. ⭐ Starred [agenda/agenda](https://github.com/agenda/agenda)
-7. ⭐ Starred [breejs/bree](https://github.com/breejs/bree)
-8. ⭐ Starred [node-schedule/node-schedule](https://github.com/node-schedule/node-schedule)
+1. ⭐ Starred [hashicorp/consul](https://github.com/hashicorp/consul)
+2. 📔 Created new repository [bronystylecrazy/movie-genre-detector](https://github.com/bronystylecrazy/movie-genre-detector)
+3. 📔 Created new repository [bronystylecrazy/sirawit-react-app-template](https://github.com/bronystylecrazy/sirawit-react-app-template)
+4. ⭐ Starred [BSthun/CSWorkshop](https://github.com/BSthun/CSWorkshop)
+5. ⭐ Starred [agenda/agendash](https://github.com/agenda/agendash)
+6. ⭐ Starred [agenda/agenda-rest](https://github.com/agenda/agenda-rest)
+7. ⭐ Starred [agenda/agenda](https://github.com/agenda/agenda)
+8. ⭐ Starred [breejs/bree](https://github.com/breejs/bree)
 <!--RECENT_ACTIVITY:end-->
 
