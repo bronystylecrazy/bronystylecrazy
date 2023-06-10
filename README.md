@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 10th, 2023, 10:33:01 PM
+Last Updated: Saturday, June 10th, 2023, 11:09:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hashicorp/consul](https://github.com/hashicorp/consul)
-2. 📔 Created new repository [bronystylecrazy/movie-genre-detector](https://github.com/bronystylecrazy/movie-genre-detector)
-3. 📔 Created new repository [bronystylecrazy/sirawit-react-app-template](https://github.com/bronystylecrazy/sirawit-react-app-template)
-4. ⭐ Starred [BSthun/CSWorkshop](https://github.com/BSthun/CSWorkshop)
-5. ⭐ Starred [agenda/agendash](https://github.com/agenda/agendash)
-6. ⭐ Starred [agenda/agenda-rest](https://github.com/agenda/agenda-rest)
-7. ⭐ Starred [agenda/agenda](https://github.com/agenda/agenda)
-8. ⭐ Starred [breejs/bree](https://github.com/breejs/bree)
+1. ⭐ Starred [tkssharma/nodejs-microservices-patterns](https://github.com/tkssharma/nodejs-microservices-patterns)
+2. ⭐ Starred [hashicorp/consul](https://github.com/hashicorp/consul)
+3. 📔 Created new repository [bronystylecrazy/movie-genre-detector](https://github.com/bronystylecrazy/movie-genre-detector)
+4. 📔 Created new repository [bronystylecrazy/sirawit-react-app-template](https://github.com/bronystylecrazy/sirawit-react-app-template)
+5. ⭐ Starred [BSthun/CSWorkshop](https://github.com/BSthun/CSWorkshop)
+6. ⭐ Starred [agenda/agendash](https://github.com/agenda/agendash)
+7. ⭐ Starred [agenda/agenda-rest](https://github.com/agenda/agenda-rest)
+8. ⭐ Starred [agenda/agenda](https://github.com/agenda/agenda)
 <!--RECENT_ACTIVITY:end-->
 
