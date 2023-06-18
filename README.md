@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 18th, 2023, 5:08:20 PM
+Last Updated: Sunday, June 18th, 2023, 5:32:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
-2. ⭐ Starred [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
-3. ⭐ Starred [tkssharma/nodejs-microservices-patterns](https://github.com/tkssharma/nodejs-microservices-patterns)
-4. ⭐ Starred [hashicorp/consul](https://github.com/hashicorp/consul)
-5. 📔 Created new repository [bronystylecrazy/movie-genre-detector](https://github.com/bronystylecrazy/movie-genre-detector)
-6. 📔 Created new repository [bronystylecrazy/sirawit-react-app-template](https://github.com/bronystylecrazy/sirawit-react-app-template)
-7. ⭐ Starred [BSthun/CSWorkshop](https://github.com/BSthun/CSWorkshop)
-8. ⭐ Starred [agenda/agendash](https://github.com/agenda/agendash)
+1. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
+2. ⭐ Starred [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
+3. ⭐ Starred [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
+4. ⭐ Starred [tkssharma/nodejs-microservices-patterns](https://github.com/tkssharma/nodejs-microservices-patterns)
+5. ⭐ Starred [hashicorp/consul](https://github.com/hashicorp/consul)
+6. 📔 Created new repository [bronystylecrazy/movie-genre-detector](https://github.com/bronystylecrazy/movie-genre-detector)
+7. 📔 Created new repository [bronystylecrazy/sirawit-react-app-template](https://github.com/bronystylecrazy/sirawit-react-app-template)
+8. ⭐ Starred [BSthun/CSWorkshop](https://github.com/BSthun/CSWorkshop)
 <!--RECENT_ACTIVITY:end-->
 
