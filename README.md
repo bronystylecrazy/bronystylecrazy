@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 21st, 2023, 4:32:55 PM
+Last Updated: Wednesday, June 21st, 2023, 5:08:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [L2jLiga/fastify-decorators](https://github.com/L2jLiga/fastify-decorators)
-2. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
-3. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
-4. ⭐ Starred [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
-5. ⭐ Starred [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
-6. ⭐ Starred [tkssharma/nodejs-microservices-patterns](https://github.com/tkssharma/nodejs-microservices-patterns)
-7. ⭐ Starred [hashicorp/consul](https://github.com/hashicorp/consul)
-8. 📔 Created new repository [bronystylecrazy/movie-genre-detector](https://github.com/bronystylecrazy/movie-genre-detector)
+1. ⭐ Starred [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+2. ⭐ Starred [L2jLiga/fastify-decorators](https://github.com/L2jLiga/fastify-decorators)
+3. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
+4. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
+5. ⭐ Starred [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
+6. ⭐ Starred [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
+7. ⭐ Starred [tkssharma/nodejs-microservices-patterns](https://github.com/tkssharma/nodejs-microservices-patterns)
+8. ⭐ Starred [hashicorp/consul](https://github.com/hashicorp/consul)
 <!--RECENT_ACTIVITY:end-->
 
