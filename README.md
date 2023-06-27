@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 28th, 2023, 12:33:23 AM
+Last Updated: Wednesday, June 28th, 2023, 1:11:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [staticfloat/docker-webhook](https://github.com/staticfloat/docker-webhook)
-2. ⭐ Starred [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
-3. ⭐ Starred [L2jLiga/fastify-decorators](https://github.com/L2jLiga/fastify-decorators)
-4. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
-5. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
-6. ⭐ Starred [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
-7. ⭐ Starred [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
-8. ⭐ Starred [tkssharma/nodejs-microservices-patterns](https://github.com/tkssharma/nodejs-microservices-patterns)
+1. ⭐ Starred [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
+2. ⭐ Starred [staticfloat/docker-webhook](https://github.com/staticfloat/docker-webhook)
+3. ⭐ Starred [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+4. ⭐ Starred [L2jLiga/fastify-decorators](https://github.com/L2jLiga/fastify-decorators)
+5. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
+6. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
+7. ⭐ Starred [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
+8. ⭐ Starred [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
 <!--RECENT_ACTIVITY:end-->
 
