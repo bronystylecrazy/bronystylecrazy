@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 29th, 2023, 7:55:03 PM
+Last Updated: Thursday, June 29th, 2023, 8:17:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
-2. ⭐ Starred [staticfloat/docker-webhook](https://github.com/staticfloat/docker-webhook)
-3. ⭐ Starred [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
-4. ⭐ Starred [L2jLiga/fastify-decorators](https://github.com/L2jLiga/fastify-decorators)
-5. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
-6. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
-7. ⭐ Starred [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
-8. ⭐ Starred [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
+1. ⭐ Starred [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)
+2. ⭐ Starred [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
+3. ⭐ Starred [staticfloat/docker-webhook](https://github.com/staticfloat/docker-webhook)
+4. ⭐ Starred [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+5. ⭐ Starred [L2jLiga/fastify-decorators](https://github.com/L2jLiga/fastify-decorators)
+6. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
+7. ⭐ Starred [fastify/fastify](https://github.com/fastify/fastify)
+8. ⭐ Starred [ansible/ansible-ui](https://github.com/ansible/ansible-ui)
 <!--RECENT_ACTIVITY:end-->
 
