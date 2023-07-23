@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 23rd, 2023, 3:32:49 PM
+Last Updated: Sunday, July 23rd, 2023, 4:07:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [automock/automock](https://github.com/automock/automock)
-2. ⭐ Starred [dai-shi/valtio-signal](https://github.com/dai-shi/valtio-signal)
-3. ⭐ Starred [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)
-4. ⭐ Starred [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
-5. ⭐ Starred [staticfloat/docker-webhook](https://github.com/staticfloat/docker-webhook)
-6. ⭐ Starred [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
-7. ⭐ Starred [L2jLiga/fastify-decorators](https://github.com/L2jLiga/fastify-decorators)
-8. ⭐ Starred [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern)
+1. ⭐ Starred [videojs/video.js](https://github.com/videojs/video.js)
+2. ⭐ Starred [automock/automock](https://github.com/automock/automock)
+3. ⭐ Starred [dai-shi/valtio-signal](https://github.com/dai-shi/valtio-signal)
+4. ⭐ Starred [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)
+5. ⭐ Starred [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
+6. ⭐ Starred [staticfloat/docker-webhook](https://github.com/staticfloat/docker-webhook)
+7. ⭐ Starred [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+8. ⭐ Starred [L2jLiga/fastify-decorators](https://github.com/L2jLiga/fastify-decorators)
 <!--RECENT_ACTIVITY:end-->
 
