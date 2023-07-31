@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 1st, 2023, 1:10:16 AM
+Last Updated: Tuesday, August 1st, 2023, 1:33:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [videojs/video.js](https://github.com/videojs/video.js)
-2. ⭐ Starred [automock/automock](https://github.com/automock/automock)
-3. ⭐ Starred [dai-shi/valtio-signal](https://github.com/dai-shi/valtio-signal)
-4. ⭐ Starred [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)
-5. ⭐ Starred [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
-6. ⭐ Starred [staticfloat/docker-webhook](https://github.com/staticfloat/docker-webhook)
-7. ⭐ Starred [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
-8. ⭐ Starred [L2jLiga/fastify-decorators](https://github.com/L2jLiga/fastify-decorators)
+1. ⭐ Starred [nektos/act](https://github.com/nektos/act)
+2. ⭐ Starred [videojs/video.js](https://github.com/videojs/video.js)
+3. ⭐ Starred [automock/automock](https://github.com/automock/automock)
+4. ⭐ Starred [dai-shi/valtio-signal](https://github.com/dai-shi/valtio-signal)
+5. ⭐ Starred [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop)
+6. ⭐ Starred [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
+7. ⭐ Starred [staticfloat/docker-webhook](https://github.com/staticfloat/docker-webhook)
+8. ⭐ Starred [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
 <!--RECENT_ACTIVITY:end-->
 
