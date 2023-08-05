@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 6th, 2023, 12:33:03 AM
+Last Updated: Sunday, August 6th, 2023, 1:09:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-2. ⭐ Starred [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
-3. ⭐ Starred [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol)
-4. ⭐ Starred [iina/iina](https://github.com/iina/iina)
-5. ⭐ Starred [nektos/act](https://github.com/nektos/act)
-6. ⭐ Starred [videojs/video.js](https://github.com/videojs/video.js)
-7. ⭐ Starred [automock/automock](https://github.com/automock/automock)
-8. ⭐ Starred [dai-shi/valtio-signal](https://github.com/dai-shi/valtio-signal)
+1. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
+2. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
+3. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
+4. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+5. ⭐ Starred [traefik/traefik](https://github.com/traefik/traefik)
+6. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+7. ⭐ Starred [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
+8. ⭐ Starred [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol)
 <!--RECENT_ACTIVITY:end-->
 
