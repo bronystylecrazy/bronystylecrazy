@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 11th, 2023, 11:09:28 PM
+Last Updated: Friday, August 11th, 2023, 11:33:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
-2. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
-3. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
-4. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
-5. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-6. ⭐ Starred [traefik/traefik](https://github.com/traefik/traefik)
-7. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-8. ⭐ Starred [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
+1. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
+2. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
+3. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
+4. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
+5. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
+6. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+7. ⭐ Starred [traefik/traefik](https://github.com/traefik/traefik)
+8. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 <!--RECENT_ACTIVITY:end-->
 
