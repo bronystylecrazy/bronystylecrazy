@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 11th, 2023, 10:32:49 PM
+Last Updated: Friday, August 11th, 2023, 11:09:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
-2. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
-3. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
-4. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-5. ⭐ Starred [traefik/traefik](https://github.com/traefik/traefik)
-6. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-7. ⭐ Starred [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
-8. ⭐ Starred [SelfControlApp/selfcontrol](https://github.com/SelfControlApp/selfcontrol)
+1. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
+2. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
+3. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
+4. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
+5. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+6. ⭐ Starred [traefik/traefik](https://github.com/traefik/traefik)
+7. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+8. ⭐ Starred [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)
 <!--RECENT_ACTIVITY:end-->
 
