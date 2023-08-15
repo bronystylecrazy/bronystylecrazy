@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 16th, 2023, 12:32:43 AM
+Last Updated: Wednesday, August 16th, 2023, 1:09:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
-2. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
-3. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
-4. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
-5. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
-6. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-7. ⭐ Starred [traefik/traefik](https://github.com/traefik/traefik)
-8. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+1. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
+2. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
+3. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
+4. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
+5. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
+6. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
+7. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+8. ⭐ Starred [traefik/traefik](https://github.com/traefik/traefik)
 <!--RECENT_ACTIVITY:end-->
 
