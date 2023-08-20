@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 20th, 2023, 4:06:51 PM
+Last Updated: Sunday, August 20th, 2023, 4:32:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [soketi/soketi](https://github.com/soketi/soketi)
-2. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
-3. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
-4. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
-5. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
-6. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
-7. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
-8. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+1. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+2. ⭐ Starred [soketi/soketi](https://github.com/soketi/soketi)
+3. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
+4. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
+5. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
+6. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
+7. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
+8. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
 <!--RECENT_ACTIVITY:end-->
 
