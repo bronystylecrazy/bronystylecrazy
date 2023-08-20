@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 20th, 2023, 5:32:48 PM
+Last Updated: Sunday, August 20th, 2023, 6:05:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
-2. ⭐ Starred [soketi/soketi](https://github.com/soketi/soketi)
-3. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
-4. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
-5. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
-6. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
-7. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
-8. ⭐ Starred [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)
+1. ⭐ Starred [kieler/elkjs](https://github.com/kieler/elkjs)
+2. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+3. ⭐ Starred [soketi/soketi](https://github.com/soketi/soketi)
+4. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
+5. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
+6. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
+7. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
+8. ⭐ Starred [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)
 <!--RECENT_ACTIVITY:end-->
 
