@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 27th, 2023, 3:09:18 PM
+Last Updated: Sunday, August 27th, 2023, 3:32:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yassilah/fabric-extensions](https://github.com/yassilah/fabric-extensions)
-2. ⭐ Starred [kieler/elkjs](https://github.com/kieler/elkjs)
-3. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
-4. ⭐ Starred [soketi/soketi](https://github.com/soketi/soketi)
-5. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
-6. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
-7. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
-8. 📔 Created new repository [bronystylecrazy/sirawit-scripts](https://github.com/bronystylecrazy/sirawit-scripts)
+1. ⭐ Starred [outline/outline](https://github.com/outline/outline)
+2. ⭐ Starred [yassilah/fabric-extensions](https://github.com/yassilah/fabric-extensions)
+3. ⭐ Starred [kieler/elkjs](https://github.com/kieler/elkjs)
+4. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+5. ⭐ Starred [soketi/soketi](https://github.com/soketi/soketi)
+6. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
+7. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
+8. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
 <!--RECENT_ACTIVITY:end-->
 
