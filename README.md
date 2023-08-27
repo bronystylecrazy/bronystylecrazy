@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 27th, 2023, 5:07:30 PM
+Last Updated: Sunday, August 27th, 2023, 5:32:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [outline/outline](https://github.com/outline/outline)
-2. ⭐ Starred [yassilah/fabric-extensions](https://github.com/yassilah/fabric-extensions)
-3. ⭐ Starred [kieler/elkjs](https://github.com/kieler/elkjs)
-4. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
-5. ⭐ Starred [soketi/soketi](https://github.com/soketi/soketi)
-6. ⭐ Starred [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)
-7. ⭐ Starred [nikoksr/notify](https://github.com/nikoksr/notify)
-8. ⭐ Starred [hMatoba/piexifjs](https://github.com/hMatoba/piexifjs)
+1. ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear)
+2. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+3. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+4. ⭐ Starred [outline/outline](https://github.com/outline/outline)
+5. ⭐ Starred [yassilah/fabric-extensions](https://github.com/yassilah/fabric-extensions)
+6. ⭐ Starred [kieler/elkjs](https://github.com/kieler/elkjs)
+7. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+8. ⭐ Starred [soketi/soketi](https://github.com/soketi/soketi)
 <!--RECENT_ACTIVITY:end-->
 
