@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 31st, 2023, 1:32:59 AM
+Last Updated: Thursday, August 31st, 2023, 2:06:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear)
-2. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-3. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-4. ⭐ Starred [outline/outline](https://github.com/outline/outline)
-5. ⭐ Starred [yassilah/fabric-extensions](https://github.com/yassilah/fabric-extensions)
-6. ⭐ Starred [kieler/elkjs](https://github.com/kieler/elkjs)
-7. ⭐ Starred [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
-8. ⭐ Starred [soketi/soketi](https://github.com/soketi/soketi)
+1. ⭐ Starred [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch)
+2. ⭐ Starred [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch)
+3. ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear)
+4. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+5. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+6. ⭐ Starred [outline/outline](https://github.com/outline/outline)
+7. ⭐ Starred [yassilah/fabric-extensions](https://github.com/yassilah/fabric-extensions)
+8. ⭐ Starred [kieler/elkjs](https://github.com/kieler/elkjs)
 <!--RECENT_ACTIVITY:end-->
 
