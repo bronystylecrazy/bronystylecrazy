@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 7th, 2023, 9:07:48 PM
+Last Updated: Thursday, September 7th, 2023, 9:32:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch)
-2. ⭐ Starred [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch)
-3. ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear)
-4. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-5. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-6. ⭐ Starred [outline/outline](https://github.com/outline/outline)
-7. ⭐ Starred [yassilah/fabric-extensions](https://github.com/yassilah/fabric-extensions)
-8. ⭐ Starred [kieler/elkjs](https://github.com/kieler/elkjs)
+1. ⭐ Starred [fastify/fastify-error](https://github.com/fastify/fastify-error)
+2. ⭐ Starred [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch)
+3. ⭐ Starred [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch)
+4. ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear)
+5. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+6. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+7. ⭐ Starred [outline/outline](https://github.com/outline/outline)
+8. ⭐ Starred [yassilah/fabric-extensions](https://github.com/yassilah/fabric-extensions)
 <!--RECENT_ACTIVITY:end-->
 
