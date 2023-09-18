@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 18th, 2023, 8:10:12 PM
+Last Updated: Monday, September 18th, 2023, 8:32:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
-2. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
-3. ⭐ Starred [concourse/concourse](https://github.com/concourse/concourse)
-4. ⭐ Starred [ovh/cds](https://github.com/ovh/cds)
-5. ⭐ Starred [harness/drone](https://github.com/harness/drone)
-6. ⭐ Starred [fastify/fastify-error](https://github.com/fastify/fastify-error)
-7. ⭐ Starred [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch)
-8. ⭐ Starred [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch)
+1. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
+2. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
+3. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
+4. ⭐ Starred [concourse/concourse](https://github.com/concourse/concourse)
+5. ⭐ Starred [ovh/cds](https://github.com/ovh/cds)
+6. ⭐ Starred [harness/drone](https://github.com/harness/drone)
+7. ⭐ Starred [fastify/fastify-error](https://github.com/fastify/fastify-error)
+8. ⭐ Starred [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch)
 <!--RECENT_ACTIVITY:end-->
 
