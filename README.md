@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 18th, 2023, 3:11:24 PM
+Last Updated: Monday, September 18th, 2023, 3:33:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [concourse/concourse](https://github.com/concourse/concourse)
-2. ⭐ Starred [ovh/cds](https://github.com/ovh/cds)
-3. ⭐ Starred [harness/drone](https://github.com/harness/drone)
-4. ⭐ Starred [fastify/fastify-error](https://github.com/fastify/fastify-error)
-5. ⭐ Starred [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch)
-6. ⭐ Starred [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch)
-7. ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear)
-8. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+1. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
+2. ⭐ Starred [concourse/concourse](https://github.com/concourse/concourse)
+3. ⭐ Starred [ovh/cds](https://github.com/ovh/cds)
+4. ⭐ Starred [harness/drone](https://github.com/harness/drone)
+5. ⭐ Starred [fastify/fastify-error](https://github.com/fastify/fastify-error)
+6. ⭐ Starred [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch)
+7. ⭐ Starred [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch)
+8. ⭐ Starred [dicebear/dicebear](https://github.com/dicebear/dicebear)
 <!--RECENT_ACTIVITY:end-->
 
