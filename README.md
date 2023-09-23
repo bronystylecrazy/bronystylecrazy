@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 24th, 2023, 6:07:14 AM
+Last Updated: Sunday, September 24th, 2023, 6:32:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)
-2. ⭐ Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
-3. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
-4. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
-5. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
-6. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
-7. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
-8. ⭐ Starred [concourse/concourse](https://github.com/concourse/concourse)
+1. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+2. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)
+3. ⭐ Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
+4. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+5. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
+6. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
+7. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
+8. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
 <!--RECENT_ACTIVITY:end-->
 
