@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 24th, 2023, 3:32:44 AM
+Last Updated: Sunday, September 24th, 2023, 4:06:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
-2. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
-3. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
-4. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
-5. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
-6. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
-7. ⭐ Starred [concourse/concourse](https://github.com/concourse/concourse)
-8. ⭐ Starred [ovh/cds](https://github.com/ovh/cds)
+1. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)
+2. ⭐ Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
+3. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+4. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
+5. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
+6. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
+7. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
+8. ⭐ Starred [concourse/concourse](https://github.com/concourse/concourse)
 <!--RECENT_ACTIVITY:end-->
 
