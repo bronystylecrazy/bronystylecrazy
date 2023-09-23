@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 24th, 2023, 3:07:28 AM
+Last Updated: Sunday, September 24th, 2023, 3:32:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
-2. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
-3. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
-4. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
-5. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
-6. ⭐ Starred [concourse/concourse](https://github.com/concourse/concourse)
-7. ⭐ Starred [ovh/cds](https://github.com/ovh/cds)
-8. ⭐ Starred [harness/drone](https://github.com/harness/drone)
+1. ⭐ Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
+2. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+3. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
+4. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
+5. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
+6. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
+7. ⭐ Starred [concourse/concourse](https://github.com/concourse/concourse)
+8. ⭐ Starred [ovh/cds](https://github.com/ovh/cds)
 <!--RECENT_ACTIVITY:end-->
 
