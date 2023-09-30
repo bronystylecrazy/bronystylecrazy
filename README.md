@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 30th, 2023, 8:08:03 PM
+Last Updated: Saturday, September 30th, 2023, 8:32:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
-2. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)
-3. ⭐ Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
-4. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
-5. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
-6. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
-7. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
-8. ⭐ Starred [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker)
+1. ⭐ Starred [facebookresearch/llama](https://github.com/facebookresearch/llama)
+2. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+3. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)
+4. ⭐ Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
+5. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+6. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
+7. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
+8. ⭐ Starred [vercel/ncc](https://github.com/vercel/ncc)
 <!--RECENT_ACTIVITY:end-->
 
