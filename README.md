@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 1st, 2023, 11:32:48 AM
+Last Updated: Sunday, October 1st, 2023, 12:07:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)
-2. ⭐ Starred [facebookresearch/llama](https://github.com/facebookresearch/llama)
-3. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
-4. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)
-5. ⭐ Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
-6. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
-7. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
-8. ⭐ Starred [distribution/distribution](https://github.com/distribution/distribution)
+1. ⭐ Starred [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
+2. ⭐ Starred [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)
+3. ⭐ Starred [facebookresearch/llama](https://github.com/facebookresearch/llama)
+4. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+5. ⭐ Starred [Infisical/infisical](https://github.com/Infisical/infisical)
+6. ⭐ Starred [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
+7. ⭐ Starred [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+8. ⭐ Starred [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner)
 <!--RECENT_ACTIVITY:end-->
 
