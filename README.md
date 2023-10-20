@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 20th, 2023, 1:11:33 PM
+Last Updated: Friday, October 20th, 2023, 1:34:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/jest-introduction](https://github.com/bronystylecrazy/jest-introduction)
-2. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-3. ⭐ Starred [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-4. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
-5. ⭐ Starred [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
-6. ⭐ Starred [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)
-7. ⭐ Starred [facebookresearch/llama](https://github.com/facebookresearch/llama)
-8. ⭐ Starred [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+1. ⭐ Starred [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS)
+2. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
+3. 📔 Created new repository [bronystylecrazy/jest-introduction](https://github.com/bronystylecrazy/jest-introduction)
+4. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+5. ⭐ Starred [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+6. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
+7. ⭐ Starred [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
+8. ⭐ Starred [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)
 <!--RECENT_ACTIVITY:end-->
 
