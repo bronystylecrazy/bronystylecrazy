@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 23rd, 2023, 10:09:05 AM
+Last Updated: Thursday, November 23rd, 2023, 10:33:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [modesttree/Zenject](https://github.com/modesttree/Zenject)
-2. ⭐ Starred [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS)
-3. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
-4. 📔 Created new repository [bronystylecrazy/jest-introduction](https://github.com/bronystylecrazy/jest-introduction)
-5. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-6. ⭐ Starred [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-7. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
-8. ⭐ Starred [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
+1. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)
+2. ⭐ Starred [modesttree/Zenject](https://github.com/modesttree/Zenject)
+3. ⭐ Starred [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS)
+4. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
+5. 📔 Created new repository [bronystylecrazy/jest-introduction](https://github.com/bronystylecrazy/jest-introduction)
+6. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+7. ⭐ Starred [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+8. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
 <!--RECENT_ACTIVITY:end-->
 
