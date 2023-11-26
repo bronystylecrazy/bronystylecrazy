@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 26th, 2023, 1:32:57 PM
+Last Updated: Sunday, November 26th, 2023, 2:07:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)
-2. ⭐ Starred [modesttree/Zenject](https://github.com/modesttree/Zenject)
-3. ⭐ Starred [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS)
-4. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
-5. 📔 Created new repository [bronystylecrazy/jest-introduction](https://github.com/bronystylecrazy/jest-introduction)
-6. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-7. ⭐ Starred [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-8. ⭐ Starred [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
+1. ⭐ Starred [odoo/odoo](https://github.com/odoo/odoo)
+2. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)
+3. ⭐ Starred [modesttree/Zenject](https://github.com/modesttree/Zenject)
+4. ⭐ Starred [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS)
+5. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
+6. 📔 Created new repository [bronystylecrazy/jest-introduction](https://github.com/bronystylecrazy/jest-introduction)
+7. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+8. ⭐ Starred [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 <!--RECENT_ACTIVITY:end-->
 
