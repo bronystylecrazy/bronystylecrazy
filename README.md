@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 1st, 2023, 8:32:54 PM
+Last Updated: Friday, December 1st, 2023, 9:08:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vektra/mockery](https://github.com/vektra/mockery)
-2. ⭐ Starred [stretchr/testify](https://github.com/stretchr/testify)
-3. ⭐ Starred [thoas/go-funk](https://github.com/thoas/go-funk)
-4. ⭐ Starred [odoo/odoo](https://github.com/odoo/odoo)
-5. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)
-6. ⭐ Starred [modesttree/Zenject](https://github.com/modesttree/Zenject)
-7. ⭐ Starred [Alex313031/Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS)
-8. ⭐ Starred [Alex313031/thorium](https://github.com/Alex313031/thorium)
+1. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)
+2. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)
+3. ⭐ Starred [vektra/mockery](https://github.com/vektra/mockery)
+4. ⭐ Starred [stretchr/testify](https://github.com/stretchr/testify)
+5. ⭐ Starred [thoas/go-funk](https://github.com/thoas/go-funk)
+6. ⭐ Starred [odoo/odoo](https://github.com/odoo/odoo)
+7. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)
+8. ⭐ Starred [modesttree/Zenject](https://github.com/modesttree/Zenject)
 <!--RECENT_ACTIVITY:end-->
 
