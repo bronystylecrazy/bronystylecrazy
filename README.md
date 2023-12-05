@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 6th, 2023, 3:09:41 AM
+Last Updated: Wednesday, December 6th, 2023, 3:33:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mswjs/msw](https://github.com/mswjs/msw)
-2. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)
-3. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)
-4. ⭐ Starred [vektra/mockery](https://github.com/vektra/mockery)
-5. ⭐ Starred [stretchr/testify](https://github.com/stretchr/testify)
-6. ⭐ Starred [thoas/go-funk](https://github.com/thoas/go-funk)
-7. ⭐ Starred [odoo/odoo](https://github.com/odoo/odoo)
-8. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)
+1. ⭐ Starred [mistralai/mistral-src](https://github.com/mistralai/mistral-src)
+2. ⭐ Starred [mswjs/msw](https://github.com/mswjs/msw)
+3. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)
+4. ⭐ Starred [refinedev/refine](https://github.com/refinedev/refine)
+5. ⭐ Starred [vektra/mockery](https://github.com/vektra/mockery)
+6. ⭐ Starred [stretchr/testify](https://github.com/stretchr/testify)
+7. ⭐ Starred [thoas/go-funk](https://github.com/thoas/go-funk)
+8. ⭐ Starred [odoo/odoo](https://github.com/odoo/odoo)
 <!--RECENT_ACTIVITY:end-->
 
