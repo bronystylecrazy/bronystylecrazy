@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 7th, 2023, 9:40:02 AM
+Last Updated: Thursday, December 7th, 2023, 10:09:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-2. ❗️ Opened issue [#4](https://github.com/bronystylecrazy/nlp-bot-test/issues/4) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-3. ❗️ Opened issue [#3](https://github.com/bronystylecrazy/nlp-bot-test/issues/3) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-4. ❗️ Opened issue [#2](https://github.com/bronystylecrazy/nlp-bot-test/issues/2) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-5. ✔️ Closed issue [#1](https://github.com/bronystylecrazy/nlp-bot-test/issues/1) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-6. ❗️ Opened issue [#1](https://github.com/bronystylecrazy/nlp-bot-test/issues/1) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-7. 📔 Created new repository [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-8. ⭐ Starred [mistralai/mistral-src](https://github.com/mistralai/mistral-src)
+1. ❌ Closed PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+2. 💪 Opened PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+3. ❗️ Opened issue [#4](https://github.com/bronystylecrazy/nlp-bot-test/issues/4) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+4. ❗️ Opened issue [#3](https://github.com/bronystylecrazy/nlp-bot-test/issues/3) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+5. ❗️ Opened issue [#2](https://github.com/bronystylecrazy/nlp-bot-test/issues/2) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+6. ✔️ Closed issue [#1](https://github.com/bronystylecrazy/nlp-bot-test/issues/1) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+7. ❗️ Opened issue [#1](https://github.com/bronystylecrazy/nlp-bot-test/issues/1) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+8. 📔 Created new repository [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
 <!--RECENT_ACTIVITY:end-->
 
