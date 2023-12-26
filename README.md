@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 27th, 2023, 4:32:51 AM
+Last Updated: Wednesday, December 27th, 2023, 5:07:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
-2. ⭐ Starred [samber/lo](https://github.com/samber/lo)
-3. ⭐ Starred [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-4. ⭐ Starred [pingcap/tidb](https://github.com/pingcap/tidb)
-5. ⭐ Starred [deepbrook/Pysher](https://github.com/deepbrook/Pysher)
-6. ⭐ Starred [pusher-community/pusher-websocket-go](https://github.com/pusher-community/pusher-websocket-go)
-7. ❌ Closed PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-8. 💪 Opened PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+1. ⭐ Starred [swaggo/swag](https://github.com/swaggo/swag)
+2. ⭐ Starred [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
+3. ⭐ Starred [samber/lo](https://github.com/samber/lo)
+4. ⭐ Starred [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+5. ⭐ Starred [pingcap/tidb](https://github.com/pingcap/tidb)
+6. ⭐ Starred [deepbrook/Pysher](https://github.com/deepbrook/Pysher)
+7. ⭐ Starred [pusher-community/pusher-websocket-go](https://github.com/pusher-community/pusher-websocket-go)
+8. ❌ Closed PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
 <!--RECENT_ACTIVITY:end-->
 
