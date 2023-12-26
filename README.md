@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 27th, 2023, 12:32:57 AM
+Last Updated: Wednesday, December 27th, 2023, 1:10:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-2. ⭐ Starred [pingcap/tidb](https://github.com/pingcap/tidb)
-3. ⭐ Starred [deepbrook/Pysher](https://github.com/deepbrook/Pysher)
-4. ⭐ Starred [pusher-community/pusher-websocket-go](https://github.com/pusher-community/pusher-websocket-go)
-5. ❌ Closed PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-6. 💪 Opened PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-7. ❗️ Opened issue [#4](https://github.com/bronystylecrazy/nlp-bot-test/issues/4) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
-8. ❗️ Opened issue [#3](https://github.com/bronystylecrazy/nlp-bot-test/issues/3) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+1. ⭐ Starred [samber/lo](https://github.com/samber/lo)
+2. ⭐ Starred [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+3. ⭐ Starred [pingcap/tidb](https://github.com/pingcap/tidb)
+4. ⭐ Starred [deepbrook/Pysher](https://github.com/deepbrook/Pysher)
+5. ⭐ Starred [pusher-community/pusher-websocket-go](https://github.com/pusher-community/pusher-websocket-go)
+6. ❌ Closed PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+7. 💪 Opened PR [#5](https://github.com/bronystylecrazy/nlp-bot-test/pull/5) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
+8. ❗️ Opened issue [#4](https://github.com/bronystylecrazy/nlp-bot-test/issues/4) in [bronystylecrazy/nlp-bot-test](https://github.com/bronystylecrazy/nlp-bot-test)
 <!--RECENT_ACTIVITY:end-->
 
