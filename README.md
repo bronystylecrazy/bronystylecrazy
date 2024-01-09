@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 9th, 2024, 4:33:31 PM
+Last Updated: Tuesday, January 9th, 2024, 5:09:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
-2. ⭐ Starred [samber/do](https://github.com/samber/do)
-3. ⭐ Starred [swaggo/swag](https://github.com/swaggo/swag)
-4. ⭐ Starred [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
-5. ⭐ Starred [samber/lo](https://github.com/samber/lo)
-6. ⭐ Starred [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
-7. ⭐ Starred [pingcap/tidb](https://github.com/pingcap/tidb)
-8. ⭐ Starred [deepbrook/Pysher](https://github.com/deepbrook/Pysher)
+1. ⭐ Starred [rexray/rexray](https://github.com/rexray/rexray)
+2. ⭐ Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
+3. ⭐ Starred [samber/do](https://github.com/samber/do)
+4. ⭐ Starred [swaggo/swag](https://github.com/swaggo/swag)
+5. ⭐ Starred [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
+6. ⭐ Starred [samber/lo](https://github.com/samber/lo)
+7. ⭐ Starred [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
+8. ⭐ Starred [pingcap/tidb](https://github.com/pingcap/tidb)
 <!--RECENT_ACTIVITY:end-->
 
