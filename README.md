@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 19th, 2024, 8:11:23 PM
+Last Updated: Friday, January 19th, 2024, 8:32:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
-2. 📔 Created new repository [bronystylecrazy/scip-lsif-go](https://github.com/bronystylecrazy/scip-lsif-go)
-3. 📔 Created new repository [SITJPC/jpc16-minigame-web](https://github.com/SITJPC/jpc16-minigame-web)
-4. ⭐ Starred [rexray/rexray](https://github.com/rexray/rexray)
-5. ⭐ Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
-6. ⭐ Starred [samber/do](https://github.com/samber/do)
-7. ⭐ Starred [swaggo/swag](https://github.com/swaggo/swag)
-8. ⭐ Starred [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
+1. ⭐ Starred [devforth/spa-to-http](https://github.com/devforth/spa-to-http)
+2. ⭐ Starred [ConsoleTVs/sswr](https://github.com/ConsoleTVs/sswr)
+3. ⭐ Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+4. 📔 Created new repository [bronystylecrazy/scip-lsif-go](https://github.com/bronystylecrazy/scip-lsif-go)
+5. 📔 Created new repository [SITJPC/jpc16-minigame-web](https://github.com/SITJPC/jpc16-minigame-web)
+6. ⭐ Starred [rexray/rexray](https://github.com/rexray/rexray)
+7. ⭐ Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
+8. ⭐ Starred [samber/do](https://github.com/samber/do)
 <!--RECENT_ACTIVITY:end-->
 
