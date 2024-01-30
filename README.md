@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 30th, 2024, 11:36:50 PM
+Last Updated: Wednesday, January 31st, 2024, 12:08:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wailsapp/xgo](https://github.com/wailsapp/xgo)
-2. ⭐ Starred [jpillora/overseer](https://github.com/jpillora/overseer)
-3. ⭐ Starred [alacritty/alacritty](https://github.com/alacritty/alacritty)
-4. ⭐ Starred [devforth/spa-to-http](https://github.com/devforth/spa-to-http)
-5. ⭐ Starred [ConsoleTVs/sswr](https://github.com/ConsoleTVs/sswr)
-6. ⭐ Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
-7. 📔 Created new repository [bronystylecrazy/scip-lsif-go](https://github.com/bronystylecrazy/scip-lsif-go)
-8. 📔 Created new repository [SITJPC/jpc16-minigame-web](https://github.com/SITJPC/jpc16-minigame-web)
+1. ⭐ Starred [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
+2. ⭐ Starred [wailsapp/xgo](https://github.com/wailsapp/xgo)
+3. ⭐ Starred [jpillora/overseer](https://github.com/jpillora/overseer)
+4. ⭐ Starred [alacritty/alacritty](https://github.com/alacritty/alacritty)
+5. ⭐ Starred [devforth/spa-to-http](https://github.com/devforth/spa-to-http)
+6. ⭐ Starred [ConsoleTVs/sswr](https://github.com/ConsoleTVs/sswr)
+7. ⭐ Starred [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+8. 📔 Created new repository [bronystylecrazy/scip-lsif-go](https://github.com/bronystylecrazy/scip-lsif-go)
 <!--RECENT_ACTIVITY:end-->
 
