@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 12th, 2024, 6:07:11 PM
+Last Updated: Monday, February 12th, 2024, 6:33:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fogleman/gg](https://github.com/fogleman/gg)
-2. ⭐ Starred [upx/upx](https://github.com/upx/upx)
-3. ⭐ Starred [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
-4. ⭐ Starred [wailsapp/xgo](https://github.com/wailsapp/xgo)
-5. ⭐ Starred [jpillora/overseer](https://github.com/jpillora/overseer)
-6. ⭐ Starred [alacritty/alacritty](https://github.com/alacritty/alacritty)
-7. ⭐ Starred [devforth/spa-to-http](https://github.com/devforth/spa-to-http)
-8. ⭐ Starred [ConsoleTVs/sswr](https://github.com/ConsoleTVs/sswr)
+1. ⭐ Starred [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
+2. ⭐ Starred [fogleman/gg](https://github.com/fogleman/gg)
+3. ⭐ Starred [upx/upx](https://github.com/upx/upx)
+4. ⭐ Starred [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
+5. ⭐ Starred [wailsapp/xgo](https://github.com/wailsapp/xgo)
+6. ⭐ Starred [jpillora/overseer](https://github.com/jpillora/overseer)
+7. ⭐ Starred [alacritty/alacritty](https://github.com/alacritty/alacritty)
+8. ⭐ Starred [devforth/spa-to-http](https://github.com/devforth/spa-to-http)
 <!--RECENT_ACTIVITY:end-->
 
