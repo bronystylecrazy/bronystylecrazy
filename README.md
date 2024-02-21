@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 21st, 2024, 8:32:41 PM
+Last Updated: Wednesday, February 21st, 2024, 9:07:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
-2. ⭐ Starred [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
-3. ⭐ Starred [fogleman/gg](https://github.com/fogleman/gg)
-4. ⭐ Starred [upx/upx](https://github.com/upx/upx)
-5. ⭐ Starred [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
-6. ⭐ Starred [wailsapp/xgo](https://github.com/wailsapp/xgo)
-7. ⭐ Starred [jpillora/overseer](https://github.com/jpillora/overseer)
-8. ⭐ Starred [alacritty/alacritty](https://github.com/alacritty/alacritty)
+1. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+2. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+3. ⭐ Starred [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
+4. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
+5. ⭐ Starred [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
+6. ⭐ Starred [fogleman/gg](https://github.com/fogleman/gg)
+7. ⭐ Starred [upx/upx](https://github.com/upx/upx)
+8. ⭐ Starred [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
 <!--RECENT_ACTIVITY:end-->
 
