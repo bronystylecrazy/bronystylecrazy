@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 22nd, 2024, 4:09:18 PM
+Last Updated: Thursday, February 22nd, 2024, 4:33:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-2. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-3. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-4. ⭐ Starred [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
-5. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
-6. ⭐ Starred [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
-7. ⭐ Starred [fogleman/gg](https://github.com/fogleman/gg)
-8. ⭐ Starred [upx/upx](https://github.com/upx/upx)
+1. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)
+2. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+3. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+4. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+5. ⭐ Starred [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
+6. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
+7. ⭐ Starred [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
+8. ⭐ Starred [fogleman/gg](https://github.com/fogleman/gg)
 <!--RECENT_ACTIVITY:end-->
 
