@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 23rd, 2024, 3:11:30 PM
+Last Updated: Friday, February 23rd, 2024, 3:32:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)
-2. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-3. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-4. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-5. ⭐ Starred [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
-6. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
-7. ⭐ Starred [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
-8. ⭐ Starred [fogleman/gg](https://github.com/fogleman/gg)
+1. ⭐ Starred [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
+2. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)
+3. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+4. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+5. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+6. ⭐ Starred [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
+7. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
+8. ⭐ Starred [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
 <!--RECENT_ACTIVITY:end-->
 
