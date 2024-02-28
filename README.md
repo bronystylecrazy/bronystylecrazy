@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 28th, 2024, 10:33:34 PM
+Last Updated: Wednesday, February 28th, 2024, 11:10:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [psanford/wormhole-william](https://github.com/psanford/wormhole-william)
-2. ⭐ Starred [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
-3. ⭐ Starred [farzher/fuzzysort](https://github.com/farzher/fuzzysort)
-4. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
-5. ⭐ Starred [spf13/viper](https://github.com/spf13/viper)
-6. ⭐ Starred [spf13/cobra](https://github.com/spf13/cobra)
-7. ⭐ Starred [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
-8. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)
+1. ⭐ Starred [google/bindiff](https://github.com/google/bindiff)
+2. ⭐ Starred [psanford/wormhole-william](https://github.com/psanford/wormhole-william)
+3. ⭐ Starred [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
+4. ⭐ Starred [farzher/fuzzysort](https://github.com/farzher/fuzzysort)
+5. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
+6. ⭐ Starred [spf13/viper](https://github.com/spf13/viper)
+7. ⭐ Starred [spf13/cobra](https://github.com/spf13/cobra)
+8. ⭐ Starred [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
 <!--RECENT_ACTIVITY:end-->
 
