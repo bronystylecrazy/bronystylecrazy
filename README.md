@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 28th, 2024, 9:15:28 AM
+Last Updated: Wednesday, February 28th, 2024, 9:32:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spf13/viper](https://github.com/spf13/viper)
-2. ⭐ Starred [spf13/cobra](https://github.com/spf13/cobra)
-3. ⭐ Starred [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
-4. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)
-5. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
-6. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-7. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-8. ⭐ Starred [AlecAivazis/survey](https://github.com/AlecAivazis/survey)
+1. ⭐ Starred [farzher/fuzzysort](https://github.com/farzher/fuzzysort)
+2. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
+3. ⭐ Starred [spf13/viper](https://github.com/spf13/viper)
+4. ⭐ Starred [spf13/cobra](https://github.com/spf13/cobra)
+5. ⭐ Starred [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen)
+6. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)
+7. ⭐ Starred [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles)
+8. ⭐ Starred [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 <!--RECENT_ACTIVITY:end-->
 
