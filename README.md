@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 15th, 2024, 12:07:58 AM
+Last Updated: Friday, March 15th, 2024, 12:33:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin)
-2. ⭐ Starred [google/bindiff](https://github.com/google/bindiff)
-3. ⭐ Starred [psanford/wormhole-william](https://github.com/psanford/wormhole-william)
-4. ⭐ Starred [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
-5. ⭐ Starred [farzher/fuzzysort](https://github.com/farzher/fuzzysort)
-6. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
-7. ⭐ Starred [spf13/viper](https://github.com/spf13/viper)
-8. ⭐ Starred [spf13/cobra](https://github.com/spf13/cobra)
+1. ⭐ Starred [maja42/goval](https://github.com/maja42/goval)
+2. ⭐ Starred [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin)
+3. ⭐ Starred [google/bindiff](https://github.com/google/bindiff)
+4. ⭐ Starred [psanford/wormhole-william](https://github.com/psanford/wormhole-william)
+5. ⭐ Starred [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
+6. ⭐ Starred [farzher/fuzzysort](https://github.com/farzher/fuzzysort)
+7. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
+8. ⭐ Starred [spf13/viper](https://github.com/spf13/viper)
 <!--RECENT_ACTIVITY:end-->
 
