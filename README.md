@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 15th, 2024, 1:32:46 AM
+Last Updated: Friday, March 15th, 2024, 2:06:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [traefik/yaegi](https://github.com/traefik/yaegi)
-2. ⭐ Starred [maja42/goval](https://github.com/maja42/goval)
-3. ⭐ Starred [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin)
-4. ⭐ Starred [google/bindiff](https://github.com/google/bindiff)
-5. ⭐ Starred [psanford/wormhole-william](https://github.com/psanford/wormhole-william)
-6. ⭐ Starred [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
-7. ⭐ Starred [farzher/fuzzysort](https://github.com/farzher/fuzzysort)
-8. ⭐ Starred [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
+1. ⭐ Starred [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap)
+2. ⭐ Starred [traefik/yaegi](https://github.com/traefik/yaegi)
+3. ⭐ Starred [maja42/goval](https://github.com/maja42/goval)
+4. ⭐ Starred [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin)
+5. ⭐ Starred [google/bindiff](https://github.com/google/bindiff)
+6. ⭐ Starred [psanford/wormhole-william](https://github.com/psanford/wormhole-william)
+7. ⭐ Starred [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
+8. ⭐ Starred [farzher/fuzzysort](https://github.com/farzher/fuzzysort)
 <!--RECENT_ACTIVITY:end-->
 
