@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 19th, 2024, 12:32:52 AM
+Last Updated: Tuesday, March 19th, 2024, 1:10:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [reaviz/reaflow](https://github.com/reaviz/reaflow)
-2. ⭐ Starred [hashicorp/terraform](https://github.com/hashicorp/terraform)
-3. ⭐ Starred [acaudwell/Gource](https://github.com/acaudwell/Gource)
-4. ⭐ Starred [catfan/Medoo](https://github.com/catfan/Medoo)
-5. ⭐ Starred [zalando/problem](https://github.com/zalando/problem)
-6. ⭐ Starred [pkujhd/goloader](https://github.com/pkujhd/goloader)
-7. ⭐ Starred [eh-steve/goloader](https://github.com/eh-steve/goloader)
-8. ⭐ Starred [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap)
+1. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ⭐ Starred [reaviz/reaflow](https://github.com/reaviz/reaflow)
+3. ⭐ Starred [hashicorp/terraform](https://github.com/hashicorp/terraform)
+4. ⭐ Starred [acaudwell/Gource](https://github.com/acaudwell/Gource)
+5. ⭐ Starred [catfan/Medoo](https://github.com/catfan/Medoo)
+6. ⭐ Starred [zalando/problem](https://github.com/zalando/problem)
+7. ⭐ Starred [pkujhd/goloader](https://github.com/pkujhd/goloader)
+8. ⭐ Starred [eh-steve/goloader](https://github.com/eh-steve/goloader)
 <!--RECENT_ACTIVITY:end-->
 
