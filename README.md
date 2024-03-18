@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 18th, 2024, 5:33:09 PM
+Last Updated: Monday, March 18th, 2024, 6:07:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [catfan/Medoo](https://github.com/catfan/Medoo)
-2. ⭐ Starred [zalando/problem](https://github.com/zalando/problem)
-3. ⭐ Starred [pkujhd/goloader](https://github.com/pkujhd/goloader)
-4. ⭐ Starred [eh-steve/goloader](https://github.com/eh-steve/goloader)
-5. ⭐ Starred [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap)
-6. ⭐ Starred [traefik/yaegi](https://github.com/traefik/yaegi)
-7. ⭐ Starred [maja42/goval](https://github.com/maja42/goval)
-8. ⭐ Starred [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin)
+1. ⭐ Starred [acaudwell/Gource](https://github.com/acaudwell/Gource)
+2. ⭐ Starred [catfan/Medoo](https://github.com/catfan/Medoo)
+3. ⭐ Starred [zalando/problem](https://github.com/zalando/problem)
+4. ⭐ Starred [pkujhd/goloader](https://github.com/pkujhd/goloader)
+5. ⭐ Starred [eh-steve/goloader](https://github.com/eh-steve/goloader)
+6. ⭐ Starred [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap)
+7. ⭐ Starred [traefik/yaegi](https://github.com/traefik/yaegi)
+8. ⭐ Starred [maja42/goval](https://github.com/maja42/goval)
 <!--RECENT_ACTIVITY:end-->
 
