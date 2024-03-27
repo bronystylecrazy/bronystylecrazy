@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 27th, 2024, 9:32:42 PM
+Last Updated: Wednesday, March 27th, 2024, 10:09:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hashicorp/hcl](https://github.com/hashicorp/hcl)
-2. ⭐ Starred [kestra-io/kestra](https://github.com/kestra-io/kestra)
-3. ⭐ Starred [inconshreveable/go-update](https://github.com/inconshreveable/go-update)
-4. ⭐ Starred [hashicorp/go-hclog](https://github.com/hashicorp/go-hclog)
-5. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-6. ⭐ Starred [reaviz/reaflow](https://github.com/reaviz/reaflow)
-7. ⭐ Starred [hashicorp/terraform](https://github.com/hashicorp/terraform)
-8. ⭐ Starred [acaudwell/Gource](https://github.com/acaudwell/Gource)
+1. ⭐ Starred [torenware/vite-go](https://github.com/torenware/vite-go)
+2. ⭐ Starred [hashicorp/hcl](https://github.com/hashicorp/hcl)
+3. ⭐ Starred [kestra-io/kestra](https://github.com/kestra-io/kestra)
+4. ⭐ Starred [inconshreveable/go-update](https://github.com/inconshreveable/go-update)
+5. ⭐ Starred [hashicorp/go-hclog](https://github.com/hashicorp/go-hclog)
+6. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+7. ⭐ Starred [reaviz/reaflow](https://github.com/reaviz/reaflow)
+8. ⭐ Starred [hashicorp/terraform](https://github.com/hashicorp/terraform)
 <!--RECENT_ACTIVITY:end-->
 
