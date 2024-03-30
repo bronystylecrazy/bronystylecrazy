@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 30th, 2024, 11:10:54 PM
+Last Updated: Saturday, March 30th, 2024, 11:34:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [scylladb/scylladb](https://github.com/scylladb/scylladb)
-2. ⭐ Starred [cosmtrek/air](https://github.com/cosmtrek/air)
-3. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
-4. ⭐ Starred [shoenig/test](https://github.com/shoenig/test)
-5. ⭐ Starred [torenware/vite-go](https://github.com/torenware/vite-go)
-6. ⭐ Starred [hashicorp/hcl](https://github.com/hashicorp/hcl)
-7. ⭐ Starred [kestra-io/kestra](https://github.com/kestra-io/kestra)
-8. ⭐ Starred [inconshreveable/go-update](https://github.com/inconshreveable/go-update)
+1. ⭐ Starred [Ullaakut/nmap](https://github.com/Ullaakut/nmap)
+2. ⭐ Starred [scylladb/scylladb](https://github.com/scylladb/scylladb)
+3. ⭐ Starred [cosmtrek/air](https://github.com/cosmtrek/air)
+4. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+5. ⭐ Starred [shoenig/test](https://github.com/shoenig/test)
+6. ⭐ Starred [torenware/vite-go](https://github.com/torenware/vite-go)
+7. ⭐ Starred [hashicorp/hcl](https://github.com/hashicorp/hcl)
+8. ⭐ Starred [kestra-io/kestra](https://github.com/kestra-io/kestra)
 <!--RECENT_ACTIVITY:end-->
 
