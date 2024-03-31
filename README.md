@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 1st, 2024, 12:32:58 AM
+Last Updated: Monday, April 1st, 2024, 1:09:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)
-2. ⭐ Starred [dariubs/GoBooks](https://github.com/dariubs/GoBooks)
-3. ⭐ Starred [Ullaakut/nmap](https://github.com/Ullaakut/nmap)
-4. ⭐ Starred [scylladb/scylladb](https://github.com/scylladb/scylladb)
-5. ⭐ Starred [cosmtrek/air](https://github.com/cosmtrek/air)
-6. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
-7. ⭐ Starred [shoenig/test](https://github.com/shoenig/test)
-8. ⭐ Starred [torenware/vite-go](https://github.com/torenware/vite-go)
+1. ⭐ Starred [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin)
+2. ⭐ Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)
+3. ⭐ Starred [dariubs/GoBooks](https://github.com/dariubs/GoBooks)
+4. ⭐ Starred [Ullaakut/nmap](https://github.com/Ullaakut/nmap)
+5. ⭐ Starred [scylladb/scylladb](https://github.com/scylladb/scylladb)
+6. ⭐ Starred [cosmtrek/air](https://github.com/cosmtrek/air)
+7. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+8. ⭐ Starred [shoenig/test](https://github.com/shoenig/test)
 <!--RECENT_ACTIVITY:end-->
 
