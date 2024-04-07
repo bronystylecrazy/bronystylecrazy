@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 8th, 2024, 3:33:46 AM
+Last Updated: Monday, April 8th, 2024, 4:08:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
-2. ⭐ Starred [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate)
-3. 📔 Created new repository [bronystylecrazy/syncr-cli](https://github.com/bronystylecrazy/syncr-cli)
-4. ⭐ Starred [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
-5. ⭐ Starred [mitchellh/go-homedir](https://github.com/mitchellh/go-homedir)
-6. ⭐ Starred [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)
-7. ⭐ Starred [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin)
-8. ⭐ Starred [avelino/awesome-go](https://github.com/avelino/awesome-go)
+1. ⭐ Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)
+2. ⭐ Starred [ziglang/zig](https://github.com/ziglang/zig)
+3. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
+4. ⭐ Starred [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate)
+5. 📔 Created new repository [bronystylecrazy/syncr-cli](https://github.com/bronystylecrazy/syncr-cli)
+6. ⭐ Starred [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
+7. ⭐ Starred [mitchellh/go-homedir](https://github.com/mitchellh/go-homedir)
+8. ⭐ Starred [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)
 <!--RECENT_ACTIVITY:end-->
 
