@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 8th, 2024, 7:44:57 PM
+Last Updated: Monday, April 8th, 2024, 8:09:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)
-2. ⭐ Starred [ziglang/zig](https://github.com/ziglang/zig)
-3. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
-4. ⭐ Starred [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate)
-5. 📔 Created new repository [bronystylecrazy/syncr-cli](https://github.com/bronystylecrazy/syncr-cli)
-6. ⭐ Starred [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
-7. ⭐ Starred [mitchellh/go-homedir](https://github.com/mitchellh/go-homedir)
-8. ⭐ Starred [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)
+1. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
+2. ⭐ Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)
+3. ⭐ Starred [ziglang/zig](https://github.com/ziglang/zig)
+4. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
+5. ⭐ Starred [sanbornm/go-selfupdate](https://github.com/sanbornm/go-selfupdate)
+6. 📔 Created new repository [bronystylecrazy/syncr-cli](https://github.com/bronystylecrazy/syncr-cli)
+7. ⭐ Starred [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
+8. ⭐ Starred [mitchellh/go-homedir](https://github.com/mitchellh/go-homedir)
 <!--RECENT_ACTIVITY:end-->
 
