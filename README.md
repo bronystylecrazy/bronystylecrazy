@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 27th, 2024, 1:34:00 AM
+Last Updated: Saturday, April 27th, 2024, 2:07:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dry-python/returns](https://github.com/dry-python/returns)
-2. ⭐ Starred [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions)
-3. ⭐ Starred [pusher/pusher-http-go](https://github.com/pusher/pusher-http-go)
-4. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)
-5. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
-6. ⭐ Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)
-7. ⭐ Starred [ziglang/zig](https://github.com/ziglang/zig)
-8. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
+1. ⭐ Starred [uber-go/fx](https://github.com/uber-go/fx)
+2. ⭐ Starred [dry-python/returns](https://github.com/dry-python/returns)
+3. ⭐ Starred [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions)
+4. ⭐ Starred [pusher/pusher-http-go](https://github.com/pusher/pusher-http-go)
+5. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)
+6. ⭐ Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
+7. ⭐ Starred [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun)
+8. ⭐ Starred [ziglang/zig](https://github.com/ziglang/zig)
 <!--RECENT_ACTIVITY:end-->
 
