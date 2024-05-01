@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 1st, 2024, 11:11:19 PM
+Last Updated: Wednesday, May 1st, 2024, 11:35:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [netdata/netdata](https://github.com/netdata/netdata)
-2. ⭐ Starred [grafana/grafana](https://github.com/grafana/grafana)
-3. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
-4. ⭐ Starred [blushft/go-diagrams](https://github.com/blushft/go-diagrams)
-5. ⭐ Starred [uber-go/fx](https://github.com/uber-go/fx)
-6. ⭐ Starred [dry-python/returns](https://github.com/dry-python/returns)
-7. ⭐ Starred [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions)
-8. ⭐ Starred [pusher/pusher-http-go](https://github.com/pusher/pusher-http-go)
+1. ⭐ Starred [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
+2. ⭐ Starred [netdata/netdata](https://github.com/netdata/netdata)
+3. ⭐ Starred [grafana/grafana](https://github.com/grafana/grafana)
+4. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
+5. ⭐ Starred [blushft/go-diagrams](https://github.com/blushft/go-diagrams)
+6. ⭐ Starred [uber-go/fx](https://github.com/uber-go/fx)
+7. ⭐ Starred [dry-python/returns](https://github.com/dry-python/returns)
+8. ⭐ Starred [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions)
 <!--RECENT_ACTIVITY:end-->
 
