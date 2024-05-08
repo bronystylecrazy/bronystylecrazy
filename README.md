@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 9th, 2024, 12:07:53 AM
+Last Updated: Thursday, May 9th, 2024, 12:34:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
-2. ⭐ Starred [sirupsen/logrus](https://github.com/sirupsen/logrus)
-3. ⭐ Starred [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
-4. ⭐ Starred [netdata/netdata](https://github.com/netdata/netdata)
-5. ⭐ Starred [grafana/grafana](https://github.com/grafana/grafana)
-6. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
-7. ⭐ Starred [blushft/go-diagrams](https://github.com/blushft/go-diagrams)
-8. ⭐ Starred [uber-go/fx](https://github.com/uber-go/fx)
+1. ⭐ Starred [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor)
+2. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+3. ⭐ Starred [sirupsen/logrus](https://github.com/sirupsen/logrus)
+4. ⭐ Starred [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
+5. ⭐ Starred [netdata/netdata](https://github.com/netdata/netdata)
+6. ⭐ Starred [grafana/grafana](https://github.com/grafana/grafana)
+7. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
+8. ⭐ Starred [blushft/go-diagrams](https://github.com/blushft/go-diagrams)
 <!--RECENT_ACTIVITY:end-->
 
