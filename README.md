@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 10th, 2024, 10:33:08 PM
+Last Updated: Friday, May 10th, 2024, 11:11:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js)
-2. ⭐ Starred [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor)
-3. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
-4. ⭐ Starred [sirupsen/logrus](https://github.com/sirupsen/logrus)
-5. ⭐ Starred [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
-6. ⭐ Starred [netdata/netdata](https://github.com/netdata/netdata)
-7. ⭐ Starred [grafana/grafana](https://github.com/grafana/grafana)
-8. ⭐ Starred [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks)
+1. ⭐ Starred [l1va/gofins](https://github.com/l1va/gofins)
+2. ⭐ Starred [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js)
+3. ⭐ Starred [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor)
+4. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+5. ⭐ Starred [sirupsen/logrus](https://github.com/sirupsen/logrus)
+6. ⭐ Starred [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
+7. ⭐ Starred [netdata/netdata](https://github.com/netdata/netdata)
+8. ⭐ Starred [grafana/grafana](https://github.com/grafana/grafana)
 <!--RECENT_ACTIVITY:end-->
 
