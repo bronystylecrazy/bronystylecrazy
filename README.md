@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 17th, 2024, 2:33:06 AM
+Last Updated: Friday, May 17th, 2024, 3:09:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ts-spec/tspec](https://github.com/ts-spec/tspec)
-2. ⭐ Starred [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go)
-3. ⭐ Starred [l1va/gofins](https://github.com/l1va/gofins)
-4. ⭐ Starred [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js)
-5. ⭐ Starred [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor)
-6. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
-7. ⭐ Starred [sirupsen/logrus](https://github.com/sirupsen/logrus)
-8. ⭐ Starred [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
+1. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+2. ⭐ Starred [ts-spec/tspec](https://github.com/ts-spec/tspec)
+3. ⭐ Starred [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go)
+4. ⭐ Starred [l1va/gofins](https://github.com/l1va/gofins)
+5. ⭐ Starred [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js)
+6. ⭐ Starred [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor)
+7. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+8. ⭐ Starred [sirupsen/logrus](https://github.com/sirupsen/logrus)
 <!--RECENT_ACTIVITY:end-->
 
