@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 18th, 2024, 7:46:05 PM
+Last Updated: Saturday, May 18th, 2024, 8:09:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-2. ⭐ Starred [ts-spec/tspec](https://github.com/ts-spec/tspec)
-3. ⭐ Starred [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go)
-4. ⭐ Starred [l1va/gofins](https://github.com/l1va/gofins)
-5. ⭐ Starred [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js)
-6. ⭐ Starred [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor)
-7. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
-8. ⭐ Starred [sirupsen/logrus](https://github.com/sirupsen/logrus)
+1. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
+2. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+3. ⭐ Starred [ts-spec/tspec](https://github.com/ts-spec/tspec)
+4. ⭐ Starred [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go)
+5. ⭐ Starred [l1va/gofins](https://github.com/l1va/gofins)
+6. ⭐ Starred [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js)
+7. ⭐ Starred [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor)
+8. ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)
 <!--RECENT_ACTIVITY:end-->
 
