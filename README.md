@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 7th, 2024, 11:11:27 PM
+Last Updated: Friday, June 7th, 2024, 11:39:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/sit-iot-workshop](https://github.com/bronystylecrazy/sit-iot-workshop)
-2. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
-3. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-4. ⭐ Starred [ts-spec/tspec](https://github.com/ts-spec/tspec)
-5. ⭐ Starred [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go)
-6. ⭐ Starred [l1va/gofins](https://github.com/l1va/gofins)
-7. ⭐ Starred [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js)
-8. ⭐ Starred [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor)
+1. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
+2. 📔 Created new repository [bronystylecrazy/sit-iot-workshop](https://github.com/bronystylecrazy/sit-iot-workshop)
+3. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
+4. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+5. ⭐ Starred [ts-spec/tspec](https://github.com/ts-spec/tspec)
+6. ⭐ Starred [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go)
+7. ⭐ Starred [l1va/gofins](https://github.com/l1va/gofins)
+8. ⭐ Starred [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js)
 <!--RECENT_ACTIVITY:end-->
 
