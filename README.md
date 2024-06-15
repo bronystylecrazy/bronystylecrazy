@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 15th, 2024, 5:09:59 PM
+Last Updated: Saturday, June 15th, 2024, 5:34:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
-2. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
-3. 📔 Created new repository [bronystylecrazy/sit-iot-workshop](https://github.com/bronystylecrazy/sit-iot-workshop)
-4. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
-5. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-6. ⭐ Starred [ts-spec/tspec](https://github.com/ts-spec/tspec)
-7. ⭐ Starred [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go)
-8. ⭐ Starred [l1va/gofins](https://github.com/l1va/gofins)
+1. ⭐ Starred [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+2. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
+3. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
+4. 📔 Created new repository [bronystylecrazy/sit-iot-workshop](https://github.com/bronystylecrazy/sit-iot-workshop)
+5. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
+6. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+7. ⭐ Starred [ts-spec/tspec](https://github.com/ts-spec/tspec)
+8. ⭐ Starred [u2takey/ffmpeg-go](https://github.com/u2takey/ffmpeg-go)
 <!--RECENT_ACTIVITY:end-->
 
