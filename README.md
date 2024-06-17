@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 18th, 2024, 4:34:22 AM
+Last Updated: Tuesday, June 18th, 2024, 5:08:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine)
-2. ⭐ Starred [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
-3. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
-4. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
-5. 📔 Created new repository [bronystylecrazy/sit-iot-workshop](https://github.com/bronystylecrazy/sit-iot-workshop)
-6. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
-7. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-8. ⭐ Starred [ts-spec/tspec](https://github.com/ts-spec/tspec)
+1. ⭐ Starred [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo)
+2. ⭐ Starred [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine)
+3. ⭐ Starred [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+4. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
+5. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
+6. 📔 Created new repository [bronystylecrazy/sit-iot-workshop](https://github.com/bronystylecrazy/sit-iot-workshop)
+7. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
+8. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
 <!--RECENT_ACTIVITY:end-->
 
