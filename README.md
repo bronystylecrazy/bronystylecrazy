@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 21st, 2024, 9:33:35 PM
+Last Updated: Friday, June 21st, 2024, 10:14:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo)
-2. ⭐ Starred [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine)
-3. ⭐ Starred [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
-4. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
-5. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
-6. 📔 Created new repository [bronystylecrazy/sit-iot-workshop](https://github.com/bronystylecrazy/sit-iot-workshop)
-7. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
-8. ⭐ Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
+1. ⭐ Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
+2. ⭐ Starred [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo)
+3. ⭐ Starred [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine)
+4. ⭐ Starred [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+5. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
+6. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
+7. 📔 Created new repository [bronystylecrazy/sit-iot-workshop](https://github.com/bronystylecrazy/sit-iot-workshop)
+8. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
 <!--RECENT_ACTIVITY:end-->
 
