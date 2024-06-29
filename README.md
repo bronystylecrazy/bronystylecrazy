@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 30th, 2024, 12:08:23 AM
+Last Updated: Sunday, June 30th, 2024, 12:32:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
-2. ⭐ Starred [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo)
-3. ⭐ Starred [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine)
-4. ⭐ Starred [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
-5. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
-6. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
-7. 📔 Created new repository [bronystylecrazy/sit-iot-workshop](https://github.com/bronystylecrazy/sit-iot-workshop)
-8. ⭐ Starred [uber-go/zap](https://github.com/uber-go/zap)
+1. ⭐ Starred [golobby/container](https://github.com/golobby/container)
+2. ⭐ Starred [mochi-mqtt/server](https://github.com/mochi-mqtt/server)
+3. ⭐ Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
+4. ⭐ Starred [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo)
+5. ⭐ Starred [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine)
+6. ⭐ Starred [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+7. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
+8. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
 <!--RECENT_ACTIVITY:end-->
 
