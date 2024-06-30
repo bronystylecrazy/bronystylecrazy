@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 30th, 2024, 7:17:04 PM
+Last Updated: Sunday, June 30th, 2024, 7:47:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [golobby/container](https://github.com/golobby/container)
-2. ⭐ Starred [mochi-mqtt/server](https://github.com/mochi-mqtt/server)
-3. ⭐ Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
-4. ⭐ Starred [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo)
-5. ⭐ Starred [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine)
-6. ⭐ Starred [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
-7. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
-8. ⭐ Starred [tetratelabs/wazero](https://github.com/tetratelabs/wazero)
+1. ⭐ Starred [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn)
+2. ⭐ Starred [golobby/container](https://github.com/golobby/container)
+3. ⭐ Starred [mochi-mqtt/server](https://github.com/mochi-mqtt/server)
+4. ⭐ Starred [mudler/LocalAI](https://github.com/mudler/LocalAI)
+5. ⭐ Starred [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo)
+6. ⭐ Starred [hyperjumptech/grule-rule-engine](https://github.com/hyperjumptech/grule-rule-engine)
+7. ⭐ Starred [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+8. ⭐ Starred [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)
 <!--RECENT_ACTIVITY:end-->
 
