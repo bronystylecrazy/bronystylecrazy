@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 4th, 2024, 5:09:55 AM
+Last Updated: Thursday, July 4th, 2024, 5:34:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)
-2. ⭐ Starred [minio/minio](https://github.com/minio/minio)
-3. ⭐ Starred [dustin/go-humanize](https://github.com/dustin/go-humanize)
-4. ⭐ Starred [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
-5. ⭐ Starred [OvidijusParsiunas/myvision](https://github.com/OvidijusParsiunas/myvision)
-6. ⭐ Starred [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn)
-7. ⭐ Starred [golobby/container](https://github.com/golobby/container)
-8. ⭐ Starred [mochi-mqtt/server](https://github.com/mochi-mqtt/server)
+1. ⭐ Starred [Kamva/mgm](https://github.com/Kamva/mgm)
+2. ⭐ Starred [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)
+3. ⭐ Starred [minio/minio](https://github.com/minio/minio)
+4. ⭐ Starred [dustin/go-humanize](https://github.com/dustin/go-humanize)
+5. ⭐ Starred [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+6. ⭐ Starred [OvidijusParsiunas/myvision](https://github.com/OvidijusParsiunas/myvision)
+7. ⭐ Starred [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn)
+8. ⭐ Starred [golobby/container](https://github.com/golobby/container)
 <!--RECENT_ACTIVITY:end-->
 
