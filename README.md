@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 2nd, 2024, 6:33:46 PM
+Last Updated: Friday, August 2nd, 2024, 7:18:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture)
-2. ⭐ Starred [devlooped/moq](https://github.com/devlooped/moq)
-3. ⭐ Starred [rosenbjerg/FFMpegCore](https://github.com/rosenbjerg/FFMpegCore)
-4. ⭐ Starred [Kamva/mgm](https://github.com/Kamva/mgm)
-5. ⭐ Starred [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)
-6. ⭐ Starred [minio/minio](https://github.com/minio/minio)
-7. ⭐ Starred [dustin/go-humanize](https://github.com/dustin/go-humanize)
-8. ⭐ Starred [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
+1. ⭐ Starred [amantinband/error-or](https://github.com/amantinband/error-or)
+2. ⭐ Starred [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture)
+3. ⭐ Starred [devlooped/moq](https://github.com/devlooped/moq)
+4. ⭐ Starred [rosenbjerg/FFMpegCore](https://github.com/rosenbjerg/FFMpegCore)
+5. ⭐ Starred [Kamva/mgm](https://github.com/Kamva/mgm)
+6. ⭐ Starred [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)
+7. ⭐ Starred [minio/minio](https://github.com/minio/minio)
+8. ⭐ Starred [dustin/go-humanize](https://github.com/dustin/go-humanize)
 <!--RECENT_ACTIVITY:end-->
 
