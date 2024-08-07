@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 7th, 2024, 8:33:42 PM
+Last Updated: Wednesday, August 7th, 2024, 9:09:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
-2. ⭐ Starred [jbogard/MediatR](https://github.com/jbogard/MediatR)
-3. ⭐ Starred [amantinband/error-or](https://github.com/amantinband/error-or)
-4. ⭐ Starred [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture)
-5. ⭐ Starred [devlooped/moq](https://github.com/devlooped/moq)
-6. ⭐ Starred [rosenbjerg/FFMpegCore](https://github.com/rosenbjerg/FFMpegCore)
-7. ⭐ Starred [Kamva/mgm](https://github.com/Kamva/mgm)
-8. ⭐ Starred [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint)
+1. ⭐ Starred [merken/Prise](https://github.com/merken/Prise)
+2. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
+3. ⭐ Starred [jbogard/MediatR](https://github.com/jbogard/MediatR)
+4. ⭐ Starred [amantinband/error-or](https://github.com/amantinband/error-or)
+5. ⭐ Starred [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture)
+6. ⭐ Starred [devlooped/moq](https://github.com/devlooped/moq)
+7. ⭐ Starred [rosenbjerg/FFMpegCore](https://github.com/rosenbjerg/FFMpegCore)
+8. ⭐ Starred [Kamva/mgm](https://github.com/Kamva/mgm)
 <!--RECENT_ACTIVITY:end-->
 
