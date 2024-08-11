@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 12th, 2024, 3:34:26 AM
+Last Updated: Monday, August 12th, 2024, 4:10:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet)
-2. ⭐ Starred [merken/Prise](https://github.com/merken/Prise)
-3. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
-4. ⭐ Starred [jbogard/MediatR](https://github.com/jbogard/MediatR)
-5. ⭐ Starred [amantinband/error-or](https://github.com/amantinband/error-or)
-6. ⭐ Starred [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture)
-7. ⭐ Starred [devlooped/moq](https://github.com/devlooped/moq)
-8. ⭐ Starred [rosenbjerg/FFMpegCore](https://github.com/rosenbjerg/FFMpegCore)
+1. ⭐ Starred [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client)
+2. ⭐ Starred [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet)
+3. ⭐ Starred [merken/Prise](https://github.com/merken/Prise)
+4. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
+5. ⭐ Starred [jbogard/MediatR](https://github.com/jbogard/MediatR)
+6. ⭐ Starred [amantinband/error-or](https://github.com/amantinband/error-or)
+7. ⭐ Starred [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture)
+8. ⭐ Starred [devlooped/moq](https://github.com/devlooped/moq)
 <!--RECENT_ACTIVITY:end-->
 
