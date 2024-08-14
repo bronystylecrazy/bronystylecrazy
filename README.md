@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 14th, 2024, 3:13:14 PM
+Last Updated: Wednesday, August 14th, 2024, 3:37:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client)
-2. ⭐ Starred [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet)
-3. ⭐ Starred [merken/Prise](https://github.com/merken/Prise)
-4. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
-5. ⭐ Starred [jbogard/MediatR](https://github.com/jbogard/MediatR)
-6. ⭐ Starred [amantinband/error-or](https://github.com/amantinband/error-or)
-7. ⭐ Starred [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture)
-8. ⭐ Starred [devlooped/moq](https://github.com/devlooped/moq)
+1. ⭐ Starred [dotnet/MQTTnet](https://github.com/dotnet/MQTTnet)
+2. ⭐ Starred [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client)
+3. ⭐ Starred [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet)
+4. ⭐ Starred [merken/Prise](https://github.com/merken/Prise)
+5. ⭐ Starred [App-vNext/Polly](https://github.com/App-vNext/Polly)
+6. ⭐ Starred [jbogard/MediatR](https://github.com/jbogard/MediatR)
+7. ⭐ Starred [amantinband/error-or](https://github.com/amantinband/error-or)
+8. ⭐ Starred [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture)
 <!--RECENT_ACTIVITY:end-->
 
