@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 11th, 2024, 10:36:10 AM
+Last Updated: Wednesday, September 11th, 2024, 11:14:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
-2. ⭐ Starred [getsentry/sentry](https://github.com/getsentry/sentry)
-3. ⭐ Starred [dotnet/machinelearning](https://github.com/dotnet/machinelearning)
-4. ⭐ Starred [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
-5. ⭐ Starred [dotnet/MQTTnet](https://github.com/dotnet/MQTTnet)
-6. ⭐ Starred [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client)
-7. ⭐ Starred [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet)
-8. ⭐ Starred [merken/Prise](https://github.com/merken/Prise)
+1. ⭐ Starred [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local)
+2. ⭐ Starred [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+3. ⭐ Starred [getsentry/sentry](https://github.com/getsentry/sentry)
+4. ⭐ Starred [dotnet/machinelearning](https://github.com/dotnet/machinelearning)
+5. ⭐ Starred [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
+6. ⭐ Starred [dotnet/MQTTnet](https://github.com/dotnet/MQTTnet)
+7. ⭐ Starred [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client)
+8. ⭐ Starred [NickSwardh/YoloDotNet](https://github.com/NickSwardh/YoloDotNet)
 <!--RECENT_ACTIVITY:end-->
 
