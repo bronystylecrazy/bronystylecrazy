@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 28th, 2024, 7:53:16 AM
+Last Updated: Saturday, September 28th, 2024, 9:11:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
-2. ⭐ Starred [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local)
-3. ⭐ Starred [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
-4. ⭐ Starred [getsentry/sentry](https://github.com/getsentry/sentry)
-5. ⭐ Starred [dotnet/machinelearning](https://github.com/dotnet/machinelearning)
-6. ⭐ Starred [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
-7. ⭐ Starred [dotnet/MQTTnet](https://github.com/dotnet/MQTTnet)
-8. ⭐ Starred [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client)
+1. ⭐ Starred [grafana/loki](https://github.com/grafana/loki)
+2. ⭐ Starred [parseablehq/parseable](https://github.com/parseablehq/parseable)
+3. ⭐ Starred [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
+4. ⭐ Starred [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local)
+5. ⭐ Starred [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+6. ⭐ Starred [getsentry/sentry](https://github.com/getsentry/sentry)
+7. ⭐ Starred [dotnet/machinelearning](https://github.com/dotnet/machinelearning)
+8. ⭐ Starred [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)
 <!--RECENT_ACTIVITY:end-->
 
