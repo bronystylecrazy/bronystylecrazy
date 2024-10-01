@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 1st, 2024, 5:12:05 PM
+Last Updated: Tuesday, October 1st, 2024, 5:41:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)
-2. ⭐ Starred [grafana/loki](https://github.com/grafana/loki)
-3. ⭐ Starred [parseablehq/parseable](https://github.com/parseablehq/parseable)
-4. ⭐ Starred [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
-5. ⭐ Starred [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local)
-6. ⭐ Starred [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
-7. ⭐ Starred [getsentry/sentry](https://github.com/getsentry/sentry)
-8. ⭐ Starred [dotnet/machinelearning](https://github.com/dotnet/machinelearning)
+1. ⭐ Starred [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
+2. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)
+3. ⭐ Starred [grafana/loki](https://github.com/grafana/loki)
+4. ⭐ Starred [parseablehq/parseable](https://github.com/parseablehq/parseable)
+5. ⭐ Starred [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
+6. ⭐ Starred [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local)
+7. ⭐ Starred [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+8. ⭐ Starred [getsentry/sentry](https://github.com/getsentry/sentry)
 <!--RECENT_ACTIVITY:end-->
 
