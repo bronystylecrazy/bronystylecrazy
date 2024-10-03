@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 4th, 2024, 6:11:09 AM
+Last Updated: Friday, October 4th, 2024, 6:34:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-2. ⭐ Starred [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
-3. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)
-4. ⭐ Starred [grafana/loki](https://github.com/grafana/loki)
-5. ⭐ Starred [parseablehq/parseable](https://github.com/parseablehq/parseable)
-6. ⭐ Starred [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
-7. ⭐ Starred [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local)
-8. ⭐ Starred [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
+1. ⭐ Starred [pusher/pusher-http-dotnet](https://github.com/pusher/pusher-http-dotnet)
+2. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+3. ⭐ Starred [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
+4. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)
+5. ⭐ Starred [grafana/loki](https://github.com/grafana/loki)
+6. ⭐ Starred [parseablehq/parseable](https://github.com/parseablehq/parseable)
+7. ⭐ Starred [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
+8. ⭐ Starred [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local)
 <!--RECENT_ACTIVITY:end-->
 
