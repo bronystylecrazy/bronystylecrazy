@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 5th, 2024, 2:08:59 AM
+Last Updated: Saturday, October 5th, 2024, 2:33:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dotnet/efcore](https://github.com/dotnet/efcore)
-2. ⭐ Starred [pion/turn](https://github.com/pion/turn)
-3. ⭐ Starred [pusher/pusher-http-dotnet](https://github.com/pusher/pusher-http-dotnet)
-4. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-5. ⭐ Starred [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
-6. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)
-7. ⭐ Starred [grafana/loki](https://github.com/grafana/loki)
-8. ⭐ Starred [parseablehq/parseable](https://github.com/parseablehq/parseable)
+1. ⭐ Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)
+2. ⭐ Starred [dotnet/efcore](https://github.com/dotnet/efcore)
+3. ⭐ Starred [pion/turn](https://github.com/pion/turn)
+4. ⭐ Starred [pusher/pusher-http-dotnet](https://github.com/pusher/pusher-http-dotnet)
+5. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+6. ⭐ Starred [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
+7. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)
+8. ⭐ Starred [grafana/loki](https://github.com/grafana/loki)
 <!--RECENT_ACTIVITY:end-->
 
