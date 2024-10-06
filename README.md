@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 6th, 2024, 4:33:58 PM
+Last Updated: Sunday, October 6th, 2024, 5:10:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent)
-2. ⭐ Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)
-3. ⭐ Starred [dotnet/efcore](https://github.com/dotnet/efcore)
-4. ⭐ Starred [pion/turn](https://github.com/pion/turn)
-5. ⭐ Starred [pusher/pusher-http-dotnet](https://github.com/pusher/pusher-http-dotnet)
-6. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-7. ⭐ Starred [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
-8. ⭐ Starred [qdrant/qdrant](https://github.com/qdrant/qdrant)
+1. ⭐ Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+2. ⭐ Starred [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent)
+3. ⭐ Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)
+4. ⭐ Starred [dotnet/efcore](https://github.com/dotnet/efcore)
+5. ⭐ Starred [pion/turn](https://github.com/pion/turn)
+6. ⭐ Starred [pusher/pusher-http-dotnet](https://github.com/pusher/pusher-http-dotnet)
+7. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+8. ⭐ Starred [facebookresearch/faiss](https://github.com/facebookresearch/faiss)
 <!--RECENT_ACTIVITY:end-->
 
