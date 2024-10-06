@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 7th, 2024, 2:34:22 AM
+Last Updated: Monday, October 7th, 2024, 3:11:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SignalR/SignalR](https://github.com/SignalR/SignalR)
-2. ⭐ Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
-3. ⭐ Starred [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent)
-4. ⭐ Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)
-5. ⭐ Starred [dotnet/efcore](https://github.com/dotnet/efcore)
-6. ⭐ Starred [pion/turn](https://github.com/pion/turn)
-7. ⭐ Starred [pusher/pusher-http-dotnet](https://github.com/pusher/pusher-http-dotnet)
-8. ⭐ Starred [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+1. ⭐ Starred [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp)
+2. ⭐ Starred [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
+3. ⭐ Starred [bitwarden/server](https://github.com/bitwarden/server)
+4. ⭐ Starred [SignalR/SignalR](https://github.com/SignalR/SignalR)
+5. ⭐ Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+6. ⭐ Starred [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent)
+7. ⭐ Starred [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore)
+8. ⭐ Starred [dotnet/efcore](https://github.com/dotnet/efcore)
 <!--RECENT_ACTIVITY:end-->
 
