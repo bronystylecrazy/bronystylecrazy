@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 10th, 2024, 4:12:19 PM
+Last Updated: Thursday, October 10th, 2024, 4:36:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-2. ⭐ Starred [rgvlee/EntityFrameworkCore.Testing](https://github.com/rgvlee/EntityFrameworkCore.Testing)
-3. ⭐ Starred [nenoNaninu/TypedSignalR.Client.TypeScript](https://github.com/nenoNaninu/TypedSignalR.Client.TypeScript)
-4. ⭐ Starred [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp)
-5. ⭐ Starred [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
-6. ⭐ Starred [bitwarden/server](https://github.com/bitwarden/server)
-7. ⭐ Starred [SignalR/SignalR](https://github.com/SignalR/SignalR)
-8. ⭐ Starred [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
+1. ⭐ Starred [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
+2. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+3. ⭐ Starred [rgvlee/EntityFrameworkCore.Testing](https://github.com/rgvlee/EntityFrameworkCore.Testing)
+4. ⭐ Starred [nenoNaninu/TypedSignalR.Client.TypeScript](https://github.com/nenoNaninu/TypedSignalR.Client.TypeScript)
+5. ⭐ Starred [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp)
+6. ⭐ Starred [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
+7. ⭐ Starred [bitwarden/server](https://github.com/bitwarden/server)
+8. ⭐ Starred [SignalR/SignalR](https://github.com/SignalR/SignalR)
 <!--RECENT_ACTIVITY:end-->
 
