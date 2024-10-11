@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 11th, 2024, 5:38:46 PM
+Last Updated: Friday, October 11th, 2024, 6:09:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bchavez/Bogus](https://github.com/bchavez/Bogus)
-2. ⭐ Starred [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
-3. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-4. ⭐ Starred [rgvlee/EntityFrameworkCore.Testing](https://github.com/rgvlee/EntityFrameworkCore.Testing)
-5. ⭐ Starred [nenoNaninu/TypedSignalR.Client.TypeScript](https://github.com/nenoNaninu/TypedSignalR.Client.TypeScript)
-6. ⭐ Starred [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp)
-7. ⭐ Starred [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
-8. ⭐ Starred [bitwarden/server](https://github.com/bitwarden/server)
+1. ⭐ Starred [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost)
+2. ⭐ Starred [bchavez/Bogus](https://github.com/bchavez/Bogus)
+3. ⭐ Starred [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
+4. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+5. ⭐ Starred [rgvlee/EntityFrameworkCore.Testing](https://github.com/rgvlee/EntityFrameworkCore.Testing)
+6. ⭐ Starred [nenoNaninu/TypedSignalR.Client.TypeScript](https://github.com/nenoNaninu/TypedSignalR.Client.TypeScript)
+7. ⭐ Starred [MessagePack-CSharp/MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp)
+8. ⭐ Starred [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
 <!--RECENT_ACTIVITY:end-->
 
