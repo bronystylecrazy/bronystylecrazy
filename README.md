@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 14th, 2024, 10:11:46 PM
+Last Updated: Monday, October 14th, 2024, 10:36:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro)
-2. ⭐ Starred [oracle/graal](https://github.com/oracle/graal)
-3. ⭐ Starred [grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet)
-4. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-5. ⭐ Starred [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost)
-6. ⭐ Starred [bchavez/Bogus](https://github.com/bchavez/Bogus)
-7. ⭐ Starred [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
-8. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+1. ⭐ Starred [strawstacks/strawhouse](https://github.com/strawstacks/strawhouse)
+2. ⭐ Starred [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro)
+3. ⭐ Starred [oracle/graal](https://github.com/oracle/graal)
+4. ⭐ Starred [grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet)
+5. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+6. ⭐ Starred [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost)
+7. ⭐ Starred [bchavez/Bogus](https://github.com/bchavez/Bogus)
+8. ⭐ Starred [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
 <!--RECENT_ACTIVITY:end-->
 
