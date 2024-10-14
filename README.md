@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 14th, 2024, 6:33:44 PM
+Last Updated: Monday, October 14th, 2024, 7:21:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet)
-2. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-3. ⭐ Starred [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost)
-4. ⭐ Starred [bchavez/Bogus](https://github.com/bchavez/Bogus)
-5. ⭐ Starred [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
-6. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-7. ⭐ Starred [rgvlee/EntityFrameworkCore.Testing](https://github.com/rgvlee/EntityFrameworkCore.Testing)
-8. ⭐ Starred [nenoNaninu/TypedSignalR.Client.TypeScript](https://github.com/nenoNaninu/TypedSignalR.Client.TypeScript)
+1. ⭐ Starred [oracle/graal](https://github.com/oracle/graal)
+2. ⭐ Starred [grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet)
+3. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+4. ⭐ Starred [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost)
+5. ⭐ Starred [bchavez/Bogus](https://github.com/bchavez/Bogus)
+6. ⭐ Starred [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes)
+7. ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+8. ⭐ Starred [rgvlee/EntityFrameworkCore.Testing](https://github.com/rgvlee/EntityFrameworkCore.Testing)
 <!--RECENT_ACTIVITY:end-->
 
