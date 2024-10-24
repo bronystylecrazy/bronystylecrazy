@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 24th, 2024, 6:09:24 PM
+Last Updated: Thursday, October 24th, 2024, 6:34:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bufbuild/buf](https://github.com/bufbuild/buf)
-2. ⭐ Starred [uber/prototool](https://github.com/uber/prototool)
-3. ⭐ Starred [unocss/unocss](https://github.com/unocss/unocss)
-4. ⭐ Starred [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons)
-5. ⭐ Starred [antfu-collective/icones](https://github.com/antfu-collective/icones)
-6. ⭐ Starred [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
-7. ⭐ Starred [strawstacks/strawhouse](https://github.com/strawstacks/strawhouse)
-8. ⭐ Starred [apple/ml-depth-pro](https://github.com/apple/ml-depth-pro)
+1. ⭐ Starred [httptoolkit/react-reverse-portal](https://github.com/httptoolkit/react-reverse-portal)
+2. ⭐ Starred [bufbuild/buf](https://github.com/bufbuild/buf)
+3. ⭐ Starred [uber/prototool](https://github.com/uber/prototool)
+4. ⭐ Starred [unocss/unocss](https://github.com/unocss/unocss)
+5. ⭐ Starred [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons)
+6. ⭐ Starred [antfu-collective/icones](https://github.com/antfu-collective/icones)
+7. ⭐ Starred [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+8. ⭐ Starred [strawstacks/strawhouse](https://github.com/strawstacks/strawhouse)
 <!--RECENT_ACTIVITY:end-->
 
