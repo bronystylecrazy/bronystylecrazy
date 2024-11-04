@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 4th, 2024, 3:15:30 PM
+Last Updated: Monday, November 4th, 2024, 3:40:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [python-injector/injector](https://github.com/python-injector/injector)
-2. ⭐ Starred [httptoolkit/react-reverse-portal](https://github.com/httptoolkit/react-reverse-portal)
-3. ⭐ Starred [bufbuild/buf](https://github.com/bufbuild/buf)
-4. ⭐ Starred [uber/prototool](https://github.com/uber/prototool)
-5. ⭐ Starred [unocss/unocss](https://github.com/unocss/unocss)
-6. ⭐ Starred [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons)
-7. ⭐ Starred [antfu-collective/icones](https://github.com/antfu-collective/icones)
-8. ⭐ Starred [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+1. ⭐ Starred [rurza/BatFi](https://github.com/rurza/BatFi)
+2. ⭐ Starred [python-injector/injector](https://github.com/python-injector/injector)
+3. ⭐ Starred [httptoolkit/react-reverse-portal](https://github.com/httptoolkit/react-reverse-portal)
+4. ⭐ Starred [bufbuild/buf](https://github.com/bufbuild/buf)
+5. ⭐ Starred [uber/prototool](https://github.com/uber/prototool)
+6. ⭐ Starred [unocss/unocss](https://github.com/unocss/unocss)
+7. ⭐ Starred [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons)
+8. ⭐ Starred [antfu-collective/icones](https://github.com/antfu-collective/icones)
 <!--RECENT_ACTIVITY:end-->
 
