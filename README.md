@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 21st, 2024, 2:35:42 PM
+Last Updated: Thursday, November 21st, 2024, 3:15:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-2. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
-3. ⭐ Starred [rurza/BatFi](https://github.com/rurza/BatFi)
-4. ⭐ Starred [python-injector/injector](https://github.com/python-injector/injector)
-5. ⭐ Starred [httptoolkit/react-reverse-portal](https://github.com/httptoolkit/react-reverse-portal)
-6. ⭐ Starred [bufbuild/buf](https://github.com/bufbuild/buf)
-7. ⭐ Starred [uber/prototool](https://github.com/uber/prototool)
-8. ⭐ Starred [unocss/unocss](https://github.com/unocss/unocss)
+1. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
+2. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+3. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
+4. ⭐ Starred [rurza/BatFi](https://github.com/rurza/BatFi)
+5. ⭐ Starred [python-injector/injector](https://github.com/python-injector/injector)
+6. ⭐ Starred [httptoolkit/react-reverse-portal](https://github.com/httptoolkit/react-reverse-portal)
+7. ⭐ Starred [bufbuild/buf](https://github.com/bufbuild/buf)
+8. ⭐ Starred [uber/prototool](https://github.com/uber/prototool)
 <!--RECENT_ACTIVITY:end-->
 
