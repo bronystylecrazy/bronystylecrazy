@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 25th, 2024, 8:30:52 PM
+Last Updated: Monday, November 25th, 2024, 9:11:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
-2. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
-3. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-4. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
-5. ⭐ Starred [rurza/BatFi](https://github.com/rurza/BatFi)
-6. ⭐ Starred [python-injector/injector](https://github.com/python-injector/injector)
-7. ⭐ Starred [httptoolkit/react-reverse-portal](https://github.com/httptoolkit/react-reverse-portal)
-8. ⭐ Starred [bufbuild/buf](https://github.com/bufbuild/buf)
+1. ⭐ Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+2. ⭐ Starred [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)
+3. ⭐ Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
+4. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
+5. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+6. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
+7. ⭐ Starred [rurza/BatFi](https://github.com/rurza/BatFi)
+8. ⭐ Starred [python-injector/injector](https://github.com/python-injector/injector)
 <!--RECENT_ACTIVITY:end-->
 
