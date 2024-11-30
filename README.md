@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 30th, 2024, 2:10:20 PM
+Last Updated: Saturday, November 30th, 2024, 2:33:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
-2. ⭐ Starred [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)
-3. ⭐ Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
-4. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
-5. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-6. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
-7. ⭐ Starred [rurza/BatFi](https://github.com/rurza/BatFi)
-8. ⭐ Starred [python-injector/injector](https://github.com/python-injector/injector)
+1. ⭐ Starred [serengil/deepface](https://github.com/serengil/deepface)
+2. ⭐ Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+3. ⭐ Starred [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)
+4. ⭐ Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
+5. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
+6. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
+7. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
+8. ⭐ Starred [rurza/BatFi](https://github.com/rurza/BatFi)
 <!--RECENT_ACTIVITY:end-->
 
