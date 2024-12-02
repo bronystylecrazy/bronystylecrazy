@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 3rd, 2024, 5:39:34 AM
+Last Updated: Tuesday, December 3rd, 2024, 6:13:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [angularsen/UnitsNet](https://github.com/angularsen/UnitsNet)
-2. ⭐ Starred [serengil/deepface](https://github.com/serengil/deepface)
-3. ⭐ Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
-4. ⭐ Starred [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)
-5. ⭐ Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
-6. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
-7. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
-8. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
+1. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
+2. ⭐ Starred [angularsen/UnitsNet](https://github.com/angularsen/UnitsNet)
+3. ⭐ Starred [serengil/deepface](https://github.com/serengil/deepface)
+4. ⭐ Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+5. ⭐ Starred [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)
+6. ⭐ Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
+7. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
+8. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)
 <!--RECENT_ACTIVITY:end-->
 
