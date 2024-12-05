@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 6th, 2024, 3:38:30 AM
+Last Updated: Friday, December 6th, 2024, 4:11:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
-2. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
-3. ⭐ Starred [angularsen/UnitsNet](https://github.com/angularsen/UnitsNet)
-4. ⭐ Starred [serengil/deepface](https://github.com/serengil/deepface)
-5. ⭐ Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
-6. ⭐ Starred [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)
-7. ⭐ Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
-8. ⭐ Starred [xyflow/xyflow](https://github.com/xyflow/xyflow)
+1. ⭐ Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+2. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
+3. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
+4. ⭐ Starred [angularsen/UnitsNet](https://github.com/angularsen/UnitsNet)
+5. ⭐ Starred [serengil/deepface](https://github.com/serengil/deepface)
+6. ⭐ Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+7. ⭐ Starred [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)
+8. ⭐ Starred [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch)
 <!--RECENT_ACTIVITY:end-->
 
