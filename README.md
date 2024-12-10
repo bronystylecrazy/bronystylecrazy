@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 10th, 2024, 4:38:46 PM
+Last Updated: Tuesday, December 10th, 2024, 5:13:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
-2. ⭐ Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-3. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
-4. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
-5. ⭐ Starred [angularsen/UnitsNet](https://github.com/angularsen/UnitsNet)
-6. ⭐ Starred [serengil/deepface](https://github.com/serengil/deepface)
-7. ⭐ Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
-8. ⭐ Starred [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version)
+1. ⭐ Starred [teableio/teable](https://github.com/teableio/teable)
+2. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
+3. ⭐ Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+4. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
+5. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
+6. ⭐ Starred [angularsen/UnitsNet](https://github.com/angularsen/UnitsNet)
+7. ⭐ Starred [serengil/deepface](https://github.com/serengil/deepface)
+8. ⭐ Starred [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
 <!--RECENT_ACTIVITY:end-->
 
