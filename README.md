@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 23rd, 2024, 12:11:33 PM
+Last Updated: Monday, December 23rd, 2024, 12:37:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/react-hook-form-advanced](https://github.com/bronystylecrazy/react-hook-form-advanced)
-2. ⭐ Starred [riok/mapperly](https://github.com/riok/mapperly)
-3. ⭐ Starred [teableio/teable](https://github.com/teableio/teable)
-4. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
-5. ⭐ Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-6. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
-7. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
-8. ⭐ Starred [angularsen/UnitsNet](https://github.com/angularsen/UnitsNet)
+1. ⭐ Starred [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault)
+2. 📔 Created new repository [bronystylecrazy/react-hook-form-advanced](https://github.com/bronystylecrazy/react-hook-form-advanced)
+3. ⭐ Starred [riok/mapperly](https://github.com/riok/mapperly)
+4. ⭐ Starred [teableio/teable](https://github.com/teableio/teable)
+5. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
+6. ⭐ Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
+7. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
+8. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)
 <!--RECENT_ACTIVITY:end-->
 
