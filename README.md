@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 28th, 2024, 6:08:04 PM
+Last Updated: Saturday, December 28th, 2024, 6:33:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
-2. ⭐ Starred [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault)
-3. 📔 Created new repository [bronystylecrazy/react-hook-form-advanced](https://github.com/bronystylecrazy/react-hook-form-advanced)
-4. ⭐ Starred [riok/mapperly](https://github.com/riok/mapperly)
-5. ⭐ Starred [teableio/teable](https://github.com/teableio/teable)
-6. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
-7. ⭐ Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
-8. ⭐ Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
+1. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+2. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
+3. ⭐ Starred [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault)
+4. 📔 Created new repository [bronystylecrazy/react-hook-form-advanced](https://github.com/bronystylecrazy/react-hook-form-advanced)
+5. ⭐ Starred [riok/mapperly](https://github.com/riok/mapperly)
+6. ⭐ Starred [teableio/teable](https://github.com/teableio/teable)
+7. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
+8. ⭐ Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 <!--RECENT_ACTIVITY:end-->
 
