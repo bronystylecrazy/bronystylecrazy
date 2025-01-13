@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 13th, 2025, 1:43:45 PM
+Last Updated: Monday, January 13th, 2025, 2:11:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bronystylecrazy/react-markdown-special](https://github.com/bronystylecrazy/react-markdown-special)
-2. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
-3. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
-4. ⭐ Starred [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault)
-5. 📔 Created new repository [bronystylecrazy/react-hook-form-advanced](https://github.com/bronystylecrazy/react-hook-form-advanced)
-6. ⭐ Starred [riok/mapperly](https://github.com/riok/mapperly)
-7. ⭐ Starred [teableio/teable](https://github.com/teableio/teable)
-8. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)
+1. ⭐ Starred [xjdrew/gotunnel](https://github.com/xjdrew/gotunnel)
+2. 📔 Created new repository [bronystylecrazy/react-markdown-special](https://github.com/bronystylecrazy/react-markdown-special)
+3. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+4. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
+5. ⭐ Starred [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault)
+6. 📔 Created new repository [bronystylecrazy/react-hook-form-advanced](https://github.com/bronystylecrazy/react-hook-form-advanced)
+7. ⭐ Starred [riok/mapperly](https://github.com/riok/mapperly)
+8. ⭐ Starred [teableio/teable](https://github.com/teableio/teable)
 <!--RECENT_ACTIVITY:end-->
 
