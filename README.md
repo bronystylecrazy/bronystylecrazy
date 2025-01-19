@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 20th, 2025, 12:08:52 AM
+Last Updated: Monday, January 20th, 2025, 12:33:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go)
-2. ⭐ Starred [ginuerzh/gost](https://github.com/ginuerzh/gost)
-3. ⭐ Starred [xjdrew/gotunnel](https://github.com/xjdrew/gotunnel)
-4. 📔 Created new repository [bronystylecrazy/react-markdown-special](https://github.com/bronystylecrazy/react-markdown-special)
-5. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
-6. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
-7. ⭐ Starred [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault)
-8. 📔 Created new repository [bronystylecrazy/react-hook-form-advanced](https://github.com/bronystylecrazy/react-hook-form-advanced)
+1. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)
+2. ⭐ Starred [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go)
+3. ⭐ Starred [ginuerzh/gost](https://github.com/ginuerzh/gost)
+4. ⭐ Starred [xjdrew/gotunnel](https://github.com/xjdrew/gotunnel)
+5. 📔 Created new repository [bronystylecrazy/react-markdown-special](https://github.com/bronystylecrazy/react-markdown-special)
+6. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+7. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
+8. ⭐ Starred [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault)
 <!--RECENT_ACTIVITY:end-->
 
