@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 19th, 2025, 7:18:14 PM
+Last Updated: Sunday, January 19th, 2025, 7:50:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ginuerzh/gost](https://github.com/ginuerzh/gost)
-2. ⭐ Starred [xjdrew/gotunnel](https://github.com/xjdrew/gotunnel)
-3. 📔 Created new repository [bronystylecrazy/react-markdown-special](https://github.com/bronystylecrazy/react-markdown-special)
-4. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
-5. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
-6. ⭐ Starred [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault)
-7. 📔 Created new repository [bronystylecrazy/react-hook-form-advanced](https://github.com/bronystylecrazy/react-hook-form-advanced)
-8. ⭐ Starred [riok/mapperly](https://github.com/riok/mapperly)
+1. ⭐ Starred [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go)
+2. ⭐ Starred [ginuerzh/gost](https://github.com/ginuerzh/gost)
+3. ⭐ Starred [xjdrew/gotunnel](https://github.com/xjdrew/gotunnel)
+4. 📔 Created new repository [bronystylecrazy/react-markdown-special](https://github.com/bronystylecrazy/react-markdown-special)
+5. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+6. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
+7. ⭐ Starred [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault)
+8. 📔 Created new repository [bronystylecrazy/react-hook-form-advanced](https://github.com/bronystylecrazy/react-hook-form-advanced)
 <!--RECENT_ACTIVITY:end-->
 
