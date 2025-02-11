@@ -29,17 +29,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 11th, 2025, 4:35:12 PM
+Last Updated: Tuesday, February 11th, 2025, 5:12:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
-2. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)
-3. ⭐ Starred [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go)
-4. ⭐ Starred [ginuerzh/gost](https://github.com/ginuerzh/gost)
-5. ⭐ Starred [xjdrew/gotunnel](https://github.com/xjdrew/gotunnel)
-6. 📔 Created new repository [bronystylecrazy/react-markdown-special](https://github.com/bronystylecrazy/react-markdown-special)
+1. ⭐ Starred [ulule/limiter](https://github.com/ulule/limiter)
+2. ⭐ Starred [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+3. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)
+4. ⭐ Starred [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go)
+5. ⭐ Starred [ginuerzh/gost](https://github.com/ginuerzh/gost)
+6. ⭐ Starred [xjdrew/gotunnel](https://github.com/xjdrew/gotunnel)
 7. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
 8. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
 <!--RECENT_ACTIVITY:end-->
