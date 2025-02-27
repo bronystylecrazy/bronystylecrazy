@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 28th, 2025, 4:10:43 AM
+Last Updated: Friday, February 28th, 2025, 4:34:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bronystylecrazy/gorm-sqlserver-driver](https://github.com/bronystylecrazy/gorm-sqlserver-driver) from [go-gorm/sqlserver](https://github.com/go-gorm/sqlserver)
-2. ⭐ Starred [go-gorm/gen](https://github.com/go-gorm/gen)
-3. ⭐ Starred [ariga/atlas](https://github.com/ariga/atlas)
-4. ⭐ Starred [pressly/goose](https://github.com/pressly/goose)
-5. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)
-6. ⭐ Starred [ulule/limiter](https://github.com/ulule/limiter)
-7. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+1. ⭐ Starred [uber-go/nilaway](https://github.com/uber-go/nilaway)
+2. 🔱 Forked [bronystylecrazy/gorm-sqlserver-driver](https://github.com/bronystylecrazy/gorm-sqlserver-driver) from [go-gorm/sqlserver](https://github.com/go-gorm/sqlserver)
+3. ⭐ Starred [go-gorm/gen](https://github.com/go-gorm/gen)
+4. ⭐ Starred [ariga/atlas](https://github.com/ariga/atlas)
+5. ⭐ Starred [pressly/goose](https://github.com/pressly/goose)
+6. ⭐ Starred [sveltejs/svelte](https://github.com/sveltejs/svelte)
+7. ⭐ Starred [ulule/limiter](https://github.com/ulule/limiter)
 8. ⭐ Starred [zalando/go-keyring](https://github.com/zalando/go-keyring)
 <!--RECENT_ACTIVITY:end-->
 
