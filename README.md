@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 10th, 2025, 10:33:55 AM
+Last Updated: Monday, March 10th, 2025, 11:11:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zmb3/spotify](https://github.com/zmb3/spotify)
-2. ⭐ Starred [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
-3. ⭐ Starred [go-task/task](https://github.com/go-task/task)
-4. ⭐ Starred [uber-go/nilaway](https://github.com/uber-go/nilaway)
-5. 🔱 Forked [bronystylecrazy/gorm-sqlserver-driver](https://github.com/bronystylecrazy/gorm-sqlserver-driver) from [go-gorm/sqlserver](https://github.com/go-gorm/sqlserver)
-6. ⭐ Starred [go-gorm/gen](https://github.com/go-gorm/gen)
-7. ⭐ Starred [ariga/atlas](https://github.com/ariga/atlas)
-8. ⭐ Starred [pressly/goose](https://github.com/pressly/goose)
+1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+2. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+3. ⭐ Starred [zmb3/spotify](https://github.com/zmb3/spotify)
+4. ⭐ Starred [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
+5. ⭐ Starred [go-task/task](https://github.com/go-task/task)
+6. ⭐ Starred [uber-go/nilaway](https://github.com/uber-go/nilaway)
+7. 🔱 Forked [bronystylecrazy/gorm-sqlserver-driver](https://github.com/bronystylecrazy/gorm-sqlserver-driver) from [go-gorm/sqlserver](https://github.com/go-gorm/sqlserver)
+8. ⭐ Starred [go-gorm/gen](https://github.com/go-gorm/gen)
 <!--RECENT_ACTIVITY:end-->
 
