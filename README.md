@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 10th, 2025, 12:10:17 PM
+Last Updated: Monday, March 10th, 2025, 12:33:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-2. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-3. ⭐ Starred [zmb3/spotify](https://github.com/zmb3/spotify)
-4. ⭐ Starred [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
-5. ⭐ Starred [go-task/task](https://github.com/go-task/task)
-6. ⭐ Starred [uber-go/nilaway](https://github.com/uber-go/nilaway)
-7. 🔱 Forked [bronystylecrazy/gorm-sqlserver-driver](https://github.com/bronystylecrazy/gorm-sqlserver-driver) from [go-gorm/sqlserver](https://github.com/go-gorm/sqlserver)
-8. ⭐ Starred [go-gorm/gen](https://github.com/go-gorm/gen)
+1. ⭐ Starred [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
+2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+3. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+4. ⭐ Starred [zmb3/spotify](https://github.com/zmb3/spotify)
+5. ⭐ Starred [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
+6. ⭐ Starred [go-task/task](https://github.com/go-task/task)
+7. ⭐ Starred [uber-go/nilaway](https://github.com/uber-go/nilaway)
+8. 🔱 Forked [bronystylecrazy/gorm-sqlserver-driver](https://github.com/bronystylecrazy/gorm-sqlserver-driver) from [go-gorm/sqlserver](https://github.com/go-gorm/sqlserver)
 <!--RECENT_ACTIVITY:end-->
 
