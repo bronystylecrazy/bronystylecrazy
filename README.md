@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 16th, 2025, 8:01:44 AM
+Last Updated: Sunday, March 16th, 2025, 9:43:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
-2. ⭐ Starred [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
-3. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-4. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-5. ⭐ Starred [zmb3/spotify](https://github.com/zmb3/spotify)
-6. ⭐ Starred [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
-7. ⭐ Starred [go-task/task](https://github.com/go-task/task)
-8. ⭐ Starred [uber-go/nilaway](https://github.com/uber-go/nilaway)
+1. ⭐ Starred [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig)
+2. ⭐ Starred [browser-use/browser-use](https://github.com/browser-use/browser-use)
+3. ⭐ Starred [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
+4. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+5. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+6. ⭐ Starred [zmb3/spotify](https://github.com/zmb3/spotify)
+7. ⭐ Starred [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
+8. ⭐ Starred [go-task/task](https://github.com/go-task/task)
 <!--RECENT_ACTIVITY:end-->
 
