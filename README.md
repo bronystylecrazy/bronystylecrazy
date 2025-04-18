@@ -29,17 +29,17 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 18th, 2025, 7:22:55 PM
+Last Updated: Friday, April 18th, 2025, 7:58:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)
-2. ⭐ Starred [Rayato159/your-money-left-the-chat](https://github.com/Rayato159/your-money-left-the-chat)
-3. ⭐ Starred [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)
-4. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-5. ⭐ Starred [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-6. ⭐ Starred [zmb3/spotify](https://github.com/zmb3/spotify)
+1. ✌️ Released [](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.3) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
+2. ✌️ Released [Fix Response](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.2) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
+3. ✌️ Released [](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.1) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
+4. 🔱 Forked [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm) from [turistikrota/osm](https://github.com/turistikrota/osm)
+5. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)
+6. ⭐ Starred [Rayato159/your-money-left-the-chat](https://github.com/Rayato159/your-money-left-the-chat)
 7. ⭐ Starred [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
 8. ⭐ Starred [go-task/task](https://github.com/go-task/task)
 <!--RECENT_ACTIVITY:end-->
