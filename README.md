@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 25th, 2025, 4:37:39 PM
+Last Updated: Friday, April 25th, 2025, 5:13:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tracel-ai/burn](https://github.com/tracel-ai/burn)
-2. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
-3. ⭐ Starred [kardianos/service](https://github.com/kardianos/service)
-4. ✌️ Released [](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.3) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
-5. ✌️ Released [Fix Response](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.2) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
-6. ✌️ Released [](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.1) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
-7. 🔱 Forked [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm) from [turistikrota/osm](https://github.com/turistikrota/osm)
-8. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)
+1. ⭐ Starred [cross-rs/cross](https://github.com/cross-rs/cross)
+2. ⭐ Starred [tracel-ai/burn](https://github.com/tracel-ai/burn)
+3. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
+4. ⭐ Starred [kardianos/service](https://github.com/kardianos/service)
+5. ✌️ Released [](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.3) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
+6. ✌️ Released [Fix Response](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.2) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
+7. ✌️ Released [](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.1) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
+8. 🔱 Forked [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm) from [turistikrota/osm](https://github.com/turistikrota/osm)
 <!--RECENT_ACTIVITY:end-->
 
