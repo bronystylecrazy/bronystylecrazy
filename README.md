@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 24th, 2025, 6:09:19 PM
+Last Updated: Saturday, May 24th, 2025, 6:33:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [etcd-io/bbolt](https://github.com/etcd-io/bbolt)
-2. ⭐ Starred [tokio-rs/axum](https://github.com/tokio-rs/axum)
-3. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-4. ⭐ Starred [cross-rs/cross](https://github.com/cross-rs/cross)
-5. ⭐ Starred [tracel-ai/burn](https://github.com/tracel-ai/burn)
-6. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
-7. ⭐ Starred [kardianos/service](https://github.com/kardianos/service)
-8. ✌️ Released [](https://github.com/bronystylecrazy/osm/releases/tag/v0.0.3) in [bronystylecrazy/osm](https://github.com/bronystylecrazy/osm)
+1. ⭐ Starred [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel)
+2. ⭐ Starred [JiuhaiChen/BLIP3o](https://github.com/JiuhaiChen/BLIP3o)
+3. ⭐ Starred [etcd-io/bbolt](https://github.com/etcd-io/bbolt)
+4. ⭐ Starred [tokio-rs/axum](https://github.com/tokio-rs/axum)
+5. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+6. ⭐ Starred [cross-rs/cross](https://github.com/cross-rs/cross)
+7. ⭐ Starred [tracel-ai/burn](https://github.com/tracel-ai/burn)
+8. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
 <!--RECENT_ACTIVITY:end-->
 
