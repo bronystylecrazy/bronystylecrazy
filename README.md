@@ -29,13 +29,13 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 23rd, 2025, 3:43:05 PM
+Last Updated: Tuesday, September 23rd, 2025, 4:13:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [casibase/casibase](https://github.com/casibase/casibase)
-2. ⭐ Starred [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe)
+1. ⭐ Starred [go-gost/core](https://github.com/go-gost/core)
+2. ⭐ Starred [casibase/casibase](https://github.com/casibase/casibase)
 3. ⭐ Starred [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel)
 4. ⭐ Starred [JiuhaiChen/BLIP3o](https://github.com/JiuhaiChen/BLIP3o)
 5. ⭐ Starred [etcd-io/bbolt](https://github.com/etcd-io/bbolt)
