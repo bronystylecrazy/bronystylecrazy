@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 6th, 2025, 12:33:42 AM
+Last Updated: Monday, October 6th, 2025, 1:15:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-2. ⭐ Starred [bsthun/gut](https://github.com/bsthun/gut)
-3. ⭐ Starred [docling-project/docling](https://github.com/docling-project/docling)
-4. 🔱 Forked [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx) from [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+1. ⭐ Starred [knights-analytics/hugot](https://github.com/knights-analytics/hugot)
+2. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+3. ⭐ Starred [bsthun/gut](https://github.com/bsthun/gut)
+4. ⭐ Starred [docling-project/docling](https://github.com/docling-project/docling)
 5. 🔱 Forked [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx) from [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
-6. ⭐ Starred [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything)
-7. ⭐ Starred [zigzap/zap](https://github.com/zigzap/zap)
-8. ⭐ Starred [go-gost/core](https://github.com/go-gost/core)
+6. 🔱 Forked [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx) from [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+7. ⭐ Starred [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything)
+8. ⭐ Starred [zigzap/zap](https://github.com/zigzap/zap)
 <!--RECENT_ACTIVITY:end-->
 
