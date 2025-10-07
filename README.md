@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 7th, 2025, 9:13:11 PM
+Last Updated: Tuesday, October 7th, 2025, 9:41:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [knights-analytics/hugot](https://github.com/knights-analytics/hugot)
-2. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-3. ⭐ Starred [bsthun/gut](https://github.com/bsthun/gut)
-4. ⭐ Starred [docling-project/docling](https://github.com/docling-project/docling)
-5. 🔱 Forked [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx) from [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+1. ⭐ Starred [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+2. ⭐ Starred [knights-analytics/hugot](https://github.com/knights-analytics/hugot)
+3. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+4. ⭐ Starred [bsthun/gut](https://github.com/bsthun/gut)
+5. ⭐ Starred [docling-project/docling](https://github.com/docling-project/docling)
 6. 🔱 Forked [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx) from [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
-7. ⭐ Starred [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything)
-8. ⭐ Starred [zigzap/zap](https://github.com/zigzap/zap)
+7. 🔱 Forked [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx) from [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
+8. ⭐ Starred [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything)
 <!--RECENT_ACTIVITY:end-->
 
