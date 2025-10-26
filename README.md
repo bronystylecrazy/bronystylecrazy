@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 26th, 2025, 2:33:16 PM
+Last Updated: Sunday, October 26th, 2025, 3:15:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)
-2. ⭐ Starred [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-3. ⭐ Starred [knights-analytics/hugot](https://github.com/knights-analytics/hugot)
-4. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-5. ⭐ Starred [bsthun/gut](https://github.com/bsthun/gut)
-6. ⭐ Starred [docling-project/docling](https://github.com/docling-project/docling)
-7. 🔱 Forked [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx) from [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx)
-8. ⭐ Starred [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything)
+1. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
+2. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)
+3. ⭐ Starred [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+4. ⭐ Starred [knights-analytics/hugot](https://github.com/knights-analytics/hugot)
+5. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+6. ⭐ Starred [bsthun/gut](https://github.com/bsthun/gut)
+7. ⭐ Starred [docling-project/docling](https://github.com/docling-project/docling)
+8. 🔱 Forked [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx) from [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx)
 <!--RECENT_ACTIVITY:end-->
 
