@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 27th, 2025, 3:18:22 PM
+Last Updated: Monday, October 27th, 2025, 3:45:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
-2. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)
-3. ⭐ Starred [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-4. ⭐ Starred [knights-analytics/hugot](https://github.com/knights-analytics/hugot)
-5. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-6. ⭐ Starred [bsthun/gut](https://github.com/bsthun/gut)
-7. ⭐ Starred [docling-project/docling](https://github.com/docling-project/docling)
-8. 🔱 Forked [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx) from [bronystylecrazy/mediamtx](https://github.com/bronystylecrazy/mediamtx)
+1. ⭐ Starred [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
+2. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+3. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
+4. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)
+5. ⭐ Starred [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+6. ⭐ Starred [knights-analytics/hugot](https://github.com/knights-analytics/hugot)
+7. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+8. ⭐ Starred [bsthun/gut](https://github.com/bsthun/gut)
 <!--RECENT_ACTIVITY:end-->
 
