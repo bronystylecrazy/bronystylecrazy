@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 31st, 2025, 1:48:43 PM
+Last Updated: Friday, October 31st, 2025, 2:12:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
-2. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-3. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
-4. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)
-5. ⭐ Starred [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-6. ⭐ Starred [knights-analytics/hugot](https://github.com/knights-analytics/hugot)
-7. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
-8. ⭐ Starred [bsthun/gut](https://github.com/bsthun/gut)
+1. ⭐ Starred [oscnd/model-agentic](https://github.com/oscnd/model-agentic)
+2. ⭐ Starred [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
+3. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+4. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
+5. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)
+6. ⭐ Starred [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+7. ⭐ Starred [knights-analytics/hugot](https://github.com/knights-analytics/hugot)
+8. ⭐ Starred [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
 <!--RECENT_ACTIVITY:end-->
 
