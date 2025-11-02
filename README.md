@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 2nd, 2025, 1:18:02 PM
+Last Updated: Sunday, November 2nd, 2025, 1:45:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
-2. ⭐ Starred [sobelio/llm-chain](https://github.com/sobelio/llm-chain)
-3. ⭐ Starred [oscnd/model-agentic](https://github.com/oscnd/model-agentic)
-4. ⭐ Starred [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
-5. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-6. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
-7. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)
-8. ⭐ Starred [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
+1. ⭐ Starred [davecgh/go-spew](https://github.com/davecgh/go-spew)
+2. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
+3. ⭐ Starred [sobelio/llm-chain](https://github.com/sobelio/llm-chain)
+4. ⭐ Starred [oscnd/model-agentic](https://github.com/oscnd/model-agentic)
+5. ⭐ Starred [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
+6. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+7. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
+8. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)
 <!--RECENT_ACTIVITY:end-->
 
