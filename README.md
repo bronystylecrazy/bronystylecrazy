@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 11th, 2025, 1:46:31 AM
+Last Updated: Tuesday, November 11th, 2025, 2:10:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [davecgh/go-spew](https://github.com/davecgh/go-spew)
-2. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
-3. ⭐ Starred [sobelio/llm-chain](https://github.com/sobelio/llm-chain)
-4. ⭐ Starred [oscnd/model-agentic](https://github.com/oscnd/model-agentic)
-5. ⭐ Starred [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
-6. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-7. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
-8. ⭐ Starred [facebook/openzl](https://github.com/facebook/openzl)
+1. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+2. ⭐ Starred [davecgh/go-spew](https://github.com/davecgh/go-spew)
+3. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
+4. ⭐ Starred [sobelio/llm-chain](https://github.com/sobelio/llm-chain)
+5. ⭐ Starred [oscnd/model-agentic](https://github.com/oscnd/model-agentic)
+6. ⭐ Starred [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
+7. ⭐ Starred [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+8. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)
 <!--RECENT_ACTIVITY:end-->
 
