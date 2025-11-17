@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 17th, 2025, 8:04:04 AM
+Last Updated: Monday, November 17th, 2025, 9:55:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebook/rocksdb](https://github.com/facebook/rocksdb)
-2. ⭐ Starred [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec)
-3. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-4. ⭐ Starred [davecgh/go-spew](https://github.com/davecgh/go-spew)
-5. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
-6. ⭐ Starred [sobelio/llm-chain](https://github.com/sobelio/llm-chain)
-7. ⭐ Starred [oscnd/model-agentic](https://github.com/oscnd/model-agentic)
-8. ⭐ Starred [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)
+1. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+2. ⭐ Starred [facebook/rocksdb](https://github.com/facebook/rocksdb)
+3. ⭐ Starred [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec)
+4. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+5. ⭐ Starred [davecgh/go-spew](https://github.com/davecgh/go-spew)
+6. ⭐ Starred [sst/opencode](https://github.com/sst/opencode)
+7. ⭐ Starred [sobelio/llm-chain](https://github.com/sobelio/llm-chain)
+8. ⭐ Starred [oscnd/model-agentic](https://github.com/oscnd/model-agentic)
 <!--RECENT_ACTIVITY:end-->
 
