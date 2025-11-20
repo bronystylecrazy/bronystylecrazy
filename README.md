@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 20th, 2025, 8:01:25 AM
+Last Updated: Thursday, November 20th, 2025, 9:50:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [grafana/alloy](https://github.com/grafana/alloy)
-2. ⭐ Starred [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr)
-3. ⭐ Starred [containrrr/watchtower](https://github.com/containrrr/watchtower)
-4. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
-5. ⭐ Starred [facebook/rocksdb](https://github.com/facebook/rocksdb)
-6. ⭐ Starred [opencontainers/distribution-spec](https://github.com/opencontainers/distribution-spec)
-7. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
-8. ⭐ Starred [davecgh/go-spew](https://github.com/davecgh/go-spew)
+1. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
+2. ⭐ Starred [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)
+3. ⭐ Starred [memgraph/memgraph](https://github.com/memgraph/memgraph)
+4. ⭐ Starred [grafana/alloy](https://github.com/grafana/alloy)
+5. ⭐ Starred [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr)
+6. ⭐ Starred [containrrr/watchtower](https://github.com/containrrr/watchtower)
+7. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+8. ⭐ Starred [facebook/rocksdb](https://github.com/facebook/rocksdb)
 <!--RECENT_ACTIVITY:end-->
 
