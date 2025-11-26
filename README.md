@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 26th, 2025, 11:19:18 AM
+Last Updated: Wednesday, November 26th, 2025, 11:44:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [orval-labs/orval](https://github.com/orval-labs/orval)
-2. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
-3. ⭐ Starred [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)
-4. ⭐ Starred [memgraph/memgraph](https://github.com/memgraph/memgraph)
-5. ⭐ Starred [grafana/alloy](https://github.com/grafana/alloy)
-6. ⭐ Starred [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr)
-7. ⭐ Starred [containrrr/watchtower](https://github.com/containrrr/watchtower)
-8. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)
+1. ⭐ Starred [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage)
+2. ⭐ Starred [orval-labs/orval](https://github.com/orval-labs/orval)
+3. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
+4. ⭐ Starred [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)
+5. ⭐ Starred [memgraph/memgraph](https://github.com/memgraph/memgraph)
+6. ⭐ Starred [grafana/alloy](https://github.com/grafana/alloy)
+7. ⭐ Starred [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr)
+8. ⭐ Starred [containrrr/watchtower](https://github.com/containrrr/watchtower)
 <!--RECENT_ACTIVITY:end-->
 
