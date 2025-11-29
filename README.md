@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 29th, 2025, 2:11:52 PM
+Last Updated: Saturday, November 29th, 2025, 2:34:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
-2. ⭐ Starred [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage)
-3. ⭐ Starred [orval-labs/orval](https://github.com/orval-labs/orval)
-4. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
-5. ⭐ Starred [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)
-6. ⭐ Starred [memgraph/memgraph](https://github.com/memgraph/memgraph)
-7. ⭐ Starred [grafana/alloy](https://github.com/grafana/alloy)
-8. ⭐ Starred [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr)
+1. ⭐ Starred [MadAppGang/dingo](https://github.com/MadAppGang/dingo)
+2. ⭐ Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
+3. ⭐ Starred [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage)
+4. ⭐ Starred [orval-labs/orval](https://github.com/orval-labs/orval)
+5. ⭐ Starred [rustfs/rustfs](https://github.com/rustfs/rustfs)
+6. ⭐ Starred [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)
+7. ⭐ Starred [memgraph/memgraph](https://github.com/memgraph/memgraph)
+8. ⭐ Starred [grafana/alloy](https://github.com/grafana/alloy)
 <!--RECENT_ACTIVITY:end-->
 
