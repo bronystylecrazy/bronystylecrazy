@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 13th, 2025, 5:13:06 PM
+Last Updated: Saturday, December 13th, 2025, 5:40:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Change Module Name to go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.0.4) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
-2. ✌️ Released [Add NopClient and Interface](https://github.com/bronystylecrazy/gofins/releases/tag/v1.0.1) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
-3. ✌️ Released [Release v1.0.0](https://github.com/bronystylecrazy/gofins/releases/tag/v1.0.0) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
-4. ✌️ Released [Release Client](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.0.0) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
-5. ⭐ Starred [MadAppGang/dingo](https://github.com/MadAppGang/dingo)
-6. ⭐ Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
-7. ⭐ Starred [deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage)
-8. ⭐ Starred [orval-labs/orval](https://github.com/orval-labs/orval)
+1. ✌️ Released [Add Mock Client for Unit Test](https://github.com/bronystylecrazy/gofins/releases/tag/v1.0.3) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
+2. ✌️ Released [Change Module Name to gofins](https://github.com/bronystylecrazy/gofins/releases/tag/v1.0.2) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
+3. ✌️ Released [Change Module Name to go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.0.4) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
+4. ✌️ Released [Add NopClient and Interface](https://github.com/bronystylecrazy/gofins/releases/tag/v1.0.1) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
+5. ✌️ Released [Release v1.0.0](https://github.com/bronystylecrazy/gofins/releases/tag/v1.0.0) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
+6. ✌️ Released [Release Client](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.0.0) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
+7. ⭐ Starred [MadAppGang/dingo](https://github.com/MadAppGang/dingo)
+8. ⭐ Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
 <!--RECENT_ACTIVITY:end-->
 
