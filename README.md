@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 25th, 2025, 1:22:13 PM
+Last Updated: Thursday, December 25th, 2025, 1:53:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [seydx/camera.ui](https://github.com/seydx/camera.ui)
-2. ⭐ Starred [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
-3. ⭐ Starred [containers/skopeo](https://github.com/containers/skopeo)
-4. ⭐ Starred [wasintoh/toh-framework](https://github.com/wasintoh/toh-framework)
-5. ✌️ Released [v1.1.2](https://github.com/bronystylecrazy/gofins/releases/tag/v1.1.2) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
-6. ✌️ Released [v1.1.1](https://github.com/bronystylecrazy/gofins/releases/tag/v1.1.1) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
-7. ✌️ Released [v1.1.0](https://github.com/bronystylecrazy/gofins/releases/tag/v1.1.0) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
-8. ✌️ Released [v1.0.0](https://github.com/bronystylecrazy/gofins/releases/tag/v1.0.0) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
+1. ⭐ Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+2. ⭐ Starred [seydx/camera.ui](https://github.com/seydx/camera.ui)
+3. ⭐ Starred [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
+4. ⭐ Starred [containers/skopeo](https://github.com/containers/skopeo)
+5. ⭐ Starred [wasintoh/toh-framework](https://github.com/wasintoh/toh-framework)
+6. ✌️ Released [v1.1.2](https://github.com/bronystylecrazy/gofins/releases/tag/v1.1.2) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
+7. ✌️ Released [v1.1.1](https://github.com/bronystylecrazy/gofins/releases/tag/v1.1.1) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
+8. ✌️ Released [v1.1.0](https://github.com/bronystylecrazy/gofins/releases/tag/v1.1.0) in [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
 <!--RECENT_ACTIVITY:end-->
 
