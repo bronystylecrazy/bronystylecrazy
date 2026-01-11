@@ -29,14 +29,14 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 11th, 2026, 9:12:38 PM
+Last Updated: Sunday, January 11th, 2026, 9:40:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
 2. ⭐ Starred [design-first/system-designer](https://github.com/design-first/system-designer)
-3. ⭐ Starred [zapdos-labs/unblink](https://github.com/zapdos-labs/unblink)
+3. ⭐ Starred [unblink/unblink](https://github.com/unblink/unblink)
 4. ⭐ Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
 5. ⭐ Starred [seydx/camera.ui](https://github.com/seydx/camera.ui)
 6. ⭐ Starred [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
