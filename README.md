@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 16th, 2026, 4:45:35 PM
+Last Updated: Friday, January 16th, 2026, 5:15:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
-2. ⭐ Starred [chartdb/chartdb](https://github.com/chartdb/chartdb)
-3. ⭐ Starred [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
-4. ⭐ Starred [design-first/system-designer](https://github.com/design-first/system-designer)
-5. ⭐ Starred [unblink/unblink](https://github.com/unblink/unblink)
-6. ⭐ Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
-7. ⭐ Starred [seydx/camera.ui](https://github.com/seydx/camera.ui)
-8. ⭐ Starred [tambo-ai/tambo](https://github.com/tambo-ai/tambo)
+1. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)
+2. ⭐ Starred [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
+3. ⭐ Starred [chartdb/chartdb](https://github.com/chartdb/chartdb)
+4. ⭐ Starred [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
+5. ⭐ Starred [design-first/system-designer](https://github.com/design-first/system-designer)
+6. ⭐ Starred [unblink/unblink](https://github.com/unblink/unblink)
+7. ⭐ Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+8. ⭐ Starred [seydx/camera.ui](https://github.com/seydx/camera.ui)
 <!--RECENT_ACTIVITY:end-->
 
