@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 20th, 2026, 1:25:39 PM
+Last Updated: Tuesday, January 20th, 2026, 1:59:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)
-2. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)
-3. ⭐ Starred [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
-4. ⭐ Starred [chartdb/chartdb](https://github.com/chartdb/chartdb)
-5. ⭐ Starred [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
-6. ⭐ Starred [design-first/system-designer](https://github.com/design-first/system-designer)
-7. ⭐ Starred [unblink/unblink](https://github.com/unblink/unblink)
-8. ⭐ Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+1. ⭐ Starred [borgo-lang/borgo](https://github.com/borgo-lang/borgo)
+2. ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)
+3. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)
+4. ⭐ Starred [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
+5. ⭐ Starred [chartdb/chartdb](https://github.com/chartdb/chartdb)
+6. ⭐ Starred [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
+7. ⭐ Starred [design-first/system-designer](https://github.com/design-first/system-designer)
+8. ⭐ Starred [unblink/unblink](https://github.com/unblink/unblink)
 <!--RECENT_ACTIVITY:end-->
 
