@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 25th, 2026, 12:11:56 AM
+Last Updated: Sunday, January 25th, 2026, 12:39:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [khromov/svelte-render-scan](https://github.com/khromov/svelte-render-scan)
-2. ⭐ Starred [aidenybai/react-grab](https://github.com/aidenybai/react-grab)
-3. ⭐ Starred [borgo-lang/borgo](https://github.com/borgo-lang/borgo)
-4. ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)
-5. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)
-6. ⭐ Starred [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
-7. ⭐ Starred [chartdb/chartdb](https://github.com/chartdb/chartdb)
-8. ⭐ Starred [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit)
+1. ⭐ Starred [Nuralyio/the-agent](https://github.com/Nuralyio/the-agent)
+2. ⭐ Starred [khromov/svelte-render-scan](https://github.com/khromov/svelte-render-scan)
+3. ⭐ Starred [aidenybai/react-grab](https://github.com/aidenybai/react-grab)
+4. ⭐ Starred [borgo-lang/borgo](https://github.com/borgo-lang/borgo)
+5. ⭐ Starred [3b1b/manim](https://github.com/3b1b/manim)
+6. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)
+7. ⭐ Starred [duythinht/dbml-go](https://github.com/duythinht/dbml-go)
+8. ⭐ Starred [chartdb/chartdb](https://github.com/chartdb/chartdb)
 <!--RECENT_ACTIVITY:end-->
 
