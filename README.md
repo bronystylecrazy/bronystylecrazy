@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 4th, 2026, 2:59:25 PM
+Last Updated: Wednesday, February 4th, 2026, 3:49:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [Add Build Info to Fiber Banner](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v1.1.0) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
-2. ⭐ Starred [rickhanlonii/async-react](https://github.com/rickhanlonii/async-react)
-3. ✌️ Released [Release v1.0.0](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v1.0.0) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
-4. ✌️ Released [Add Name and Description to Build Info](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v0.1.0-alpha.3) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
-5. ✌️ Released [Fix Build Info](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v0.1.0-alpha.2) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
-6. ✌️ Released [Add Build Info Handler to Web Module](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v0.1.0-alpha.1) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
-7. ✌️ Released [Fix Migrations Directory](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v0.0.1-alpha.2) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
-8. ✌️ Released [v0.0.1-alpha.1](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v0.0.1-alpha.1) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
+1. ✌️ Released [DI Priority Bugs Fixed](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v1.1.1) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
+2. ✌️ Released [Add Build Info to Fiber Banner](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v1.1.0) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
+3. ⭐ Starred [rickhanlonii/async-react](https://github.com/rickhanlonii/async-react)
+4. ✌️ Released [Release v1.0.0](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v1.0.0) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
+5. ✌️ Released [Add Name and Description to Build Info](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v0.1.0-alpha.3) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
+6. ✌️ Released [Fix Build Info](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v0.1.0-alpha.2) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
+7. ✌️ Released [Add Build Info Handler to Web Module](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v0.1.0-alpha.1) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
+8. ✌️ Released [Fix Migrations Directory](https://github.com/bronystylecrazy/ultrastructure/releases/tag/v0.0.1-alpha.2) in [bronystylecrazy/ultrastructure](https://github.com/bronystylecrazy/ultrastructure)
 <!--RECENT_ACTIVITY:end-->
 
