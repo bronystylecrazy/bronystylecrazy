@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 2nd, 2026, 2:16:55 AM
+Last Updated: Monday, March 2nd, 2026, 2:41:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [connectedtechco/go-webrtp](https://github.com/connectedtechco/go-webrtp)
-2. ⭐ Starred [supabase/realtime](https://github.com/supabase/realtime)
-3. ⭐ Starred [HeiCg/svelte-grab](https://github.com/HeiCg/svelte-grab)
-4. ⭐ Starred [go-jet/jet](https://github.com/go-jet/jet)
-5. ⭐ Starred [abiosoft/colima](https://github.com/abiosoft/colima)
-6. ⭐ Starred [apple/container](https://github.com/apple/container)
-7. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
-8. ⭐ Starred [hyperium/hyper](https://github.com/hyperium/hyper)
+1. ⭐ Starred [go-git/go-git](https://github.com/go-git/go-git)
+2. ⭐ Starred [connectedtechco/go-webrtp](https://github.com/connectedtechco/go-webrtp)
+3. ⭐ Starred [supabase/realtime](https://github.com/supabase/realtime)
+4. ⭐ Starred [HeiCg/svelte-grab](https://github.com/HeiCg/svelte-grab)
+5. ⭐ Starred [go-jet/jet](https://github.com/go-jet/jet)
+6. ⭐ Starred [abiosoft/colima](https://github.com/abiosoft/colima)
+7. ⭐ Starred [apple/container](https://github.com/apple/container)
+8. ⭐ Starred [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
 <!--RECENT_ACTIVITY:end-->
 
