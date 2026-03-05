@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 5th, 2026, 10:42:09 PM
+Last Updated: Friday, March 6th, 2026, 12:55:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [casbin/casbin](https://github.com/casbin/casbin)
-2. ⭐ Starred [go-git/go-git](https://github.com/go-git/go-git)
-3. ⭐ Starred [connectedtechco/go-webrtp](https://github.com/connectedtechco/go-webrtp)
-4. ⭐ Starred [supabase/realtime](https://github.com/supabase/realtime)
-5. ⭐ Starred [HeiCg/svelte-grab](https://github.com/HeiCg/svelte-grab)
-6. ⭐ Starred [go-jet/jet](https://github.com/go-jet/jet)
-7. ⭐ Starred [abiosoft/colima](https://github.com/abiosoft/colima)
-8. ⭐ Starred [apple/container](https://github.com/apple/container)
+1. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
+2. ⭐ Starred [casbin/casbin](https://github.com/casbin/casbin)
+3. ⭐ Starred [go-git/go-git](https://github.com/go-git/go-git)
+4. ⭐ Starred [connectedtechco/go-webrtp](https://github.com/connectedtechco/go-webrtp)
+5. ⭐ Starred [supabase/realtime](https://github.com/supabase/realtime)
+6. ⭐ Starred [HeiCg/svelte-grab](https://github.com/HeiCg/svelte-grab)
+7. ⭐ Starred [go-jet/jet](https://github.com/go-jet/jet)
+8. ⭐ Starred [abiosoft/colima](https://github.com/abiosoft/colima)
 <!--RECENT_ACTIVITY:end-->
 
