@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 11th, 2026, 11:41:52 PM
+Last Updated: Thursday, March 12th, 2026, 12:42:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp) from [connectedtechco/go-webrtp](https://github.com/connectedtechco/go-webrtp)
-2. ⭐ Starred [opencontainers/go-digest](https://github.com/opencontainers/go-digest)
-3. ⭐ Starred [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake)
-4. ⭐ Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
-5. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
-6. ⭐ Starred [apache/casbin](https://github.com/apache/casbin)
-7. ⭐ Starred [go-git/go-git](https://github.com/go-git/go-git)
-8. ⭐ Starred [connectedtechco/go-webrtp](https://github.com/connectedtechco/go-webrtp)
+1. ⭐ Starred [gfx-rs/wgpu-native](https://github.com/gfx-rs/wgpu-native)
+2. ⭐ Starred [rajveermalviya/go-webgpu](https://github.com/rajveermalviya/go-webgpu)
+3. 🔱 Forked [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp) from [connectedtechco/go-webrtp](https://github.com/connectedtechco/go-webrtp)
+4. ⭐ Starred [opencontainers/go-digest](https://github.com/opencontainers/go-digest)
+5. ⭐ Starred [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake)
+6. ⭐ Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+7. ⭐ Starred [neovim/neovim](https://github.com/neovim/neovim)
+8. ⭐ Starred [apache/casbin](https://github.com/apache/casbin)
 <!--RECENT_ACTIVITY:end-->
 
