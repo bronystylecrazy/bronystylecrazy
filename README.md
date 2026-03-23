@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 24th, 2026, 3:30:33 AM
+Last Updated: Tuesday, March 24th, 2026, 4:28:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [roboflow/rf-detr](https://github.com/roboflow/rf-detr)
-2. ⭐ Starred [baaivision/EVA](https://github.com/baaivision/EVA)
-3. ⭐ Starred [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)
-4. ⭐ Starred [parinzee/SuperAI3-UWB-Classification](https://github.com/parinzee/SuperAI3-UWB-Classification)
-5. ✌️ Released [v1.0.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.0.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-6. 🔱 Forked [bronystylecrazy/tinyh264](https://github.com/bronystylecrazy/tinyh264) from [udevbe/tinyh264](https://github.com/udevbe/tinyh264)
-7. ⭐ Starred [mbebenita/Broadway](https://github.com/mbebenita/Broadway)
-8. ⭐ Starred [gfx-rs/wgpu-native](https://github.com/gfx-rs/wgpu-native)
+1. ⭐ Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+2. ⭐ Starred [roboflow/rf-detr](https://github.com/roboflow/rf-detr)
+3. ⭐ Starred [baaivision/EVA](https://github.com/baaivision/EVA)
+4. ⭐ Starred [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)
+5. ⭐ Starred [parinzee/SuperAI3-UWB-Classification](https://github.com/parinzee/SuperAI3-UWB-Classification)
+6. ✌️ Released [v1.0.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.0.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+7. 🔱 Forked [bronystylecrazy/tinyh264](https://github.com/bronystylecrazy/tinyh264) from [udevbe/tinyh264](https://github.com/udevbe/tinyh264)
+8. ⭐ Starred [mbebenita/Broadway](https://github.com/mbebenita/Broadway)
 <!--RECENT_ACTIVITY:end-->
 
