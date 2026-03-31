@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 1st, 2026, 2:50:14 AM
+Last Updated: Wednesday, April 1st, 2026, 3:35:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer)
-2. 🔱 Forked [bronystylecrazy/Recordly](https://github.com/bronystylecrazy/Recordly) from [webadderall/Recordly](https://github.com/webadderall/Recordly)
-3. ✌️ Released [v1.2.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-4. ⭐ Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
-5. ✌️ Released [v1.1.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.1.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-6. ⭐ Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
-7. ⭐ Starred [roboflow/rf-detr](https://github.com/roboflow/rf-detr)
-8. ⭐ Starred [baaivision/EVA](https://github.com/baaivision/EVA)
+1. ⭐ Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+2. ⭐ Starred [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer)
+3. 🔱 Forked [bronystylecrazy/Recordly](https://github.com/bronystylecrazy/Recordly) from [webadderall/Recordly](https://github.com/webadderall/Recordly)
+4. ✌️ Released [v1.2.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+5. ⭐ Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
+6. ✌️ Released [v1.1.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.1.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+7. ⭐ Starred [microsoft/typescript-go](https://github.com/microsoft/typescript-go)
+8. ⭐ Starred [roboflow/rf-detr](https://github.com/roboflow/rf-detr)
 <!--RECENT_ACTIVITY:end-->
 
