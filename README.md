@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 6th, 2026, 11:37:19 PM
+Last Updated: Tuesday, April 7th, 2026, 12:37:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
-2. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-3. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
-4. ⭐ Starred [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)
-5. ⭐ Starred [iced-rs/iced](https://github.com/iced-rs/iced)
-6. ⭐ Starred [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer)
-7. 🔱 Forked [bronystylecrazy/Recordly](https://github.com/bronystylecrazy/Recordly) from [webadderall/Recordly](https://github.com/webadderall/Recordly)
-8. ✌️ Released [v1.2.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+1. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+2. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
+3. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+4. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+5. ⭐ Starred [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)
+6. ⭐ Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+7. ⭐ Starred [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer)
+8. 🔱 Forked [bronystylecrazy/Recordly](https://github.com/bronystylecrazy/Recordly) from [webadderall/Recordly](https://github.com/webadderall/Recordly)
 <!--RECENT_ACTIVITY:end-->
 
