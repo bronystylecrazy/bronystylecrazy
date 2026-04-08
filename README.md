@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 8th, 2026, 8:47:47 AM
+Last Updated: Wednesday, April 8th, 2026, 11:30:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-2. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
-3. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-4. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
-5. ⭐ Starred [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)
-6. ⭐ Starred [iced-rs/iced](https://github.com/iced-rs/iced)
-7. ⭐ Starred [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer)
-8. 🔱 Forked [bronystylecrazy/Recordly](https://github.com/bronystylecrazy/Recordly) from [webadderall/Recordly](https://github.com/webadderall/Recordly)
+1. ⭐ Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+2. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+3. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
+4. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+5. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+6. ⭐ Starred [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)
+7. ⭐ Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+8. ⭐ Starred [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer)
 <!--RECENT_ACTIVITY:end-->
 
