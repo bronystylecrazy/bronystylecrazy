@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 17th, 2026, 3:22:36 PM
+Last Updated: Friday, April 17th, 2026, 4:51:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [alexcding/gemini-desktop-mac](https://github.com/alexcding/gemini-desktop-mac)
-2. ⭐ Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-3. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-4. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
-5. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-6. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
-7. ⭐ Starred [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)
-8. ⭐ Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+1. ⭐ Starred [apple/containerization](https://github.com/apple/containerization)
+2. ⭐ Starred [alexcding/gemini-desktop-mac](https://github.com/alexcding/gemini-desktop-mac)
+3. ⭐ Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+4. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+5. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
+6. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+7. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+8. ⭐ Starred [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
