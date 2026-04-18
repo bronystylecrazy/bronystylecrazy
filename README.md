@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 18th, 2026, 3:54:42 PM
+Last Updated: Saturday, April 18th, 2026, 4:39:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apple/containerization](https://github.com/apple/containerization)
-2. ⭐ Starred [alexcding/gemini-desktop-mac](https://github.com/alexcding/gemini-desktop-mac)
-3. ⭐ Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-4. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-5. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
-6. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-7. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
-8. ⭐ Starred [ToluClassics/candle-tutorial](https://github.com/ToluClassics/candle-tutorial)
+1. ⭐ Starred [0xSero/turboquant](https://github.com/0xSero/turboquant)
+2. ⭐ Starred [apple/containerization](https://github.com/apple/containerization)
+3. ⭐ Starred [alexcding/gemini-desktop-mac](https://github.com/alexcding/gemini-desktop-mac)
+4. ⭐ Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+5. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+6. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
+7. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+8. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
 <!--RECENT_ACTIVITY:end-->
 
