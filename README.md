@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 19th, 2026, 5:05:09 PM
+Last Updated: Sunday, April 19th, 2026, 6:04:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot)
-2. ⭐ Starred [0xSero/turboquant](https://github.com/0xSero/turboquant)
-3. ⭐ Starred [apple/containerization](https://github.com/apple/containerization)
-4. ⭐ Starred [alexcding/gemini-desktop-mac](https://github.com/alexcding/gemini-desktop-mac)
-5. ⭐ Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
-6. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-7. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
-8. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+1. ⭐ Starred [infiniflow/ragflow](https://github.com/infiniflow/ragflow)
+2. ⭐ Starred [mikel-brostrom/boxmot](https://github.com/mikel-brostrom/boxmot)
+3. ⭐ Starred [0xSero/turboquant](https://github.com/0xSero/turboquant)
+4. ⭐ Starred [apple/containerization](https://github.com/apple/containerization)
+5. ⭐ Starred [alexcding/gemini-desktop-mac](https://github.com/alexcding/gemini-desktop-mac)
+6. ⭐ Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+7. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.2.1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+8. ⭐ Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
 <!--RECENT_ACTIVITY:end-->
 
