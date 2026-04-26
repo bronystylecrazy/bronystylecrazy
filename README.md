@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 27th, 2026, 1:39:38 AM
+Last Updated: Monday, April 27th, 2026, 2:39:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-2. ⭐ Starred [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
-3. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
-4. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)
-5. ⭐ Starred [mlflow/mlflow-go-backend](https://github.com/mlflow/mlflow-go-backend)
-6. ⭐ Starred [clearml/clearml-server](https://github.com/clearml/clearml-server)
-7. ⭐ Starred [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)
-8. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+1. ⭐ Starred [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+2. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+3. ⭐ Starred [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
+4. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+5. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)
+6. ⭐ Starred [mlflow/mlflow-go-backend](https://github.com/mlflow/mlflow-go-backend)
+7. ⭐ Starred [clearml/clearml-server](https://github.com/clearml/clearml-server)
+8. ⭐ Starred [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)
 <!--RECENT_ACTIVITY:end-->
 
