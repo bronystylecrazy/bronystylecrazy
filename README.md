@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 3rd, 2026, 7:02:32 PM
+Last Updated: Sunday, May 3rd, 2026, 8:52:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [atdev008/Hack4](https://github.com/atdev008/Hack4)
-2. ⭐ Starred [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs)
-3. ⭐ Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
-4. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
-5. ⭐ Starred [tporadowski/redis](https://github.com/tporadowski/redis)
-6. ⭐ Starred [apache/iggy](https://github.com/apache/iggy)
-7. ⭐ Starred [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio)
-8. ⭐ Starred [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+1. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
+2. 🤝 Became collaborator on [atdev008/Hack4](https://github.com/atdev008/Hack4)
+3. ⭐ Starred [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs)
+4. ⭐ Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
+5. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+6. ⭐ Starred [tporadowski/redis](https://github.com/tporadowski/redis)
+7. ⭐ Starred [apache/iggy](https://github.com/apache/iggy)
+8. ⭐ Starred [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio)
 <!--RECENT_ACTIVITY:end-->
 
