@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 5th, 2026, 5:58:04 PM
+Last Updated: Tuesday, May 5th, 2026, 7:01:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [flyingmutant/rapid](https://github.com/flyingmutant/rapid)
-2. ⭐ Starred [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt)
-3. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
-4. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-5. 🤝 Became collaborator on [atdev008/Hack4](https://github.com/atdev008/Hack4)
-6. ⭐ Starred [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs)
-7. ⭐ Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
-8. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+1. ⭐ Starred [openai/codex](https://github.com/openai/codex)
+2. ⭐ Starred [flyingmutant/rapid](https://github.com/flyingmutant/rapid)
+3. ⭐ Starred [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt)
+4. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+5. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
+6. 🤝 Became collaborator on [atdev008/Hack4](https://github.com/atdev008/Hack4)
+7. ⭐ Starred [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs)
+8. ⭐ Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
 <!--RECENT_ACTIVITY:end-->
 
