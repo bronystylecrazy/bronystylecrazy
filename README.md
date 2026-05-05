@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 5th, 2026, 2:28:29 PM
+Last Updated: Tuesday, May 5th, 2026, 4:26:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
-2. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-3. 🤝 Became collaborator on [atdev008/Hack4](https://github.com/atdev008/Hack4)
-4. ⭐ Starred [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs)
-5. ⭐ Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
-6. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
-7. ⭐ Starred [tporadowski/redis](https://github.com/tporadowski/redis)
-8. ⭐ Starred [apache/iggy](https://github.com/apache/iggy)
+1. ⭐ Starred [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt)
+2. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+3. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
+4. 🤝 Became collaborator on [atdev008/Hack4](https://github.com/atdev008/Hack4)
+5. ⭐ Starred [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs)
+6. ⭐ Starred [moeru-ai/airi](https://github.com/moeru-ai/airi)
+7. ⭐ Starred [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
+8. ⭐ Starred [tporadowski/redis](https://github.com/tporadowski/redis)
 <!--RECENT_ACTIVITY:end-->
 
