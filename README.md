@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 7th, 2026, 9:08:53 AM
+Last Updated: Thursday, May 7th, 2026, 12:43:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-2. ⭐ Starred [openai/codex](https://github.com/openai/codex)
-3. ⭐ Starred [flyingmutant/rapid](https://github.com/flyingmutant/rapid)
-4. ⭐ Starred [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt)
-5. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
-6. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-7. 🤝 Became collaborator on [atdev008/Hack4](https://github.com/atdev008/Hack4)
-8. ⭐ Starred [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs)
+1. ⭐ Starred [lancedb/lancedb](https://github.com/lancedb/lancedb)
+2. ⭐ Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
+3. ⭐ Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+4. ⭐ Starred [openai/codex](https://github.com/openai/codex)
+5. ⭐ Starred [flyingmutant/rapid](https://github.com/flyingmutant/rapid)
+6. ⭐ Starred [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt)
+7. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+8. ⭐ Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
 <!--RECENT_ACTIVITY:end-->
 
