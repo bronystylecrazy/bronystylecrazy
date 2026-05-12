@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 12th, 2026, 5:57:32 PM
+Last Updated: Tuesday, May 12th, 2026, 8:02:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DarkEyes/VLTimeSeriesCausality](https://github.com/DarkEyes/VLTimeSeriesCausality)
-2. 🤝 Became collaborator on [atdev008/Mental_Open_Ai](https://github.com/atdev008/Mental_Open_Ai)
-3. ⭐ Starred [lancedb/lancedb](https://github.com/lancedb/lancedb)
-4. ⭐ Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
-5. ⭐ Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-6. ⭐ Starred [openai/codex](https://github.com/openai/codex)
-7. ⭐ Starred [flyingmutant/rapid](https://github.com/flyingmutant/rapid)
-8. ⭐ Starred [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt)
+1. ⭐ Starred [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
+2. ⭐ Starred [DarkEyes/VLTimeSeriesCausality](https://github.com/DarkEyes/VLTimeSeriesCausality)
+3. 🤝 Became collaborator on [atdev008/Mental_Open_Ai](https://github.com/atdev008/Mental_Open_Ai)
+4. ⭐ Starred [lancedb/lancedb](https://github.com/lancedb/lancedb)
+5. ⭐ Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
+6. ⭐ Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+7. ⭐ Starred [openai/codex](https://github.com/openai/codex)
+8. ⭐ Starred [flyingmutant/rapid](https://github.com/flyingmutant/rapid)
 <!--RECENT_ACTIVITY:end-->
 
