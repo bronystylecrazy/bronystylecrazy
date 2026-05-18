@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 18th, 2026, 4:43:32 PM
+Last Updated: Monday, May 18th, 2026, 8:37:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid)
-2. ⭐ Starred [damo-cv/TransReID](https://github.com/damo-cv/TransReID)
-3. ⭐ Starred [kaopanboonyuen/SAIE2026](https://github.com/kaopanboonyuen/SAIE2026)
-4. ⭐ Starred [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
-5. ⭐ Starred [DarkEyes/VLTimeSeriesCausality](https://github.com/DarkEyes/VLTimeSeriesCausality)
-6. 🤝 Became collaborator on [atdev008/Mental_Open_Ai](https://github.com/atdev008/Mental_Open_Ai)
-7. ⭐ Starred [lancedb/lancedb](https://github.com/lancedb/lancedb)
-8. ⭐ Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
+1. ⭐ Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
+2. ⭐ Starred [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid)
+3. ⭐ Starred [damo-cv/TransReID](https://github.com/damo-cv/TransReID)
+4. ⭐ Starred [kaopanboonyuen/SAIE2026](https://github.com/kaopanboonyuen/SAIE2026)
+5. ⭐ Starred [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
+6. ⭐ Starred [DarkEyes/VLTimeSeriesCausality](https://github.com/DarkEyes/VLTimeSeriesCausality)
+7. 🤝 Became collaborator on [atdev008/Mental_Open_Ai](https://github.com/atdev008/Mental_Open_Ai)
+8. ⭐ Starred [lancedb/lancedb](https://github.com/lancedb/lancedb)
 <!--RECENT_ACTIVITY:end-->
 
