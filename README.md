@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 26th, 2026, 10:39:46 AM
+Last Updated: Tuesday, May 26th, 2026, 2:37:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FeurJak/DragonWing-rs](https://github.com/FeurJak/DragonWing-rs)
-2. ⭐ Starred [FeurJak/arduino-libraries-rust-inactive-](https://github.com/FeurJak/arduino-libraries-rust-inactive-)
-3. ⭐ Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
-4. ⭐ Starred [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid)
-5. ⭐ Starred [damo-cv/TransReID](https://github.com/damo-cv/TransReID)
-6. ⭐ Starred [kaopanboonyuen/SAIE2026](https://github.com/kaopanboonyuen/SAIE2026)
-7. ⭐ Starred [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
-8. ⭐ Starred [DarkEyes/VLTimeSeriesCausality](https://github.com/DarkEyes/VLTimeSeriesCausality)
+1. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
+2. ⭐ Starred [FeurJak/DragonWing-rs](https://github.com/FeurJak/DragonWing-rs)
+3. ⭐ Starred [FeurJak/arduino-libraries-rust-inactive-](https://github.com/FeurJak/arduino-libraries-rust-inactive-)
+4. ⭐ Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
+5. ⭐ Starred [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid)
+6. ⭐ Starred [damo-cv/TransReID](https://github.com/damo-cv/TransReID)
+7. ⭐ Starred [kaopanboonyuen/SAIE2026](https://github.com/kaopanboonyuen/SAIE2026)
+8. ⭐ Starred [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
 <!--RECENT_ACTIVITY:end-->
 
