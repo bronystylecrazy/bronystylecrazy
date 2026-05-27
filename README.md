@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 27th, 2026, 1:11:59 PM
+Last Updated: Wednesday, May 27th, 2026, 5:33:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
-2. ⭐ Starred [FeurJak/DragonWing-rs](https://github.com/FeurJak/DragonWing-rs)
-3. ⭐ Starred [FeurJak/arduino-libraries-rust-inactive-](https://github.com/FeurJak/arduino-libraries-rust-inactive-)
-4. ⭐ Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
-5. ⭐ Starred [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid)
-6. ⭐ Starred [damo-cv/TransReID](https://github.com/damo-cv/TransReID)
-7. ⭐ Starred [kaopanboonyuen/SAIE2026](https://github.com/kaopanboonyuen/SAIE2026)
-8. ⭐ Starred [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
+1. 🤝 Became collaborator on [aarunyan/Siamsi_Artty_Co](https://github.com/aarunyan/Siamsi_Artty_Co)
+2. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
+3. ⭐ Starred [FeurJak/DragonWing-rs](https://github.com/FeurJak/DragonWing-rs)
+4. ⭐ Starred [FeurJak/arduino-libraries-rust-inactive-](https://github.com/FeurJak/arduino-libraries-rust-inactive-)
+5. ⭐ Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
+6. ⭐ Starred [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid)
+7. ⭐ Starred [damo-cv/TransReID](https://github.com/damo-cv/TransReID)
+8. ⭐ Starred [kaopanboonyuen/SAIE2026](https://github.com/kaopanboonyuen/SAIE2026)
 <!--RECENT_ACTIVITY:end-->
 
