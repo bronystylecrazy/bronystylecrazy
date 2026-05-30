@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 30th, 2026, 12:05:19 PM
+Last Updated: Saturday, May 30th, 2026, 3:00:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FlashML-org/flashlib](https://github.com/FlashML-org/flashlib)
-2. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
-3. 🤝 Became collaborator on [aarunyan/Siamsi_Artty_Co](https://github.com/aarunyan/Siamsi_Artty_Co)
-4. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
-5. ⭐ Starred [FeurJak/DragonWing-rs](https://github.com/FeurJak/DragonWing-rs)
-6. ⭐ Starred [FeurJak/arduino-libraries-rust-inactive-](https://github.com/FeurJak/arduino-libraries-rust-inactive-)
-7. ⭐ Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
-8. ⭐ Starred [JDAI-CV/fast-reid](https://github.com/JDAI-CV/fast-reid)
+1. ⭐ Starred [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+2. ⭐ Starred [FlashML-org/flashlib](https://github.com/FlashML-org/flashlib)
+3. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
+4. 🤝 Became collaborator on [aarunyan/Siamsi_Artty_Co](https://github.com/aarunyan/Siamsi_Artty_Co)
+5. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
+6. ⭐ Starred [FeurJak/DragonWing-rs](https://github.com/FeurJak/DragonWing-rs)
+7. ⭐ Starred [FeurJak/arduino-libraries-rust-inactive-](https://github.com/FeurJak/arduino-libraries-rust-inactive-)
+8. ⭐ Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
 <!--RECENT_ACTIVITY:end-->
 
