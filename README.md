@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 30th, 2026, 3:00:12 PM
+Last Updated: Saturday, May 30th, 2026, 5:20:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
-2. ⭐ Starred [FlashML-org/flashlib](https://github.com/FlashML-org/flashlib)
-3. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
-4. 🤝 Became collaborator on [aarunyan/Siamsi_Artty_Co](https://github.com/aarunyan/Siamsi_Artty_Co)
-5. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
-6. ⭐ Starred [FeurJak/DragonWing-rs](https://github.com/FeurJak/DragonWing-rs)
-7. ⭐ Starred [FeurJak/arduino-libraries-rust-inactive-](https://github.com/FeurJak/arduino-libraries-rust-inactive-)
-8. ⭐ Starred [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
+1. ⭐ Starred [knurling-rs/flip-link](https://github.com/knurling-rs/flip-link)
+2. ⭐ Starred [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+3. ⭐ Starred [FlashML-org/flashlib](https://github.com/FlashML-org/flashlib)
+4. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
+5. 🤝 Became collaborator on [aarunyan/Siamsi_Artty_Co](https://github.com/aarunyan/Siamsi_Artty_Co)
+6. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
+7. ⭐ Starred [FeurJak/DragonWing-rs](https://github.com/FeurJak/DragonWing-rs)
+8. ⭐ Starred [FeurJak/arduino-libraries-rust-inactive-](https://github.com/FeurJak/arduino-libraries-rust-inactive-)
 <!--RECENT_ACTIVITY:end-->
 
