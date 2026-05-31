@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 31st, 2026, 1:52:31 PM
+Last Updated: Sunday, May 31st, 2026, 4:43:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)
-2. ⭐ Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
-3. ⭐ Starred [knurling-rs/flip-link](https://github.com/knurling-rs/flip-link)
-4. ⭐ Starred [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
-5. ⭐ Starred [FlashML-org/flashlib](https://github.com/FlashML-org/flashlib)
-6. ⭐ Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
-7. 🤝 Became collaborator on [aarunyan/Siamsi_Artty_Co](https://github.com/aarunyan/Siamsi_Artty_Co)
-8. ⭐ Starred [hbldh/bleak](https://github.com/hbldh/bleak)
+1. ⭐ Starred [lora-rs/lora-rs](https://github.com/lora-rs/lora-rs)
+2. ⭐ Starred [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda)
+3. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+4. ⭐ Starred [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)
+5. ⭐ Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
+6. ⭐ Starred [knurling-rs/flip-link](https://github.com/knurling-rs/flip-link)
+7. ⭐ Starred [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+8. ⭐ Starred [FlashML-org/flashlib](https://github.com/FlashML-org/flashlib)
 <!--RECENT_ACTIVITY:end-->
 
