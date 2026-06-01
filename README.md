@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 1st, 2026, 11:43:22 AM
+Last Updated: Monday, June 1st, 2026, 5:12:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
-2. ⭐ Starred [lora-rs/lora-rs](https://github.com/lora-rs/lora-rs)
-3. ⭐ Starred [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda)
-4. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
-5. ⭐ Starred [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)
-6. ⭐ Starred [embassy-rs/embassy](https://github.com/embassy-rs/embassy)
-7. ⭐ Starred [knurling-rs/flip-link](https://github.com/knurling-rs/flip-link)
-8. ⭐ Starred [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+1. ⭐ Starred [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
+2. ⭐ Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+3. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)
+4. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+5. ⭐ Starred [lora-rs/lora-rs](https://github.com/lora-rs/lora-rs)
+6. ⭐ Starred [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda)
+7. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+8. ⭐ Starred [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)
 <!--RECENT_ACTIVITY:end-->
 
