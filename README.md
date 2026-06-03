@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 3rd, 2026, 7:25:13 AM
+Last Updated: Wednesday, June 3rd, 2026, 12:22:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
-2. ⭐ Starred [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
-3. ⭐ Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
-4. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)
-5. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
-6. ⭐ Starred [lora-rs/lora-rs](https://github.com/lora-rs/lora-rs)
-7. ⭐ Starred [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda)
-8. ⭐ Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+1. ⭐ Starred [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown)
+2. ⭐ Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
+3. ⭐ Starred [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
+4. ⭐ Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+5. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)
+6. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+7. ⭐ Starred [lora-rs/lora-rs](https://github.com/lora-rs/lora-rs)
+8. ⭐ Starred [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda)
 <!--RECENT_ACTIVITY:end-->
 
