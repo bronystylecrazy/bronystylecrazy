@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 11th, 2026, 2:23:28 PM
+Last Updated: Thursday, June 11th, 2026, 6:52:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-2. ⭐ Starred [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown)
-3. ⭐ Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
-4. ⭐ Starred [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
-5. ⭐ Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
-6. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)
-7. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
-8. ⭐ Starred [lora-rs/lora-rs](https://github.com/lora-rs/lora-rs)
+1. ⭐ Starred [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip)
+2. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+3. ⭐ Starred [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown)
+4. ⭐ Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
+5. ⭐ Starred [supercorp-ai/supergateway](https://github.com/supercorp-ai/supergateway)
+6. ⭐ Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+7. ⭐ Starred [snarktank/ralph](https://github.com/snarktank/ralph)
+8. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
 <!--RECENT_ACTIVITY:end-->
 
