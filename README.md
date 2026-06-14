@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 14th, 2026, 1:27:06 PM
+Last Updated: Sunday, June 14th, 2026, 5:01:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
-2. ⭐ Starred [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
-3. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
-4. ⭐ Starred [devcontainers/spec](https://github.com/devcontainers/spec)
-5. ⭐ Starred [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip)
-6. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-7. ⭐ Starred [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown)
-8. ⭐ Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
+1. ⭐ Starred [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+2. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
+3. ⭐ Starred [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
+4. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
+5. ⭐ Starred [devcontainers/spec](https://github.com/devcontainers/spec)
+6. ⭐ Starred [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip)
+7. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+8. ⭐ Starred [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown)
 <!--RECENT_ACTIVITY:end-->
 
