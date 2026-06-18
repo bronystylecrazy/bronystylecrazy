@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 18th, 2026, 8:59:01 AM
+Last Updated: Thursday, June 18th, 2026, 1:55:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train)
-2. ⭐ Starred [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
-3. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
-4. ⭐ Starred [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
-5. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
-6. ⭐ Starred [devcontainers/spec](https://github.com/devcontainers/spec)
-7. ⭐ Starred [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip)
-8. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+1. ⭐ Starred [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
+2. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+3. ⭐ Starred [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train)
+4. ⭐ Starred [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+5. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
+6. ⭐ Starred [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
+7. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
+8. ⭐ Starred [devcontainers/spec](https://github.com/devcontainers/spec)
 <!--RECENT_ACTIVITY:end-->
 
