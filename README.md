@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 21st, 2026, 10:20:45 PM
+Last Updated: Sunday, June 21st, 2026, 11:59:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)
-2. ⭐ Starred [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
-3. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-4. ⭐ Starred [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train)
-5. ⭐ Starred [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
-6. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
-7. ⭐ Starred [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
-8. ⭐ Starred [Eugeny/tabby](https://github.com/Eugeny/tabby)
+1. ⭐ Starred [efficientgo/e2e](https://github.com/efficientgo/e2e)
+2. ⭐ Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)
+3. ⭐ Starred [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
+4. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+5. ⭐ Starred [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train)
+6. ⭐ Starred [IDEA-Research/GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
+7. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
+8. ⭐ Starred [Eugeny/tabby-web](https://github.com/Eugeny/tabby-web)
 <!--RECENT_ACTIVITY:end-->
 
