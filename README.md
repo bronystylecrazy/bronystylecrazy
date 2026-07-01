@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 1st, 2026, 7:00:20 AM
+Last Updated: Wednesday, July 1st, 2026, 11:59:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-2. ⭐ Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-3. ⭐ Starred [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen)
-4. ⭐ Starred [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go)
-5. ⭐ Starred [EIT-NLP/StreamingLLM](https://github.com/EIT-NLP/StreamingLLM)
-6. ⭐ Starred [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
-7. ⭐ Starred [bronystylecrazy/gofins](https://github.com/bronystylecrazy/gofins)
-8. ⭐ Starred [efficientgo/e2e](https://github.com/efficientgo/e2e)
+1. ⭐ Starred [dmarkham/enumer](https://github.com/dmarkham/enumer)
+2. ⭐ Starred [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+3. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+4. ⭐ Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+5. ⭐ Starred [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen)
+6. ⭐ Starred [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go)
+7. ⭐ Starred [EIT-NLP/StreamingLLM](https://github.com/EIT-NLP/StreamingLLM)
+8. ⭐ Starred [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
 <!--RECENT_ACTIVITY:end-->
 
