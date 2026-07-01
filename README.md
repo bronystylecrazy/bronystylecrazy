@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 1st, 2026, 11:59:55 AM
+Last Updated: Wednesday, July 1st, 2026, 3:50:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dmarkham/enumer](https://github.com/dmarkham/enumer)
-2. ⭐ Starred [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
-3. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-4. ⭐ Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-5. ⭐ Starred [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen)
-6. ⭐ Starred [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go)
-7. ⭐ Starred [EIT-NLP/StreamingLLM](https://github.com/EIT-NLP/StreamingLLM)
-8. ⭐ Starred [mit-han-lab/streaming-vlm](https://github.com/mit-han-lab/streaming-vlm)
+1. ⭐ Starred [miekg/dns](https://github.com/miekg/dns)
+2. ⭐ Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
+3. ⭐ Starred [dmarkham/enumer](https://github.com/dmarkham/enumer)
+4. ⭐ Starred [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+5. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+6. ⭐ Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+7. ⭐ Starred [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen)
+8. ⭐ Starred [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go)
 <!--RECENT_ACTIVITY:end-->
 
