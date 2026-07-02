@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 3rd, 2026, 1:22:25 AM
+Last Updated: Friday, July 3rd, 2026, 2:58:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [miekg/dns](https://github.com/miekg/dns)
-2. ⭐ Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
-3. ⭐ Starred [dmarkham/enumer](https://github.com/dmarkham/enumer)
-4. ⭐ Starred [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
-5. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-6. ⭐ Starred [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-7. ⭐ Starred [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen)
-8. ⭐ Starred [bytecodealliance/wasmtime-go](https://github.com/bytecodealliance/wasmtime-go)
+1. ⭐ Starred [kurtbuilds/oasgen](https://github.com/kurtbuilds/oasgen)
+2. ⭐ Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)
+3. ⭐ Starred [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)
+4. ⭐ Starred [miekg/dns](https://github.com/miekg/dns)
+5. ⭐ Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
+6. ⭐ Starred [dmarkham/enumer](https://github.com/dmarkham/enumer)
+7. ⭐ Starred [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+8. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 <!--RECENT_ACTIVITY:end-->
 
