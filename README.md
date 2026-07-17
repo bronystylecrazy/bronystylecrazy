@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 18th, 2026, 3:58:52 AM
+Last Updated: Saturday, July 18th, 2026, 4:55:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google/tarpc](https://github.com/google/tarpc)
-2. ⭐ Starred [kurtbuilds/oasgen](https://github.com/kurtbuilds/oasgen)
-3. ⭐ Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)
-4. ⭐ Starred [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)
-5. ⭐ Starred [miekg/dns](https://github.com/miekg/dns)
-6. ⭐ Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
-7. ⭐ Starred [dmarkham/enumer](https://github.com/dmarkham/enumer)
-8. ⭐ Starred [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+1. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+2. ⭐ Starred [google/tarpc](https://github.com/google/tarpc)
+3. ⭐ Starred [kurtbuilds/oasgen](https://github.com/kurtbuilds/oasgen)
+4. ⭐ Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)
+5. ⭐ Starred [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)
+6. ⭐ Starred [miekg/dns](https://github.com/miekg/dns)
+7. ⭐ Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
+8. ⭐ Starred [dmarkham/enumer](https://github.com/dmarkham/enumer)
 <!--RECENT_ACTIVITY:end-->
 
