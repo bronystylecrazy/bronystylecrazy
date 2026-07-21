@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 21st, 2026, 8:56:35 AM
+Last Updated: Tuesday, July 21st, 2026, 12:17:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
-2. ⭐ Starred [google/tarpc](https://github.com/google/tarpc)
-3. ⭐ Starred [kurtbuilds/oasgen](https://github.com/kurtbuilds/oasgen)
-4. ⭐ Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)
-5. ⭐ Starred [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)
-6. ⭐ Starred [miekg/dns](https://github.com/miekg/dns)
-7. ⭐ Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
-8. ⭐ Starred [dmarkham/enumer](https://github.com/dmarkham/enumer)
+1. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+2. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+3. ⭐ Starred [google/tarpc](https://github.com/google/tarpc)
+4. ⭐ Starred [kurtbuilds/oasgen](https://github.com/kurtbuilds/oasgen)
+5. ⭐ Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)
+6. ⭐ Starred [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)
+7. ⭐ Starred [miekg/dns](https://github.com/miekg/dns)
+8. ⭐ Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
 <!--RECENT_ACTIVITY:end-->
 
