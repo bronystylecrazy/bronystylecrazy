@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 29th, 2026, 11:46:04 PM
+Last Updated: Thursday, July 30th, 2026, 1:01:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [syabro/neat-annotations](https://github.com/syabro/neat-annotations)
-2. ⭐ Starred [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
-3. ⭐ Starred [Augani/dory](https://github.com/Augani/dory)
-4. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
-5. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
-6. ⭐ Starred [google/tarpc](https://github.com/google/tarpc)
-7. ⭐ Starred [kurtbuilds/oasgen](https://github.com/kurtbuilds/oasgen)
-8. ⭐ Starred [juhaku/utoipa](https://github.com/juhaku/utoipa)
+1. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+2. ⭐ Starred [syabro/neat-annotations](https://github.com/syabro/neat-annotations)
+3. ⭐ Starred [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
+4. ⭐ Starred [Augani/dory](https://github.com/Augani/dory)
+5. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+6. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+7. ⭐ Starred [google/tarpc](https://github.com/google/tarpc)
+8. ⭐ Starred [kurtbuilds/oasgen](https://github.com/kurtbuilds/oasgen)
 <!--RECENT_ACTIVITY:end-->
 
