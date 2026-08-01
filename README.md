@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 1st, 2026, 11:51:43 PM
+Last Updated: Sunday, August 2nd, 2026, 12:54:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
-2. ⭐ Starred [uber/kraken](https://github.com/uber/kraken)
-3. ⭐ Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
-4. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
-5. ⭐ Starred [syabro/neat-annotations](https://github.com/syabro/neat-annotations)
-6. ⭐ Starred [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
-7. ⭐ Starred [Augani/dory](https://github.com/Augani/dory)
-8. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+1. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
+2. ⭐ Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
+3. ⭐ Starred [uber/kraken](https://github.com/uber/kraken)
+4. ⭐ Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
+5. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+6. ⭐ Starred [syabro/neat-annotations](https://github.com/syabro/neat-annotations)
+7. ⭐ Starred [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
+8. ⭐ Starred [Augani/dory](https://github.com/Augani/dory)
 <!--RECENT_ACTIVITY:end-->
 
