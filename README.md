@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 2nd, 2026, 12:54:11 AM
+Last Updated: Sunday, August 2nd, 2026, 1:57:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
-2. ⭐ Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
-3. ⭐ Starred [uber/kraken](https://github.com/uber/kraken)
-4. ⭐ Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
-5. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
-6. ⭐ Starred [syabro/neat-annotations](https://github.com/syabro/neat-annotations)
-7. ⭐ Starred [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
-8. ⭐ Starred [Augani/dory](https://github.com/Augani/dory)
+1. ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+2. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
+3. ⭐ Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
+4. ⭐ Starred [uber/kraken](https://github.com/uber/kraken)
+5. ⭐ Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
+6. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+7. ⭐ Starred [syabro/neat-annotations](https://github.com/syabro/neat-annotations)
+8. ⭐ Starred [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
 <!--RECENT_ACTIVITY:end-->
 
