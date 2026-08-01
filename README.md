@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 1st, 2026, 10:54:05 PM
+Last Updated: Saturday, August 1st, 2026, 11:51:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [uber/kraken](https://github.com/uber/kraken)
-2. ⭐ Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
-3. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
-4. ⭐ Starred [syabro/neat-annotations](https://github.com/syabro/neat-annotations)
-5. ⭐ Starred [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
-6. ⭐ Starred [Augani/dory](https://github.com/Augani/dory)
-7. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
-8. ⭐ Starred [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
+1. ⭐ Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
+2. ⭐ Starred [uber/kraken](https://github.com/uber/kraken)
+3. ⭐ Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
+4. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+5. ⭐ Starred [syabro/neat-annotations](https://github.com/syabro/neat-annotations)
+6. ⭐ Starred [cosmtrek/mindwalk](https://github.com/cosmtrek/mindwalk)
+7. ⭐ Starred [Augani/dory](https://github.com/Augani/dory)
+8. ⭐ Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
 <!--RECENT_ACTIVITY:end-->
 
