@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 2nd, 2026, 11:51:05 PM
+Last Updated: Monday, August 3rd, 2026, 12:54:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [project-zot/zot](https://github.com/project-zot/zot)
-2. 🔱 Forked [bronystylecrazy/greptimedb](https://github.com/bronystylecrazy/greptimedb) from [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-3. ⭐ Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-4. ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-5. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
-6. ⭐ Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
-7. ⭐ Starred [uber/kraken](https://github.com/uber/kraken)
-8. ⭐ Starred [NikolayS/PGSimCity](https://github.com/NikolayS/PGSimCity)
+1. ⭐ Starred [versity/versitygw](https://github.com/versity/versitygw)
+2. ⭐ Starred [project-zot/zot](https://github.com/project-zot/zot)
+3. 🔱 Forked [bronystylecrazy/greptimedb](https://github.com/bronystylecrazy/greptimedb) from [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+4. ⭐ Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+5. ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+6. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
+7. ⭐ Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
+8. ⭐ Starred [uber/kraken](https://github.com/uber/kraken)
 <!--RECENT_ACTIVITY:end-->
 
