@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 5th, 2026, 1:09:16 AM
+Last Updated: Wednesday, August 5th, 2026, 3:06:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [youki-dev/youki](https://github.com/youki-dev/youki)
-2. ⭐ Starred [versity/versitygw](https://github.com/versity/versitygw)
-3. ⭐ Starred [project-zot/zot](https://github.com/project-zot/zot)
-4. 🔱 Forked [bronystylecrazy/greptimedb](https://github.com/bronystylecrazy/greptimedb) from [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-5. ⭐ Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-6. ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-7. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
-8. ⭐ Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
+1. ⭐ Starred [rust-lang/rust](https://github.com/rust-lang/rust)
+2. ⭐ Starred [youki-dev/youki](https://github.com/youki-dev/youki)
+3. ⭐ Starred [versity/versitygw](https://github.com/versity/versitygw)
+4. ⭐ Starred [project-zot/zot](https://github.com/project-zot/zot)
+5. 🔱 Forked [bronystylecrazy/greptimedb](https://github.com/bronystylecrazy/greptimedb) from [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+6. ⭐ Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+7. ⭐ Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+8. ⭐ Starred [mobile-shell/mosh](https://github.com/mobile-shell/mosh)
 <!--RECENT_ACTIVITY:end-->
 
