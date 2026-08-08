@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 8th, 2026, 11:22:38 PM
+Last Updated: Sunday, August 9th, 2026, 12:00:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.2.0](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.2.0) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
-2. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-3. ⭐ Starred [rust-lang/rust](https://github.com/rust-lang/rust)
-4. ⭐ Starred [youki-dev/youki](https://github.com/youki-dev/youki)
-5. ⭐ Starred [versity/versitygw](https://github.com/versity/versitygw)
-6. ⭐ Starred [project-zot/zot](https://github.com/project-zot/zot)
-7. 🔱 Forked [bronystylecrazy/greptimedb](https://github.com/bronystylecrazy/greptimedb) from [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
-8. ⭐ Starred [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
+1. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.2.1) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
+2. ✌️ Released [v1.2.0](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.2.0) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
+3. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+4. ⭐ Starred [rust-lang/rust](https://github.com/rust-lang/rust)
+5. ⭐ Starred [youki-dev/youki](https://github.com/youki-dev/youki)
+6. ⭐ Starred [versity/versitygw](https://github.com/versity/versitygw)
+7. ⭐ Starred [project-zot/zot](https://github.com/project-zot/zot)
+8. 🔱 Forked [bronystylecrazy/greptimedb](https://github.com/bronystylecrazy/greptimedb) from [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb)
 <!--RECENT_ACTIVITY:end-->
 
