@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 10th, 2026, 11:22:46 PM
+Last Updated: Tuesday, August 11th, 2026, 12:22:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/bronystylecrazy/go-webrtp/issues/1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-2. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.2.1) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
-3. ✌️ Released [v1.2.0](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.2.0) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
-4. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-5. ⭐ Starred [rust-lang/rust](https://github.com/rust-lang/rust)
-6. ⭐ Starred [youki-dev/youki](https://github.com/youki-dev/youki)
-7. ⭐ Starred [versity/versitygw](https://github.com/versity/versitygw)
-8. ⭐ Starred [project-zot/zot](https://github.com/project-zot/zot)
+1. ✌️ Released [v1.5.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.5.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+2. ✔️ Closed issue [#1](https://github.com/bronystylecrazy/go-webrtp/issues/1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+3. ❗️ Opened issue [#1](https://github.com/bronystylecrazy/go-webrtp/issues/1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+4. ✌️ Released [v1.2.1](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.2.1) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
+5. ✌️ Released [v1.2.0](https://github.com/bronystylecrazy/go2rtc-sdk-go/releases/tag/v1.2.0) in [bronystylecrazy/go2rtc-sdk-go](https://github.com/bronystylecrazy/go2rtc-sdk-go)
+6. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+7. ⭐ Starred [rust-lang/rust](https://github.com/rust-lang/rust)
+8. ⭐ Starred [youki-dev/youki](https://github.com/youki-dev/youki)
 <!--RECENT_ACTIVITY:end-->
 
