@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 11th, 2026, 3:07:38 AM
+Last Updated: Tuesday, August 11th, 2026, 4:09:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#4](https://github.com/bronystylecrazy/go-webrtp/issues/4) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-2. ❗️ Opened issue [#5](https://github.com/bronystylecrazy/go-webrtp/issues/5) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-3. ❗️ Opened issue [#4](https://github.com/bronystylecrazy/go-webrtp/issues/4) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-4. ❗️ Opened issue [#3](https://github.com/bronystylecrazy/go-webrtp/issues/3) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-5. ❗️ Opened issue [#2](https://github.com/bronystylecrazy/go-webrtp/issues/2) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-6. ✌️ Released [v1.5.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.5.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-7. ✔️ Closed issue [#1](https://github.com/bronystylecrazy/go-webrtp/issues/1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
-8. ❗️ Opened issue [#1](https://github.com/bronystylecrazy/go-webrtp/issues/1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+1. ⭐ Starred [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+2. ✔️ Closed issue [#4](https://github.com/bronystylecrazy/go-webrtp/issues/4) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+3. ❗️ Opened issue [#5](https://github.com/bronystylecrazy/go-webrtp/issues/5) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+4. ❗️ Opened issue [#4](https://github.com/bronystylecrazy/go-webrtp/issues/4) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+5. ❗️ Opened issue [#3](https://github.com/bronystylecrazy/go-webrtp/issues/3) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+6. ❗️ Opened issue [#2](https://github.com/bronystylecrazy/go-webrtp/issues/2) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+7. ✌️ Released [v1.5.0](https://github.com/bronystylecrazy/go-webrtp/releases/tag/v1.5.0) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
+8. ✔️ Closed issue [#1](https://github.com/bronystylecrazy/go-webrtp/issues/1) in [bronystylecrazy/go-webrtp](https://github.com/bronystylecrazy/go-webrtp)
 <!--RECENT_ACTIVITY:end-->
 
