@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 5th, 2026, 2:00:58 PM
+Last Updated: Saturday, September 5th, 2026, 6:19:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [astral-sh/ty](https://github.com/astral-sh/ty)
-2. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)
-3. ⭐ Starred [pgsty/silo](https://github.com/pgsty/silo)
-4. ⭐ Starred [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
-5. ⭐ Starred [vectorize-io/pg0](https://github.com/vectorize-io/pg0)
-6. ⭐ Starred [0xGF/boneyard](https://github.com/0xGF/boneyard)
-7. ⭐ Starred [rathole-org/rathole](https://github.com/rathole-org/rathole)
-8. ⭐ Starred [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)
+1. ⭐ Starred [danielgtaylor/huma](https://github.com/danielgtaylor/huma)
+2. ⭐ Starred [astral-sh/ty](https://github.com/astral-sh/ty)
+3. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+4. ⭐ Starred [pgsty/silo](https://github.com/pgsty/silo)
+5. ⭐ Starred [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric)
+6. ⭐ Starred [vectorize-io/pg0](https://github.com/vectorize-io/pg0)
+7. ⭐ Starred [0xGF/boneyard](https://github.com/0xGF/boneyard)
+8. ⭐ Starred [rathole-org/rathole](https://github.com/rathole-org/rathole)
 <!--RECENT_ACTIVITY:end-->
 
