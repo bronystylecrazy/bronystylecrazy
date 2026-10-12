@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 12th, 2026, 2:45:53 PM
+Last Updated: Tuesday, October 13th, 2026, 12:11:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [microsoft/litebox](https://github.com/microsoft/litebox)
-2. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)
-3. ⭐ Starred [wind-c/comqtt](https://github.com/wind-c/comqtt)
-4. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
-5. ⭐ Starred [konvajs/svelte-konva](https://github.com/konvajs/svelte-konva)
-6. ⭐ Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)
-7. ⭐ Starred [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)
+1. ⭐ Starred [mesonbuild/meson](https://github.com/mesonbuild/meson)
+2. ⭐ Starred [microsoft/litebox](https://github.com/microsoft/litebox)
+3. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)
+4. ⭐ Starred [wind-c/comqtt](https://github.com/wind-c/comqtt)
+5. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+6. ⭐ Starred [konvajs/svelte-konva](https://github.com/konvajs/svelte-konva)
+7. ⭐ Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)
 8. ⭐ Starred [danielgtaylor/huma](https://github.com/danielgtaylor/huma)
 <!--RECENT_ACTIVITY:end-->
 
