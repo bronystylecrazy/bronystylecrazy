@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 13th, 2026, 11:49:40 AM
+Last Updated: Tuesday, October 13th, 2026, 7:22:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mesonbuild/meson](https://github.com/mesonbuild/meson)
-2. ⭐ Starred [microsoft/litebox](https://github.com/microsoft/litebox)
-3. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)
-4. ⭐ Starred [wind-c/comqtt](https://github.com/wind-c/comqtt)
-5. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
-6. ⭐ Starred [konvajs/svelte-konva](https://github.com/konvajs/svelte-konva)
-7. ⭐ Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)
-8. ⭐ Starred [danielgtaylor/huma](https://github.com/danielgtaylor/huma)
+1. ⭐ Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+2. ⭐ Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
+3. 🔱 Forked [bronystylecrazy/rea](https://github.com/bronystylecrazy/rea) from [morluto/rea](https://github.com/morluto/rea)
+4. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+5. ⭐ Starred [mesonbuild/meson](https://github.com/mesonbuild/meson)
+6. ⭐ Starred [microsoft/litebox](https://github.com/microsoft/litebox)
+7. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)
+8. ⭐ Starred [wind-c/comqtt](https://github.com/wind-c/comqtt)
 <!--RECENT_ACTIVITY:end-->
 
