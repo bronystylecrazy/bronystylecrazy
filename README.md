@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 16th, 2026, 3:38:14 PM
+Last Updated: Friday, October 16th, 2026, 8:39:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [storytold/photocraft](https://github.com/storytold/photocraft)
-2. ⭐ Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
-3. 🔱 Forked [bronystylecrazy/rea](https://github.com/bronystylecrazy/rea) from [morluto/rea](https://github.com/morluto/rea)
-4. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-5. ⭐ Starred [mesonbuild/meson](https://github.com/mesonbuild/meson)
-6. ⭐ Starred [microsoft/litebox](https://github.com/microsoft/litebox)
-7. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)
-8. ⭐ Starred [wind-c/comqtt](https://github.com/wind-c/comqtt)
+1. ⭐ Starred [opencv/opencv_zoo](https://github.com/opencv/opencv_zoo)
+2. ⭐ Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+3. ⭐ Starred [storytold/vectorcraft](https://github.com/storytold/vectorcraft)
+4. 🔱 Forked [bronystylecrazy/rea](https://github.com/bronystylecrazy/rea) from [morluto/rea](https://github.com/morluto/rea)
+5. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+6. ⭐ Starred [mesonbuild/meson](https://github.com/mesonbuild/meson)
+7. ⭐ Starred [microsoft/litebox](https://github.com/microsoft/litebox)
+8. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)
 <!--RECENT_ACTIVITY:end-->
 
