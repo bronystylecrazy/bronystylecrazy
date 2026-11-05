@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 5th, 2026, 7:51:52 PM
+Last Updated: Friday, November 6th, 2026, 3:25:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
-2. ⭐ Starred [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
-3. ⭐ Starred [trpc-group/trpc-go](https://github.com/trpc-group/trpc-go)
-4. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-5. ✌️ Released [v0.1.0](https://github.com/bronystylecrazy/go-hikrobot-sdk/releases/tag/v0.1.0) in [bronystylecrazy/go-hikrobot-sdk](https://github.com/bronystylecrazy/go-hikrobot-sdk)
-6. ⭐ Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
-7. ⭐ Starred [google-research/harness2](https://github.com/google-research/harness2)
-8. ⭐ Starred [opencv/opencv_zoo](https://github.com/opencv/opencv_zoo)
+1. ⭐ Starred [connectrpc/connect-query-es](https://github.com/connectrpc/connect-query-es)
+2. ⭐ Starred [lordbasex/LordOS](https://github.com/lordbasex/LordOS)
+3. ⭐ Starred [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
+4. ⭐ Starred [connectrpc/connect-go](https://github.com/connectrpc/connect-go)
+5. ⭐ Starred [trpc-group/trpc-go](https://github.com/trpc-group/trpc-go)
+6. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+7. ✌️ Released [v0.1.0](https://github.com/bronystylecrazy/go-hikrobot-sdk/releases/tag/v0.1.0) in [bronystylecrazy/go-hikrobot-sdk](https://github.com/bronystylecrazy/go-hikrobot-sdk)
+8. ⭐ Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
 <!--RECENT_ACTIVITY:end-->
 
