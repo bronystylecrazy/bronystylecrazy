@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 13th, 2026, 11:41:28 AM
+Last Updated: Friday, November 13th, 2026, 7:44:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eliasstravik/shepherdr](https://github.com/eliasstravik/shepherdr)
-2. ⭐ Starred [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
-3. ⭐ Starred [cobanov/herdrchat](https://github.com/cobanov/herdrchat)
-4. ⭐ Starred [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico)
-5. ⭐ Starred [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh)
-6. ⭐ Starred [connectrpc/connect-query-es](https://github.com/connectrpc/connect-query-es)
-7. ⭐ Starred [lordbasex/LordOS](https://github.com/lordbasex/LordOS)
-8. ⭐ Starred [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
+1. ⭐ Starred [juicedata/juicefs](https://github.com/juicedata/juicefs)
+2. ⭐ Starred [iamnbutler/gpuikit](https://github.com/iamnbutler/gpuikit)
+3. ⭐ Starred [eliasstravik/shepherdr](https://github.com/eliasstravik/shepherdr)
+4. ⭐ Starred [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
+5. ⭐ Starred [cobanov/herdrchat](https://github.com/cobanov/herdrchat)
+6. ⭐ Starred [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico)
+7. ⭐ Starred [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh)
+8. ⭐ Starred [connectrpc/connect-query-es](https://github.com/connectrpc/connect-query-es)
 <!--RECENT_ACTIVITY:end-->
 
