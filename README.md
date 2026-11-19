@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 19th, 2026, 3:22:00 PM
+Last Updated: Friday, November 20th, 2026, 12:29:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [libracoder/kiri](https://github.com/libracoder/kiri)
-2. ⭐ Starred [dev-marker/payments](https://github.com/dev-marker/payments)
-3. ⭐ Starred [juicedata/juicefs](https://github.com/juicedata/juicefs)
-4. ⭐ Starred [iamnbutler/gpuikit](https://github.com/iamnbutler/gpuikit)
-5. ⭐ Starred [eliasstravik/shepherdr](https://github.com/eliasstravik/shepherdr)
-6. ⭐ Starred [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
-7. ⭐ Starred [cobanov/herdrchat](https://github.com/cobanov/herdrchat)
-8. ⭐ Starred [eclipse-zenoh/zenoh-pico](https://github.com/eclipse-zenoh/zenoh-pico)
+1. ⭐ Starred [PacktPublishing/Modern-Computer-Architecture-and-Organization-Third-Edition](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Third-Edition)
+2. ⭐ Starred [libracoder/kiri](https://github.com/libracoder/kiri)
+3. ⭐ Starred [dev-marker/payments](https://github.com/dev-marker/payments)
+4. ⭐ Starred [juicedata/juicefs](https://github.com/juicedata/juicefs)
+5. ⭐ Starred [iamnbutler/gpuikit](https://github.com/iamnbutler/gpuikit)
+6. ⭐ Starred [eliasstravik/shepherdr](https://github.com/eliasstravik/shepherdr)
+7. ⭐ Starred [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler)
+8. ⭐ Starred [cobanov/herdrchat](https://github.com/cobanov/herdrchat)
 <!--RECENT_ACTIVITY:end-->
 
