@@ -29,18 +29,18 @@
 
 ### ✨ My GitHub Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 22nd, 2026, 9:45:18 AM
+Last Updated: Sunday, November 22nd, 2026, 5:34:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=bronystylecrazy&theme=juicyfresh&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 [![spent](https://github-readme-stats.vercel.app/api/top-langs/?username=bronystylecrazy&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)](https://github-readme-stats.vercel.app)
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bronystylecrazy/payments](https://github.com/bronystylecrazy/payments) from [dev-marker/payments](https://github.com/dev-marker/payments)
-2. ⭐ Starred [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
-3. ⭐ Starred [herdrdev/herdr-core](https://github.com/herdrdev/herdr-core)
-4. ⭐ Starred [PacktPublishing/Modern-Computer-Architecture-and-Organization-Third-Edition](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Third-Edition)
-5. ⭐ Starred [libracoder/kiri](https://github.com/libracoder/kiri)
-6. ⭐ Starred [dev-marker/payments](https://github.com/dev-marker/payments)
-7. ⭐ Starred [juicedata/juicefs](https://github.com/juicedata/juicefs)
-8. ⭐ Starred [iamnbutler/gpuikit](https://github.com/iamnbutler/gpuikit)
+1. ⭐ Starred [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+2. 🔱 Forked [bronystylecrazy/payments](https://github.com/bronystylecrazy/payments) from [dev-marker/payments](https://github.com/dev-marker/payments)
+3. ⭐ Starred [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
+4. ⭐ Starred [herdrdev/herdr-core](https://github.com/herdrdev/herdr-core)
+5. ⭐ Starred [PacktPublishing/Modern-Computer-Architecture-and-Organization-Third-Edition](https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Third-Edition)
+6. ⭐ Starred [libracoder/kiri](https://github.com/libracoder/kiri)
+7. ⭐ Starred [dev-marker/payments](https://github.com/dev-marker/payments)
+8. ⭐ Starred [juicedata/juicefs](https://github.com/juicedata/juicefs)
 <!--RECENT_ACTIVITY:end-->
 
